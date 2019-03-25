@@ -1,7 +1,7 @@
 ---
-title: Santa Fe Trail Sites
+title: UNM Campus Histories
 layout: single-col
-date: 2018-12-12
+date: 2019-03-25
 ---
 
 {% include jumbotron.html

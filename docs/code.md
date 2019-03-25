@@ -20,7 +20,7 @@ All essays must have the following metadata at the top of the page, with the val
 
 ``` markdown
 ---
-title: Blue Mills
+title: Mesa Vista Hall
 author: Fred Gibbs
 layout: single-col
 date: 2018-11-19
