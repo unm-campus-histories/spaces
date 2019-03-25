@@ -1,0 +1,6 @@
+defaults:
+  -
+    scope:
+      path: "sites"
+    values:
+      layout: "single-col"
