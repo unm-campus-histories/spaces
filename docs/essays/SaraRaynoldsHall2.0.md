@@ -1,12 +1,12 @@
 ---
-title: Sara-Raynolds-Hall
+title: sara-raynolds-hall
 author: Autumn Buckridge
 layout: single-col
 date: 2019-04-9
 ---
 
 
-# sara raynolds hall
+# Sara Raynolds Hall
 
 Here's a dummy essay that will gradually turn into a real model.
 
