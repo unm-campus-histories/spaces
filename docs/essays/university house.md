@@ -1,12 +1,12 @@
 ---
-title: Mesa-Vista-Hall
-author: Fred Gibbs
+title: University House
+author: Emily Hartshorn
 layout: single-col
-date: 2019-03-25
+date: 2019-04-10
 ---
 
 
-# Mesa Vista Hall
+# University House
 
 Here's a dummy essay that will gradually turn into a real model.
 
