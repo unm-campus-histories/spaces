@@ -16,4 +16,4 @@ In the meantime, here's a **test image**, hopefully off to the right and taking 
 class="img-right" 
 width="33%" 
 caption="University House" 
-src="docs/essays/images/UniversityHouse.jpg" %}
+src="spaces/docs/essays/images/UniversityHouse.jpg" %}
