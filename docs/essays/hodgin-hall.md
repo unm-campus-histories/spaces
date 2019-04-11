@@ -14,5 +14,5 @@ In the meantime, here's a **test image**, hopefully off to the right and taking 
 
 {% include figure.html class="img-right" width="33%" caption="hodgin-hall" src="images/hodgin-hall.jpg" %}
 
-https://github.com/unm-campus-histories/spaces/blob/master/docs/essays/images/hodgin-hall.jpg
+
 
