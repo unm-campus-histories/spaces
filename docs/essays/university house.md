@@ -14,6 +14,6 @@ In the meantime, here's a **test image**, hopefully off to the right and taking 
 
 {% include figure.html 
 class="img-right" 
-width="33%" 
+width="100%" 
 caption="University House" 
 src="spaces/docs/essays/images/UniversityHouse.jpg" %}
