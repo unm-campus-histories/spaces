@@ -1,12 +1,12 @@
 ---
-title: Mesa-Vista-Hall
-author: Fred Gibbs
+title: Johnson Center
+author: Armondo Gibbs
 layout: single-col
 date: 2019-03-25
 ---
 
 
-# Mesa Vista Hall
+# Johnson Center
 
 Here's a dummy essay that will gradually turn into a real model.
 
