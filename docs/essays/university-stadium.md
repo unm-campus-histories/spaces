@@ -10,4 +10,4 @@ date: 2019-04-18
 
 
 
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall in the 1950s" src="images/the-pit-1966" %}
+{% include figure.html class="img-right" width="33%" caption="University Stadium 1966" src="images/university-stadium-1966" %}
