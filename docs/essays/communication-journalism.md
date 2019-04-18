@@ -8,8 +8,9 @@ date: 2019-04-10
 
 # Communication and Journalism Building
 
-#### Construction
+Here's a dummy essay that will gradually turn into a real model.
 
-The journalism department was originally housed in the English department.
+In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
 
-{% include figure.html class="img-right" width="33%" caption="Communication and Journalism Building from Central Ave." src="images/communication-journalism-building2.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Communication and Journalsim Building" src="images/communication-journalism-building.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Communication and Journalism building view from Central Ave." src="images/communication-journalism-building2.jpg" %}
