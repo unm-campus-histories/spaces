@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 
-# Communication and Journalism Building
+# Communication and Journalism Building (Building 115)
 
 Here's a dummy essay that will gradually turn into a real model.
 
