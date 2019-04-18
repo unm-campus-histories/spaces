@@ -29,7 +29,7 @@ date: 2018-11-19
 {% include figure.html
   class="img-right"
   width="60%"
-  caption="The "Three People" mural, located in the Zimmerman library stairwell [Source](https://library.unm.edu/zimmerman75/images/3-people-close-up)"
+  caption="The 'Three People' mural, located in the Zimmerman library stairwell [Source](https://library.unm.edu/zimmerman75/images/3-people-close-up)"
   src="images/3peoplemural.jpg"
 %}
 

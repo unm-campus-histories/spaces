@@ -1,5 +1,5 @@
 ---
-title: "Fiesa" Sculture by Luis Jimenez 
+title: Fiesa Sculture by Luis Jimenez
 author: Jared Lucero
 layout: single-col
 date: 2019-03-25
@@ -18,5 +18,3 @@ In the meantime, here's a **test image**, hopefully off to the right and taking 
   caption="Fiesa"
   src="misc_for_libguide_076.jpg"
 %}
-
-
