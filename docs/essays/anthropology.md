@@ -15,10 +15,9 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 Year construction began, reasons for construction, John Gaw Meem makes an appearance, the significance of the building being the original SUB
 
 This is a placeholder for a paragraph about how the SUB was used or something
-
 {% include figure.html class="img-left" width="50%" caption="Three students leave the SUB. Note the bookstore sign in the right window." src="images\anth-sub-exterior.jpg" %}
 
-
+{% include figure.html class="img-left" width="33%" caption="Three students leave the SUB. Note the bookstore sign in the right window." src="images\anth-sub-exterior.jpg" %}
 ## Renovation
 Year and reasons for renovations, construction of annex and Maxwell Museum, shift to new SUB
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building." src="images\anth-with-student.jpg" %}
