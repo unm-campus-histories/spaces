@@ -8,6 +8,10 @@ date: 2019-04-10
 
 # Communication and Journalism Building
 
+#### Construction
+
 The journalism department was originally housed in the English department.
+
+{% include figure.html class="img-right" width="33%" caption="Communication and Journalism Building" src="images/communication-journalism-building.jpg" %}
 
 {% include figure.html class="img-right" width="33%" caption="Communication and Journalism Building from Central Ave." src="images/communication-journalism-building2.jpg" %}
