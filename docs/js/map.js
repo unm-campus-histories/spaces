@@ -13,10 +13,10 @@ function getMarkers(callback) {
     //var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
 
     // spring 2019 sheet
-    // var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
+     var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
 
     // limited test version
-    var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
+    //var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
 
     var markers = [];
     $('#sheetrock').sheetrock({
