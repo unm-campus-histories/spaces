@@ -1,6 +1,6 @@
 ---
-title: "Anthropology Building"
-author: "Maxine Porter"
+title: anthropology
+author: Maxine Porter
 layout: single-col
 date: 2019-04-10
 ---
