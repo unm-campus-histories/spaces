@@ -23,6 +23,6 @@ Year and reasons for renovations, construction of annex and Maxwell Museum, shif
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building." src="images\anth-with-student.jpg" %}
 
 ## Anthropology, Today
-Conclusion – how the Anthropology building functions today, what it means for understanding space/the campus
+Conclusion, how the Anthropology building functions today, what it means for understanding space/the campus
 
 
