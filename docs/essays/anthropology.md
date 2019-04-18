@@ -11,9 +11,10 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 
 ## Construction
 Year construction began, reasons for construction, John Gaw Meem makes an appearance, the significance of the building being the original SUB
-{% include figure.html class="img-right" width="33%" caption="Construction of the then-Student Union, 1936." src="images\anth-construction.jpg" %}
+{% include figure.html class="img-right" width="66%" caption="Construction of the then-Student Union, 1936." src="images\anth-construction.jpg" %}
 
-{% include figure.html class="img-left" width="33%" caption="Three students leave the SUB." src="images\anth-sub-exterior.jpg" %}
+This is a placeholder for a paragraph about how the SUB was used or something
+{% include figure.html class="img-left" width="66%" caption="Three students leave the SUB." src="images\anth-sub-exterior.jpg" %}
 
 ## Renovation
 Year and reasons for renovations, construction of annex and Maxwell Museum, shift to new SUB
