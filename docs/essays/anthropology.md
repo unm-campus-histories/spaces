@@ -26,7 +26,4 @@ Year and reasons for renovations, construction of annex and Maxwell Museum, shif
 ## Anthropology, Today
 Conclusion – how the Anthropology building functions today, what it means for understanding space/the campus
 
-{% include figure.html class="img-right" width="33%" caption="Albuquerque Progress reports on the opening of the Students Union, 1937." src="images\anth-student-union-opening.jpg" %}
-
-
 
