@@ -10,4 +10,4 @@ date: 2019-04-18
 
 
 
-{% include figure.html class="img-right" width="33%" caption="The Pit 1966" src="university-stadium-1966.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="The Pit 1966" src="university-statium-1966.jpg" %}
