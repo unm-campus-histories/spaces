@@ -10,4 +10,3 @@ date: 2019-04-18
 
 
 
-{% include figure.html class="img-right" width="33%" caption="Farris Engineering Center Architect Rendering" src="images/Farris-Engineering-Center-Architect.png" %}
