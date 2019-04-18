@@ -11,7 +11,7 @@ During the consideration of whether or not La Posada Dinning Hall would be built
 
 {% include figure.html class="img-right" width="33%" caption="After the approval of La Posadas, construction started soon after. This photo showing construction of La Posada being well underway as of September 13, 1968. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-9-13-6-construction.PNG" %}
 
-Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services.  ~Continue here~
+Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services. Ernest J. Kump decidnig that to best way to utilize the limited construction space was to  the high-rise dormatory was to...  ~Continue here~
 
 Before construcion of of La Posada Dinning Hall, Sherman Smith the recently appointed administrative vice president, revised the initial plans for for what would be La Posada Dinning Hall. Sherman Smith having increased the maximum cappacity to 1,525 people by enclosing the the centeral patio, where in the original desighn this space would have been compleatly open to the out side elements. This early desision in the history of La Posada Dinning Hall having compleatly altering the way that people would precive not only the inside of the building, but the ouside of the building. Ulitimaly reshaping the way people would interact with the space inside of La Posada Dinning Hall and reshaping perceptions of the other buildings around La Posada.
 
