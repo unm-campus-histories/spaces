@@ -12,7 +12,8 @@ function getPages(callback) {
 
     //https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit?usp=sharing#gid=0;
     var sheetURL =
-    "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0"
+    "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0"
+    //"https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit#gid=0"
     var pages = [];
     $('#sheetrock').sheetrock({
         url: sheetURL,
@@ -23,10 +24,12 @@ function getPages(callback) {
         rowTemplate: function(row) {
             //console.log(row);
             var m = row.cellsArray;
-            m.title = m[0];
-            m.description = m[2];
-            m.filename = m[3];
-            m.image = m[4];
+            // 0 is author
+            m.title = m[1];
+            // 2 is teaser for map
+            m.description = m[3];
+            m.filename = m[4];
+            m.image = m[5];
             //m.categories = m[4].split(",");
             //console.log(m.contentPages);
             pages.push(m);

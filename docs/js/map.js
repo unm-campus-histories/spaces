@@ -10,7 +10,13 @@ function getMarkers(callback) {
   console.log("starting getMarkers");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".
 
-    var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
+    //var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
+
+    // spring 2019 sheet
+    // var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
+
+    // limited test version
+    var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
 
     var markers = [];
     $('#sheetrock').sheetrock({
@@ -22,9 +28,12 @@ function getMarkers(callback) {
         rowTemplate: function(row) {
             //console.log(row);
             var m = row.cellsArray;
-            m.name = m[0];
-            m.teaser = m[1];
-            m.kmlFile = m[3]; // using essay-slug to encourage consistency
+            // author is 0
+            m.name = m[1];
+            m.teaser = m[2];
+            m.slug = m[4];
+            //m.kmlFile = m[4]; // now using essay-slug to encourage consistency
+            m.imageFile = m[5];
             m.contentPages = m[3].split(",");
             console.log(m.contentPages);
             markers.push(m);
@@ -79,35 +88,43 @@ function createPopupRows(pages) {
 }
 
 function loadMarker(i, markerData) {
-  console.log("loadMarker...");
-  var slug = markerData.kmlFile;
-  var filename = "kml/" + slug + ".kml";
+  console.log("now in loadMarker...");
+  var kmlFile = "kml/" + markerData.slug + ".kml";
+  var imageFile = "essays/images/" + markerData.imageFile;
   var geojsonFeature = {};
 
-  console.log("about to get KML file");
+  console.log("about to get KML file: " + kmlFile);
 
-  $.ajax(filename).done(function(xml) {
-    console.log("KML file loaded.");
-    geojsonFeature = toGeoJSON.kml(xml);
+  $.ajax({
+    url: kmlFile,
+    success: function(xml) {
+      console.log("KML file retrieved successfully");
+      geojsonFeature = toGeoJSON.kml(xml);
 
-    var popup = '<div class="map-popup">';
-    popup += "<h4>" + markerData.name + "</h4>";
-    popup += '<p>' + markerData.teaser + '</p>';
-    popup += '</div></a>';
+      var popupHTML = '<a href="essays/'+markerData.slug+'">';
+      popupHTML += '<div class="map-popup">';
+      popupHTML += '<img src="' + imageFile + '">';
+      popupHTML += "<h4>" + markerData.name + "</h4>";
+      popupHTML += '<p>' + markerData.teaser + '</p>';
+      popupHTML += '</div></a>';
 
-    //console.log(popup);
-    var popup = L.responsivePopup().setContent(popup);
-    featureGroup.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup, {
-    maxWidth : 560}).on('click', function(e) {
-      //console.log(e.layer.feature.properties.name);
-      //should i make the popup here?
-      $.when( createPopupRows(markerData.contentPages) ).then(function( ) {
-        console.log("createPopupRows is done."); // Alerts 200
-      });
-      //createPopupRows(markerData.contentPages, rowString);
-      console.log("moved past createPopupRows call.");
+      var popup = L.responsivePopup().setContent(popupHTML);
 
-    }));
+      featureGroup.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup, {maxWidth : 560}).on('click', function(e) {
+        console.log("click detected");
+        /*
+        $.when( createPopupRows(markerData.contentPages) ).then(function( ) {
+          console.log("createPopupRows is done."); // Alerts 200
+        });
 
+        createPopupRows(markerData.contentPages, rowString);
+        console.log("moved past createPopupRows call.");
+        */
+      }));
+    },
+    error: function(xhr, status, error){
+        var errorMessage = xhr.status + ': ' + xhr.statusText
+        console.log("KML file not found");
+    }
   }); //end ajax
 } //end loadMarker

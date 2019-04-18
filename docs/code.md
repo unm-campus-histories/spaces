@@ -8,7 +8,6 @@ date: 2017-11-02
 
 *This page provides code samples of everything you need to know. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
-
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
@@ -23,7 +22,7 @@ All essays must have the following metadata at the top of the page, with the val
 title: Mesa Vista Hall
 author: Fred Gibbs
 layout: single-col
-date: 2018-11-19
+date: 2019-03-25
 ---
 ```
 
@@ -32,7 +31,7 @@ date: 2018-11-19
 
 
 ## Footnotes
-All good historical essays (as you're writing) show what their sources are, which helps readers know that actual research underlies the essay.
+All good historical essays (as you're writing) show what their sources are, which helps readers know what actual research underlies the essay.
 
 To get a footnote to show up, there are two steps:
 
@@ -57,7 +56,7 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
 
-
+We don't need to footnote every statement, but because you paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph. But if you have a certain point you want to make from another source, please cite it directly.
 
 ---
 
@@ -140,8 +139,8 @@ To achieve the above full-width (but not jumbotron) image, use:
 It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space.
 
 {% include juxtapose.html
-image1="/images/kimo-1928.jpg"
-image2="/images/kimo-1938.jpg"
+image1="essays/images/kimo-1928.jpg"
+image2="essays/images/kimo-1938.jpg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
 
@@ -149,8 +148,8 @@ Include the change-over-time-slider, we use
 
 ```
 {%raw%}{% include juxtapose.html
-image1="essays/images/kimo-1928.jpg"
-image2="essays/images/kimo-1938.jpg"
+image1="images/kimo-1928.jpg"
+image2="images/kimo-1938.jpg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}{%endraw%}
 ```
@@ -209,6 +208,3 @@ Add the code, for that is:
 ```
 
 ---
-
-### References
-Your bibliography from your Zotero collection goes here.

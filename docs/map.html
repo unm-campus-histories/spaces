@@ -1,97 +1,102 @@
+---
+---
+
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset='utf-8' />
-  <title>Display a map</title>
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.js'></script>
-  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.49.0/mapbox-gl.css' rel='stylesheet' />
-  <style>
-    body { margin:0; padding:0; }
-    #map { position:absolute; top:0; bottom:0; width:100%; }
-    .markers {
-        background-size: cover;
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        cursor: pointer;
-        }
-   </style>
-</head>
-<body>
 
-<div id='map'></div>
+{% include header-default.html %}
+
+<body style="height:100%">
+
+{% include nav.html %}
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+  integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+  crossorigin=""/>
+
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+    crossorigin=""></script>
+
+
+
+<script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
+
+
+<script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
+<script src="{{site.baseurl}}/js/map.js"></script>
+<script src="{{site.baseurl}}/js/togeojson.js"></script>
+
+
+<div class="main" style="height:100%">
+
+<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
+<div id="sheetrock"></div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div id="mapid"></div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- /main -->
+
+
 <script>
-mapboxgl.accessToken = 'pk.eyJ1IjoiZ21jY2xlbGxhbiIsImEiOiJjaW01OGt2ZHcwMWtidTFtM2JhOGdvdWVvIn0.YBtaw0cwl4PxdbFIiJHobw';
-const map = new mapboxgl.Map({
-  container: 'map',
-  style: 'mapbox://styles/gmcclellan/cjp7gtvfn2hyk2snu0m7hbzes',
-  center: [-101.062327, 36.481559],
-  zoom: 5.0
-});
+console.log("now generating map.");
 
-map.on('load', function () {
+var map = L.map('mapid').setView([35.0839282, -106.620724], 16.7);
+var featureGroup = new L.FeatureGroup();
 
-	map.addLayer({
-      "id": "markers",
-      "type": "circle",
-      "source": {
-   		type: 'geojson',
-   		data: 'https://raw.githubusercontent.com/historic-trails/santa-fe-itinerary/master/docs/safe-places.geojson'
-   	},
-      "paint": {
-          "circle-radius": 10,
-          "circle-color": "#ff442b",
-          "circle-opacity": 0.2,
-       }
-  	})
-
-  	map.addLayer({
-      "id": "fall-2018-markers",
-      "type": "circle",
-      "source": {
-   		type: 'geojson',
-   		data: 'https://raw.githubusercontent.com/historic-trails/santa-fe-itinerary/master/docs/safe-fall-2018-url-img.geojson'
-   	},
-      "paint": {
-          "circle-radius": 10,
-          "circle-color": "#4ceef0",
-          "circle-opacity": 1,
-       }
-  	})
-});
-
-var popup = new mapboxgl.Popup({
-        closeButton: false,
-        closeOnClick: true
-    });
-
-map.on('click', 'markers', function (e) {
-	var coordinates = e.features[0].geometry.coordinates.slice();
-	var Site_Name = e.features[0].properties.Site_Name;
-
-  popup.setLngLat(e.features[0].geometry.coordinates)
-    .setHTML('<h3>' + e.features[0].properties.Site_Name + '</h3><p>' + e.features[0].properties.COUNTY + ', ' + e.features[0].properties.STATE +'</p>')
-    .setLngLat(e.features[0].geometry.coordinates)
-    .addTo(map);
-});
-
-
-map.on('mouseenter', 'fall-2018-markers', function (e) {
-	var coordinates = e.features[0].geometry.coordinates.slice();
-	var Site_Name = e.features[0].properties.site-name;
-
-  popup.setLngLat(e.features[0].geometry.coordinates)
-    .setHTML('<h3>' + '<a href=' + '"' + e.features[0].properties.url + '"' + '>' + e.features[0].properties.site_name + '</a>' + ', ' + e.features[0].properties.State + '</h3><p>' + e.features[0].properties.teaser + '</p>' )
-    .setLngLat(e.features[0].geometry.coordinates)
-    .addTo(map);
-});
 /*
-  map.on('mouseleave', 'fall-2018-markers', function() {
-          map.getCanvas().style.cursor = '';
-          popup.remove();
-  })
+
+// Default for testing
+L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox.streets',
+    accessToken: 'pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ'
+}).addTo(map);
 */
+
+
+L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
+  maxZoom: 20,
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+  id: 'mapbox.streets'
+}).addTo(map);
+
+
+$( function() {
+  getMarkers(function(markers) {
+      $.each(markers, loadMarker);
+      console.log("done looping through markers.");
+      map.addLayer(featureGroup);
+    }
+
+  );
+
+});
+</script>
+
+<!-- Menu Toggle Script -->
+<script>
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+});
 </script>
 
 </body>
