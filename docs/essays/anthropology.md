@@ -11,8 +11,6 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 
 ## Construction
 
-{% include figure.html class="img-right" width="66%" caption="Construction of the then-Student Union, 1936." src="images\anth-construction.jpg" %}
-
 Year construction began, reasons for construction, John Gaw Meem makes an appearance, the significance of the building being the original SUB
 
 This is a placeholder for a paragraph about how the SUB was used or something
