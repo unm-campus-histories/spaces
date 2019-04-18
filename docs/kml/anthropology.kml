@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>anthropology</name>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Polygon 2</name>
+      <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -106.6252029,35.0849307,0
+              -106.6246759,35.0848627,0
+              -106.624645,35.0850076,0
+              -106.6246866,35.0850119,0
+              -106.6246585,35.0851634,0
+              -106.6246276,35.0851579,0
+              -106.6246129,35.08526,0
+              -106.6245874,35.0852567,0
+              -106.6245646,35.0854432,0
+              -106.624633,35.0854531,0
+              -106.6246289,35.0854871,0
+              -106.6251386,35.0855497,0
+              -106.6251962,35.0852819,0
+              -106.6251466,35.0852742,0
+              -106.6252029,35.0849307,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
