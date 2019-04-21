@@ -8,7 +8,7 @@ date: 2019-04-20
 
 # Sara Raynolds Hall
 
-{% include figure.html class="img-left" width="75%" caption="Sara Raynolds Hall Construction, 1920" src="images/SRH_construction1.jpg" %}
+{% include figure.html class="img-left" width="100%" caption="Sara Raynolds Hall Construction, 1920" src="images/SRH_construction1.jpg" %}
 
 ## Overview 
 
@@ -18,9 +18,9 @@ Sara Raynolds Hall is a single-story Mayan Pueblo Revival building located at th
 
 Built in 1920, at a cost of $15, 720, Sara Raynolds Hall housed the Home Economics Department. Designed by Albuquerque’s first architect, Edward Buxton Christy (1860-1934) and professor Arno Leupold, it is one of a handful of buildings on campus to be on the National Register of Historical Places. Dedicated on Mother’s Day of 1920, the building was named after the mother of one of its biggest financial contributors, Joshua Raynolds, a local businessman. Try to find out more about who taught during the early years or what kinds of items or classes would have been inside. 
 
-{% include figure.html class="img-left" width="40%" caption="Early photos reveal brick construction hiding under stucco facade" src="images/SRH_construction2.jpg" %}
-{% include figure.html class="img-left" width="40%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Early photos reveal brick construction hiding under stucco facade" src="images/SRH_construction2.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
 
 ## The Depression Years
 
-{% include figure.html class="img-left" width="40%" caption="Sara Raynolds Hall received federal funding for repairs as part of the WPA budget of 1939" src="images/srh-wpa_letter.jpg" %}{% include figure.html class="img-left" width="40%" caption="Nearly $40,000 were allocated for plastering, interior decorating, heating and plumbing, and millwork" src="images/srh-wpa_approval.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Sara Raynolds Hall received federal funding for repairs as part of the WPA budget of 1939" src="images/srh-wpa_letter.jpg" %}{% include figure.html class="img-left" width="50%" caption="Nearly $40,000 were allocated for plastering, interior decorating, heating and plumbing, and millwork" src="images/srh-wpa_approval.jpg" %}
