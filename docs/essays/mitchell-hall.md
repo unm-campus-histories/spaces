@@ -19,3 +19,8 @@ In may of 1950 the board of regents approved plans and specifications for the cl
 
 ### Early Stages
 The regents elected to carry the heritage of age-old Spanish-Indian architectural influence into campus buildings and development. This influence was based on climate conditions, materials available, and the decorative influences of old Spain, Indian pueblos, and churches erected by the early missionaries. In the design of Mitchell hall, the University requested that four primary considerations be met.1) that the cost be kept to a minimum. 2) that the building be as completely functional as possible. 3) that the latest technics for fine classroom facilities and operation be incorporated. 4) that the building carries out the architectural tradition of the other campus buildings. 
+
+### The Exterior Design
+The exterior design of the building incorporates the fundamental forms reminiscent of the early building construction in the region. The exterior surfacing was a adobe colored stucco the decorative spandrels were modern concrete, they served as a structural function and are decorated with design patterns of the region. The windows were inexpensive steel sash with hopper vents to allow indirect ventilation 
+{% include figure.html class="img-right" width="33%" caption="Construction" src="images/mitchell-hall-bw-construction.jpg" %}
+
