@@ -16,13 +16,15 @@ Sara Raynolds Hall is a single-story Mayan Pueblo Revival building located at th
 
 ## Early History
 
+
 Built in 1920, at a cost of $15, 720, Sara Raynolds Hall was designed by Albuquerque’s first architect, Edward Buxton Christy (1860-1934) and professor Arno Leupold. It is one of a handful of buildings on campus to be on the National Register of Historical Places. Dedicated on Mother’s Day of 1920, the building was named after the mother of one of its biggest financial contributors, Joshua Raynolds, a local businessman. Although I could find no records of what early classes were taught here, typical Home Economics courses during this period emphasized a scientific and economic approach to childrearing, homemaking, and domestic skills. It is easy to envision Home Economics as just another institutional effort to reinforce traditional sex roles, but the history of this field is more complex and has direct ties to the increased literacy and employability of women and the suffrage movement.  
 
-{% include figure.html class="img-left" width="50%" caption="Worth writing home about: UNM postcard featuring the new Sara Raynolds Hall" src="images/SRH_postcard.jpg" %}
-{% include figure.html class="img-left" width="32%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
+{% include figure.html class="img-left" width="65%" caption="Worth writing home about: UNM postcard featuring the new Sara Raynolds Hall" src="images/SRH_postcard.jpg" %}
+{% include figure.html class="img-left" width="35%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
 
 
 ## The Depression Years
+
 
 Correspondence between UNM and the Works Progress Administration reveals the history of a restoration of the building beginning in 1939. It appears that federal government granted UNM $39, 786 for additions to and improvements upon the Home Economics building. The funds were allocated as a non-federal project of the WPA for renovations including plastering, electrical and ventilation work, plumbing and heating improvements, and millwork. Although these efforts did not change the overall plan or aesthetic of the building, evidence of WPA involvement at Sara Raynolds Hall is one more significant connection it has to classic Americana. 
 
@@ -31,7 +33,9 @@ Correspondence between UNM and the Works Progress Administration reveals the his
 
 ## Sara Raynolds Hall Shifts Use
 
+
 In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places in 1988. Today it is used for …..fill in the blank.  
 
 {% include figure.html class="img-left" width="50%" caption="Commemoration of the new Home Economics Building, 1963" src="images/srh-1960s-placard.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Commemoration of the new Home Economics Building, 1963" src="images/srh-south-facade.jpg" %}
 
