@@ -33,4 +33,4 @@ In designing the heating and ventilating system for the building. The considerat
 
 ### Size of classrooms and seating
 the size of the building. 1800 students in 40 classrooms was dictated by enrollment needs size of the classrooms and number to be accommodated in each was set by curricular requirements. There are eight 30 student rooms with fixed seats and six with loose seats for dual purpose as seminar rooms. There are four 60 student rooms with fixed seats and two 80 student rooms with fixed seats. One flat floor 100 student lecture room, two stepped seating 100 student lecture rooms. One 120 student stepped seating lecture room and two seminar rooms. 
-{% include figure.html class="img-right" width="33%" caption="Contractor bids" src="images/mitchell-hall-contractors.jpg" %}
+
