@@ -18,7 +18,7 @@ Before 1947, the study of journalism was not its own department yet, but housed 
 
 
 {% include figure.html class="img-right" width="50%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
-{% include figure.html class="img-right" width="%" caption="Bricks make up the addition that will be the annex to the Journalism Building in 1965." src="images/cj-annex-1965.jpg" %}
+{% include figure.html class="img-right" width="50%" caption="Bricks make up the addition that will be the annex to the Journalism Building in 1965." src="images/cj-annex-1965.jpg" %}
 
 #### 1963 Addition
 In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
