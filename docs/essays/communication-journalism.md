@@ -22,10 +22,14 @@ Before 1947, the study of journalism was not its own department yet, but housed 
 In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
 Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
 
-{% include figure.html class="img-right" width="50%" caption="Journalism class in undated photo." src="images/cj-classroom.jpg" %}
-#### 
-The C & J building was renovated in 2007 and in 2010 it celebrated its 60th anniversary 
 
-{% include figure.html class="img-right" width="50%" caption="Front of the C & J Building" src="images/cj-today.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Construction of annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
+{% include figure.html class="img-right" width="50%" caption="Journalism class in undated photo." src="images/cj-classroom.jpg" %}
+
+
+#### Recent Years
+The C & J building was renovated in 2007 and in 2010 it celebrated its 60th anniversary.  
+
+{% include figure.html class="img-left" width="50%" caption="Front of the C & J Building" src="images/cj-today.jpg" %}
 {% include figure.html class="img-right" width="50%" caption="View looking northeast photo by L. Johnson" src="images/cj-side.jpg" %}
 
