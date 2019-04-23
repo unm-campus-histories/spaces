@@ -23,7 +23,9 @@ Built in 1920, at a cost of $15, 720, Sara Raynolds Hall was designed by Albuque
 {% include figure.html class="img-left" width="35%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
 
 
+
 ## The Depression Years
+
 
 
 Correspondence between UNM and the Works Progress Administration reveals the history of a restoration of the building beginning in 1939. It appears that federal government granted UNM $39, 786 for additions to and improvements upon the Home Economics building. The funds were allocated as a non-federal project of the WPA for renovations including plastering, electrical and ventilation work, plumbing and heating improvements, and millwork. Although these efforts did not change the overall plan or aesthetic of the building, evidence of WPA involvement at Sara Raynolds Hall is one more significant connection it has to classic Americana. 
@@ -34,8 +36,9 @@ Correspondence between UNM and the Works Progress Administration reveals the his
 ## Sara Raynolds Hall Shifts Use
 
 
+
 In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places in 1988. Today it is used for …..fill in the blank.  
 
 {% include figure.html class="img-left" width="50%" caption="Commemoration of the new Home Economics Building, 1963" src="images/srh-1960s-placard.jpg" %}
-{% include figure.html class="img-left" width="50%" caption="Commemoration of the new Home Economics Building, 1963" src="images/srh-south-facade.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Sara Raynolds Hall today, looking south to Central Avenue" src="images/srh-south-facade.JPG" %}
 
