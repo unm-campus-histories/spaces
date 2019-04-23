@@ -30,7 +30,7 @@ MOST OF THIS TEXT IS NOT MINE, SOOO JUST IMAGINE QUOTES AROUND THE WHOLE THING R
   class="img-right"
   width="60%"
   caption="The 'Three People' mural, located in the Zimmerman library stairwell [Source](https://library.unm.edu/zimmerman75/images/3-people-close-up)"
-  src="images/peoplemural.jpg"
+  src="images/3peoplemural.jpg"
 %}
 
 Located in the West Wing in what was once the main lobby, Kenneth Adams' Three Peoples Murals were completed in 1939, shortly after the opening of the library. Adams, the last artist to join the Taos Society of Artists, came to the University as Artist in Residence through a grant from the Carnegie Corporation. His assignment was to teach painting in the Department of Fine Arts and to paint a series of murals in the new library. The rear wall of the main lobby, today's Grand Salon, included a central opening for the service desk flanked by four large niches crowned with corbeled wooden frames. The lower part of the niches was occupied by the card catalog, leaving the upper areas for four murals.
