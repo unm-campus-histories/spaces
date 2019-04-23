@@ -22,7 +22,6 @@ Built in 1920, at a cost of $15, 720, Sara Raynolds Hall was designed by Albuque
 {% include figure.html class="img-left" width="58%" caption="Worth writing home about: UNM postcard featuring the new Sara Raynolds Hall" src="images/SRH_postcard.jpg" %}
 {% include figure.html class="img-left" width="38%" caption="Contractor EJ Marchant's winning bid for construction: a whopping $15,720" src="images/srh-ej_merchant_letter.jpg" %}
 
-<hr>
 
 ## The Depression Years
 
@@ -30,7 +29,7 @@ Correspondence between UNM and [The Works Progress Administration](https://www.p
 
 {% include figure.html class="img-left" width="48%" caption="Sara Raynolds Hall received federal funding for repairs as part of the WPA budget of 1939" src="images/srh-wpa_letter.jpg" %}{% include figure.html class="img-left" width="48%" caption="Nearly $40,000 were allocated for plastering, interior decorating, heating and plumbing, and millwork" src="images/srh-wpa_approval.jpg" %}
 
-<hr>
+
 
 ## Sara Raynolds Hall Shifts Use
 
