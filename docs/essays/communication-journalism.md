@@ -21,13 +21,8 @@ Before 1947, the study of journalism was not its own department yet, but housed 
 {% include figure.html class="img-left" width="43%" caption="Before the 1963 reconstruction" src="images/cj-construction-1961.jpg" %}
 #### 1963 Addition
 In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The journalism building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
-
-
-
-{% include figure.html class="img-right" width="50%" caption="Journalism class in undated photo." src="images/cj-classroom.jpg" %}
-
 Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
 
-
+{% include figure.html class="img-right" width="50%" caption="Journalism class in undated photo." src="images/cj-classroom.jpg" %}
 {% include figure.html class="img-right" width="43%" caption="View looking northeast photo by L. Johnson" src="images/cj-side.jpg" %}
 
