@@ -35,7 +35,7 @@ Correspondence between UNM and [The Works Progress Administration](https://www.p
 
 
 
-In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places in 1988. Today it is used for …..fill in the blank.  
+In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places and the New Mexico Register of Cultural Properties in 1988. Today it is used for …..fill in the blank.  
 
 {% include figure.html class="img-left" width="48%" caption="Commemoration of the new Home Economics Building, 1963. A time capsule was inserted behind this placard as part of the construction of the new Education Complex." src="images/srh-1960s-placard.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Sara Raynolds Hall today, looking north from Central Avenue through the Ponderosa Pines of Parson's Grove" src="images/srh-south-facade.JPG" %}
