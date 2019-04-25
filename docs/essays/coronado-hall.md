@@ -16,7 +16,7 @@ Final plans for the dormitory were submitted in the fall of 1958 along with the 
 
 ### Artwork
 Like the other buildings on the campus Coronado was built in the Pueblo Revival style and with its construction a mural commissioned in the lobby of the new building.
-{% include figure.html class="img-left" width="20" caption="Artist Guillermo McDonald Juardo stands in front of his *The Spirit of Man* mural in the Coronado lobby." src="images/coronado-mural.jpg" %}
+{% include figure.html class="img-left" width="33%" caption="Artist Guillermo McDonald Juardo stands in front of his *The Spirit of Man* mural in the Coronado lobby." src="images/coronado-mural.jpg" %}
 The mural was titled, *The Spirit of Man* and was painted by the Peruvian artist Guillermo McDonald Juardo who also studied in the Fine Arts college of the University of New Mexico. Like *The Three Peoples Mural* in Zimmerman library the mural depicts the story of the peoples of the New World; the American, the Indian, and the Spaniard. A depiction showing three horses representing the three groups of peoples with the American culture trying to merge the three different cultures into the state of New Mexico.
 
 ### Rumors
