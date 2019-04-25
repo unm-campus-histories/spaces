@@ -1,0 +1,46 @@
+<div id="header">
+        <div class="container">
+          <a href="/index.html">
+            <h1>UNM Spatial History</h1>
+            <h3>{{page.subtitle}}</h3>
+          </a>
+        </div>
+      </div>
+      <div id="hero">
+      </div>
+      <div id="nav">
+        <div class="container">
+          <div class="navbar navbar-top" id="horiz-nav">
+            <nav class="navbar-collapse collapse" id="horz-nav" role="navigation">
+              <ul class="nav navbar-nav" role="menubar">
+                {% if page.url == "/" %}
+                    <li><a class="active" href="#">Home</a></li>
+                {% else %}
+                    <li><a href="/">Home</a></li>
+                {% endif %}
+                {% if page.url == "/directory.html" %}
+                    <li ><a class="active"  href="#">Directory</a></li>
+                {% else %}
+                    <li><a href="/directory">Directory</a></li>
+                {% endif %}
+                {% if page.url == "/map.html" %}
+                    <li><a class="active"  href="#">Map</a></li>
+                {% else %}
+                    <li><a href="/map">Map</a></li>
+                {% endif %}
+                {% if page.url == "/credits.html" %}
+                    <li><a class="active" href="#">Credits</a></li>
+                {% else %}
+                    <li><a href="../credits">Credits</a></li>
+                {% endif %}
+                {% if page.url == "/code.html" %}
+                    <li><a class="active" href="#">Code Samples</a></li>
+                {% else %}
+                    <li><a href="../code">Code Samples</a></li>
+                {% endif %}
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>

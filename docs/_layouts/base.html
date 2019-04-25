@@ -3,23 +3,52 @@
 
 {% include header-default.html %}
 
-<body>
+<body id="home">
+  <!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQT2MB"
+          height="0" width="0" style="display:none;visibility:hidden">
+  </iframe>
+</noscript>
+<script>(function(w,d,s,l,i){
+    w[l]=w[l]||[];
+    w[l].push({
+      'gtm.start':
+      new Date().getTime(),event:'gtm.js'}
+             );
+    var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;
+    j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  }
+        )(window,document,'script','dataLayer','GTM-WQT2MB');
+</script>
+<!-- End Google Tag Manager -->
 
-{% include nav.html %}
+{% include unm-nav.html %}
 
-<div class="main">
-  {{ content }}
+{% include site-nav.html %}
+
+
+<div id="upper"><div class="container"><!--UPPER--></div></div><div id="breadcrumbs"><div class="container"></div></div>
+
+<div id="main">
+  <div class="container layout" id="c">
+    <div class="row">
+      <div id="primary">
+        {{ content }}
+      </div>
+      <div id="secondary"></div>
+      <div id="tertiary"></div>
+    </div>
+  </div>
 </div> <!-- /main -->
 
-{% include bottom-js.html %}
+{% include footer-unm.html %}
 
-<!-- Menu Toggle Script -->
-<script>
-$("#menu-toggle").click(function(e) {
-    e.preventDefault();
-    $("#wrapper").toggleClass("toggled");
-});
-</script>
+{% include bottom-js.html %}
 
 </body>
 </html>

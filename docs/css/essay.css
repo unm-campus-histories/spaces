@@ -93,11 +93,6 @@ a {
   border-bottom: 2px dotted #87a7be;
 }
 
-a:visited {
- color: #44136c;
- border-bottom: 2px dotted #956cb7;
-}
-
 a:hover {
   text-decoration:none;
 }

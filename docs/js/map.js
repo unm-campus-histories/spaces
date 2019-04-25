@@ -6,8 +6,8 @@
  */
 
 function getMarkers(callback) {
-  console.log($('#sheetrock').html());
-  console.log("starting getMarkers");
+  //console.log($('#sheetrock').html());
+  console.log("now in getMarkers");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".
 
     //var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
@@ -16,7 +16,8 @@ function getMarkers(callback) {
      var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
 
     // limited test version
-    //var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
+    // var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
+    console.log("using test data");
 
     var markers = [];
     $('#sheetrock').sheetrock({
@@ -32,12 +33,14 @@ function getMarkers(callback) {
             m.name = m[1];
             m.teaser = m[2];
             m.slug = m[4];
+            console.log("found " + m.slug + "in sheet.");
             //m.kmlFile = m[4]; // now using essay-slug to encourage consistency
             m.imageFile = m[5];
-            m.contentPages = m[3].split(",");
-            console.log(m.contentPages);
+            m.type = m[6];
+            m.startDate = m[7];
+            m.endDate = m[8];
             markers.push(m);
-            console.log("Row " + row.num + " is OK.");
+            //console.log("Row " + row.num + " is OK.");
             return $('<span></span>'); // appease the sheetrock table handler
         },
         callback: function (error, options, response) {
@@ -50,56 +53,29 @@ function getMarkers(callback) {
     });
 }
 
-function createPopupRows(pages) {
-
-  //loop through supplied slugs to retrieve page title and subtitle
-  console.log("about to begin page loop.");
-
-  $.each(pages, function(i,val) {
-    var filename = 'essays/' + val + '.html';
-    console.log("processing " + filename);
-
-    var $div = $('<div>');
-    var temp = i;
-
-    // format for spreadsheet (and lesson on separators)
-    // title;blurb;link|title;blurb;link|etc
-
-    $div.load(filename + '', function($row){
-      console.log("finished loading page content.");
-      console.log("index at callback" + temp);
-      var title = $(this).find("h1:first").text();
-      // try to get from jumbotron; if blank use h2
-      var subtitle = $(this).find("#page-subtitle").text();
-      if (!subtitle) subtitle = $(this).find("h2:first").text();
-      var image = $(this).find("img:first").attr('src');
-      console.log(image);
-      image = image.replace("images/", "essays/images/"); //  use thumbs path instead
-      var rowString = '<a href='+filename+'><div class="popup-row">';
-      rowString += '<img src="' + image + '">';
-      rowString += '<h4>' + title + '</h4>';
-      rowString += '<p>' + subtitle + '</p>';
-      rowString += '<div style="clear:both"></div></div></a>';
-      console.log("just made row: " + rowString);
-      console.log($('.map-popup').html());
-      $('.map-popup').append(rowString);
-    });
-  }); // end each
-}
-
 function loadMarker(i, markerData) {
   console.log("now in loadMarker...");
   var kmlFile = "kml/" + markerData.slug + ".kml";
   var imageFile = "essays/images/" + markerData.imageFile;
-  var geojsonFeature = {};
+  var outlines = [];
+  var outline = {};
 
-  console.log("about to get KML file: " + kmlFile);
+  //console.log("about to get KML file: " + kmlFile);
 
   $.ajax({
     url: kmlFile,
     success: function(xml) {
-      console.log("KML file retrieved successfully");
-      geojsonFeature = toGeoJSON.kml(xml);
+      //console.log("KML file retrieved successfully");
+      outline = toGeoJSON.kml(xml);
+      console.log(outline);
+      if (!markerData.endDate) {
+        outline.features[0].properties.extant = true;
+      } else {
+        outline.features[0].properties.extant = false;
+      }
+      //console.log(outline);
+
+      outlines.push(outline);
 
       var popupHTML = '<a href="essays/'+markerData.slug+'">';
       popupHTML += '<div class="map-popup">';
@@ -110,21 +86,59 @@ function loadMarker(i, markerData) {
 
       var popup = L.responsivePopup().setContent(popupHTML);
 
-      featureGroup.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup, {maxWidth : 560}).on('click', function(e) {
-        console.log("click detected");
-        /*
-        $.when( createPopupRows(markerData.contentPages) ).then(function( ) {
-          console.log("createPopupRows is done."); // Alerts 200
+      // add to either current or ghost layer
+/*
+      if (!markerData.endDate) {
+        //console.log("found current building");
+        var outlineLayer = L.geoJSON(outline,{style: myStyle}).bindPopup(popup, {maxWidth : 560}).on('click', function(e) {
+          //console.log("click detected");
         });
 
-        createPopupRows(markerData.contentPages, rowString);
-        console.log("moved past createPopupRows call.");
-        */
-      }));
-    },
+        //auto pop-ups for mousing over footprint
+        outlineLayer.on('mouseover', function (e) {
+          this.openPopup();
+        });
+        outlineLayer.on('mouseout', function (e) {
+          this.closePopup();
+        });
+
+
+        //currentGroup.addLayer(outlineLayer);
+      }
+      else {
+        //console.log("found ghost building");
+        //ghostGroup.addLayer(L.geoJSON(outline).bindPopup(popup, {maxWidth : 560}));
+      }
+*/
+      // add to appropriate type/use layer
+      if (!markerData.type) {
+        markerData.type = "unknown";
+      }
+      else {
+        markerData.type = markerData.type.toLowerCase();
+      }
+
+      console.log("markerData type set: " + markerData.type);
+      console.log("ALLGROUPS");
+      console.log(allGroups);
+
+      var outlineLayer = L.geoJSON(outline,{style:allGroups[markerData.type].style}).bindPopup(popup, {maxWidth : "50%"});
+
+      //auto pop-ups for mousing over footprint
+      outlineLayer.on('mouseover', function (e) {
+        this.openPopup();
+      });
+      outlineLayer.on('mouseout', function (e) {
+        this.closePopup();
+      });
+
+      allGroups[markerData.type].group.addLayer(outlineLayer);
+
+
+    }, // end success function
     error: function(xhr, status, error){
-        var errorMessage = xhr.status + ': ' + xhr.statusText
-        console.log("KML file not found");
+        var errorMessage = xhr.status + ': ' + xhr.statusText;
+        //console.log("KML file not found");
     }
   }); //end ajax
 } //end loadMarker
