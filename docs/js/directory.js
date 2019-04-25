@@ -6,6 +6,7 @@
  */
 
 function getPages(callback) {
+
   console.log($('#sheetrock').html());
   console.log("starting getPages");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".

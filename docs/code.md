@@ -1,16 +1,18 @@
 ---
+title: Code Samples
 layout: single-col
-title: Sample Essay
-date: 2017-11-02
+date: 2019-04-23
 ---
 
 # Code Samples
 
-*This page provides code samples of everything you need to know. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
+*This page provides all the kinds of code snippets you might need. The gray boxes should show you exactly what code you need to use; copy and paste it into your own site pages and adjust the attributes as you need to.*
 
 **• In all of the below examples, make sure you take extreme care with your quotation marks and other coding symbols!**
 
 **• DO NOT use double quotation marks `"` in your titles or captions. Single quotation marks `'` are fine.**
+
+**• Remember to use the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for Markdown syntax issues. And you can always double experiment with [Dillinger](http://dillinger.io).**
 
 ---
 
@@ -26,10 +28,121 @@ date: 2019-03-25
 ---
 ```
 
+---
+
+## Images
+There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
+
+
+### Standard Usage
+
+{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" src="essays/images/default.jpg" %}
+
+Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
+
+To embed the image above, we use:
+```
+{%raw%}{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="Mesa Vista Hall"
+  src="images/default.jpg"
+%}{%endraw%}
+```
 
 ---
 
+### Use whatever width you want
+You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
 
+### Half-width
+{% include figure.html class="img-left" width="50%" src="essays/images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
+
+---
+
+To achieve the above half-width image, use:
+```
+{%raw%}{% include figure.html
+class="img-left"
+width="50%"
+caption="Obviously we need a 50% image somewhere."
+src="images/centennial-hotel.jpg"
+%}{%endraw%}
+```
+---
+
+### Side by side
+{% include figure.html class="img-left" width="48%" src="essays/images/centennial-hotel.jpg" caption="Here's an image on the left."%}
+
+{% include figure.html class="img-left" width="48%" src="essays/images/centennial-hotel.jpg" caption="Here's an image on the right."%}
+
+
+To achieve two images side by side use (note the 48% width for each):
+```
+{%raw%}
+{% include figure.html
+class="img-left"
+width="48%"
+caption="Here's an image on the left."
+src="images/centennial-hotel.jpg"
+%}
+
+{% include figure.html
+class="img-left"
+width="48%"
+caption="Here's an image on the right."
+src="images/centennial-hotel.jpg"
+%}
+
+{%endraw%}
+```
+
+---
+
+### Full-width
+
+{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="essays/images/centennial-hotel.jpg" %}
+
+
+To achieve the above full-width (but not jumbotron) image, use:
+{%raw%}
+```
+{% include figure.html
+  class="img-center"
+  width="100%"
+  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
+  src="essays/images/centennial-hotel.jpg" %}
+```
+{%endraw%}
+
+---
+
+### Juxtapose
+It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space.
+
+{% include juxtapose.html
+image1="essays/images/kimo-1928.jpg"
+image2="essays/images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
+%}
+
+<script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+<link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+Include the change-over-time-slider, we use
+
+```
+{%raw%}{% include juxtapose.html
+image1="images/kimo-1928.jpg"
+image2="images/kimo-1938.jpg"
+caption="These sliders are way more effective the more closely you line up the before and after images."
+%}{%endraw%}
+```
+
+---
 ## Footnotes
 All good historical essays (as you're writing) show what their sources are, which helps readers know what actual research underlies the essay.
 
@@ -56,109 +169,25 @@ Here's a sample sentence with a footnote at the end.[^source] Here is yet anothe
 [^source]: Your footnote text
 [^another-source]: Text for another footnote.
 
-We don't need to footnote every statement, but because you paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph. But if you have a certain point you want to make from another source, please cite it directly.
+We don't need to footnote every statement, and because you paragraphs should be on the same topic, you can simply use a footnote reference for each paragraph if everything in it comes from the same source. But if you have a certain point you want to make from another source, please cite it directly. Cite as precisely as you can. For books, you need a page number or range, and archival sources should be indicated with collection title, box, folder, etc, as appropriate. Make sure someone else can find what you have cited!
+
+
+### Footnotes on captions
+A good place for image credits is in our "footnotes". To put your image credit in the citation popup, just use the footnote code at the end of your blockquote.
+
+> Here is my quote from a historical source that people would find interesting.[^mysource]
+
+[^mysource]: Some trustworthy reference
+
+
+Add the code, for that is:
+```
+> Here is my quote from a historical source that people would find interesting.[^mysource]
+
+[^mysource]: Some trustworthy reference
+```
 
 ---
-
-
-## Images
-There is one basic way we will embed images in our essay files. Note that it is totally different from how you learned to do them in Markdown itself. This is because if we want to maintain consistency between images, like how the captions appear, we have to make sure we display all images exactly the same way.
-
-
-### Standard Usage
-
-{% include figure.html class="img-right" width="33%" caption="Mesa Vista Hall" src="essays/images/default.jpg" %}
-
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
-
-
----
-
-
-To embed the image above, we use:
-```
-{%raw%}{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Mesa Vista Hall"
-  src="images/default.jpg"
-%}{%endraw%}
-```
-
-### Use whatever width you want
-You can alter the width of the image **as a percentage of our standard page width**. You can have them appear on the left, right, or center of the page.
-
-
-{% include figure.html class="img-left" width="50%" src="essays/images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere."%}
-
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
-
-
-
----
-
-
-To achieve the above half-width image, use:
-```
-{%raw%}{% include figure.html
-class="img-left"
-width="50%"
-caption="Obviously we need a 50% image somewhere."
-src="images/centennial-hotel.jpg"
-%}{%endraw%}
-```
-
-
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
-
-{% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="essays/images/centennial-hotel.jpg" %}
-
-
----
-
-
-To achieve the above full-width (but not jumbotron) image, use:
-{%raw%}
-```
-{% include figure.html
-  class="img-center"
-  width="100%"
-  caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."
-  src="essays/images/centennial-hotel.jpg" %}
-```
-{%endraw%}
-
-
-
----
-
-
-### Juxtapose
-It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space.
-
-{% include juxtapose.html
-image1="essays/images/kimo-1928.jpg"
-image2="essays/images/kimo-1938.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
-%}
-
-Include the change-over-time-slider, we use
-
-```
-{%raw%}{% include juxtapose.html
-image1="images/kimo-1928.jpg"
-image2="images/kimo-1938.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
-%}{%endraw%}
-```
-
-
-
----
-
-
 
 ## Pull Quotes
 
@@ -181,6 +210,8 @@ To place a pull quote as above, we use:
   %}{%endraw%}
 ```
 
+---
+
 ### Full-width quotes
 If you are quoting from a historical source, you might want to say more than can fit in a normal pull quote format. For those cases, you can use a markdown blockquote to highlight a particularly juicy quotation.
 
@@ -190,21 +221,3 @@ To achieve the above full width pull quote, just start your quote with a greater
 ```
 > Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 ```
-
-
-### Footnotes on captions
-A good place for image credits is in our "footnotes". To put your image credit in the citation popup, just use the footnote code at the end of your blockquote.
-
-> Here is my quote from a historical source that people would find interesting.[^mysource]
-
-[^mysource]: Some trustworthy reference
-
-
-Add the code, for that is:
-```
-> Here is my quote from a historical source that people would find interesting.[^mysource]
-
-[^mysource]: Some trustworthy reference
-```
-
----

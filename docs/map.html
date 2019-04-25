@@ -8,7 +8,8 @@
 
 <body style="height:100%">
 
-{% include nav.html %}
+{% include unm-nav.html %}
+{% include site-nav.html %}
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
@@ -30,11 +31,13 @@
 <script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
 
+<link href="{{site.baseurl}}/css/main.css" rel="stylesheet">
+<link href="{{site.baseurl}}/css/map.css" rel="stylesheet">
+
 
 <script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
 <script src="{{site.baseurl}}/js/map.js"></script>
 <script src="{{site.baseurl}}/js/togeojson.js"></script>
-
 
 <div class="main" style="height:100%">
 
@@ -44,6 +47,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col">
+      <nav id="menu"></nav>
       <div id="mapid"></div>
     </div>
   </div>
@@ -55,11 +59,56 @@
 <script>
 console.log("now generating map.");
 
-var map = L.map('mapid').setView([35.0839282, -106.620724], 16.7);
-var featureGroup = new L.FeatureGroup();
+var map = L.map('mapid').setView([35.0839282, -106.620724], 16);
+
+var allGroups = {};
+
+allGroups["offices"] =
+  {"group": new L.FeatureGroup(),
+    "style": {
+      "color": "#ff0000",
+      "weight": 2,
+      "opacity": 0.65
+    }
+  };
+
+  allGroups["dorm"] =
+    {"group": new L.FeatureGroup(),
+      "style": {
+        "color": "#00ff00",
+        "weight": 2,
+        "opacity": 0.65
+      }
+    };
+
+  allGroups["admin"] =
+      {"group": new L.FeatureGroup(),
+        "style": {
+          "color": "#0000ff",
+          "weight": 2,
+          "opacity": 0.65
+        }
+      };
+
+      allGroups["unknown"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#666666",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
+
+var groupNames = [];
+for (var key in allGroups) {
+  groupNames.push(key);
+}
+
+//var ghostGroup = new L.FeatureGroup();
+//var currentGroup = new L.FeatureGroup();
 
 /*
-
 // Default for testing
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -68,7 +117,6 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     accessToken: 'pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ'
 }).addTo(map);
 */
-
 
 L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
   maxZoom: 20,
@@ -80,23 +128,98 @@ L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/
 
 
 $( function() {
+  console.log("calling getMarkers.");
+
   getMarkers(function(markers) {
-      $.each(markers, loadMarker);
-      console.log("done looping through markers.");
-      map.addLayer(featureGroup);
+    console.log("done loading data. now in callback and about to display markers");
+    // all data loaded. could sort into layers here and loop through each set
+
+    // loop through rows, load KML files, and bind popup.
+    $.each(markers, loadMarker);
+
+    var buildingGroupLayers = {};
+
+    for (var i = 0; i < groupNames.length; i++) {
+      var currentName = groupNames[i];
+      var layerSwatch = '';
+      console.log("setting up " + currentName);
+      console.log("color:" + allGroups[currentName].style.color);
+
+      layerSwatch = '<div class="color-box" style="background-color: '+ allGroups[currentName].style.color + ';"></div>';
+      buildingGroupLayers[layerSwatch + currentName] = allGroups[currentName].group;
+      //buildingGroupLayers[currentName] = allGroups[currentName].group;
+      map.addLayer(allGroups[currentName].group);
     }
 
-  );
+    console.log(buildingGroupLayers);
 
-});
-</script>
+    var mycontrol = L.control.layers(null,buildingGroupLayers).addTo(map);
 
-<!-- Menu Toggle Script -->
-<script>
-$("#menu-toggle").click(function(e) {
-    e.preventDefault();
-    $("#wrapper").toggleClass("toggled");
-});
+/* tabling filter by current/past buildings
+    currentGroup.on('add', function(event) {
+          //console.log(event);
+         if(event.layer == allGroups["offices"].group || event.layer == allGroups["admin"].group || event.layer == allGroups["dorm"].group ) {
+             console.log("use group added");
+             // check if filtering necessary
+             if (map.hasLayer(currentGroup)) {
+                event.layer.eachLayer(function (layer) {
+                  layer.eachLayer(function (layer) {
+                    console.log(layer.feature.properties.name + " is extant?" + layer.feature.properties.extant);
+                    if (!layer.feature.properties.extant) {
+                      layer.setStyle({fillOpacity : 0, stroke:false});
+                    }
+                    else {
+                      layer.setStyle({fillOpacity : .6, stroke:true});
+                    }
+                  });
+                });
+             }
+             if (map.hasLayer(ghostGroup)) {
+                event.layer.eachLayer(function (layer) {
+                  layer.eachLayer(function (layer) {
+                    console.log(layer.feature.properties.name + " is extant?" + layer.feature.properties.extant);
+                    if (layer.feature.properties.extant) {
+                      layer.setStyle({fillOpacity : 0, stroke:false});
+                    }
+                    else {
+                      layer.setStyle({fillOpacity : .6, stroke:true});
+                    }
+                  });
+                });
+             }
+             else { //don't display anything
+               map.removeLayer(event.layer);
+             }
+         }
+
+        else { // current or ghost group added
+          console.log("non/extant group added");
+
+          // find groups currently selected
+          // loop through known list and run hasLayer to make list of selected groups
+          var checkedGroups = [];
+
+          for (var i = 0; i < groupNames.length; i++) {
+            console.log("checking groupNames");
+            if (map.hasLayer(allGroups[groupNames[i]].group)) {
+              console.log("found checked: " + groupNames[i]);
+              checkedGroups.push(allGroups[groupNames[i]].group);
+            }
+          }
+
+          // loop through selected list and set opacity to one
+          for (var i = 0; i < checkedGroups.length; i++) {
+            console.log("about to add " + checkedGroups[i]);
+            map.addLayer(checkedGroups[i]);
+          }
+
+        } // end current or ghost clicked
+
+    });
+    */
+  });
+
+}); // end autostart function after page load.
 </script>
 
 </body>
