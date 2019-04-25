@@ -21,22 +21,22 @@
                 {% if page.url == "/directory.html" %}
                     <li ><a class="active"  href="#">Directory</a></li>
                 {% else %}
-                    <li><a href="/directory">Directory</a></li>
+                    <li><a href="{{site.baseurl}}/directory">Directory</a></li>
                 {% endif %}
                 {% if page.url == "/map.html" %}
                     <li><a class="active"  href="#">Map</a></li>
                 {% else %}
-                    <li><a href="/map">Map</a></li>
+                    <li><a href="{{site.baseurl}}/map">Map</a></li>
                 {% endif %}
                 {% if page.url == "/credits.html" %}
                     <li><a class="active" href="#">Credits</a></li>
                 {% else %}
-                    <li><a href="../credits">Credits</a></li>
+                    <li><a href="{{site.baseurl}}/credits">Credits</a></li>
                 {% endif %}
                 {% if page.url == "/code.html" %}
                     <li><a class="active" href="#">Code Samples</a></li>
                 {% else %}
-                    <li><a href="../code">Code Samples</a></li>
+                    <li><a href="{{site.baseurl}}code">Code Samples</a></li>
                 {% endif %}
 
             </ul>
