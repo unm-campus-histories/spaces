@@ -66,7 +66,7 @@ var allGroups = {};
 allGroups["offices"] =
   {"group": new L.FeatureGroup(),
     "style": {
-      "color": "#ff0000",
+      "color": "#ffc600",
       "weight": 2,
       "opacity": 0.65
     }
@@ -75,25 +75,52 @@ allGroups["offices"] =
   allGroups["dorm"] =
     {"group": new L.FeatureGroup(),
       "style": {
-        "color": "#00ff00",
+        "color": "#ed8b00",
         "weight": 2,
         "opacity": 0.65
       }
     };
 
-  allGroups["admin"] =
+    allGroups["admin"] =
+    {"group": new L.FeatureGroup(),
+    "style": {
+      "color": "#c05131",
+      "weight": 2,
+      "opacity": 0.65
+    }
+    };
+
+    allGroups["nature"] =
       {"group": new L.FeatureGroup(),
         "style": {
-          "color": "#0000ff",
+          "color": "#a8aa19",
           "weight": 2,
           "opacity": 0.65
         }
       };
 
+    allGroups["art"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#007a86",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
+    allGroups["activity"] =
+        {"group": new L.FeatureGroup(),
+          "style": {
+            "color": "#8a387c",
+            "weight": 2,
+            "opacity": 0.65
+          }
+        };
+
       allGroups["unknown"] =
         {"group": new L.FeatureGroup(),
           "style": {
-            "color": "#666666",
+            "color": "#d6a461",
             "weight": 2,
             "opacity": 0.65
           }
