@@ -21,9 +21,10 @@ Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a 
 
 {% include figure.html class="img-left" width="70%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
 
-## Renovation
-Year and reasons for renovations, construction of annex and Maxwell Museum, shift to new SUB
-A number of renovations occurred in the decades after the Anthropology building’s original construction, adding offices and space for the Maxwell Museum, but the most significant changes came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the ballroom acoustics and large classrooms proved almost unusable for lecturers, which were further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult for film classes.[C] Professors across departments complained about these issues, and instructors from the Psychology and Speech Departments would ask to be scheduled in other buildings just to avoid this lecture hall.[C] //
+## Renovations
+A number of renovations occurred in the decades after the Anthropology building’s original construction, including the addition of offices and space for the Maxwell Museum of Anthropology, but the most significant changes came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the ballroom acoustics and large classrooms proved almost unusable for lecturers, which were further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes (see image below). Professors across departments complained about these issues, and an especially evocative letter reveals that instructors would ask to be scheduled in other buildings just to avoid this lecture hall:
+{% include figure.html class="img-center" width="40%" caption="Letter to university secretary John Durrie from Dr. Fred Chreist (Speech and Pathology)." src="images\faculty-correspondence.jpg" %}
+
 // In 1961, a space for the Maxwell Museum of Anthropology //
 
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
