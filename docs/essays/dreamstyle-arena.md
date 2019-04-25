@@ -12,6 +12,14 @@ Tom L. Popejoy, UNM president 1948-1968, is responsible for many new buildings o
 {% include figure.html class="img-left" width="32%" caption="Joe Boehning, Graduate of UNM Architecture" src="images/the-pit-joe-boehning.png" %}
 {% include figure.html class="img-left" width="32%" caption="Tom L. Popejoy, University of New Mexico President 1948-1968" src="images/the-pit-popejoy.png" %}
 {% include figure.html class="img-left" width="32%" caption="Bob King, Lobos mens basketball coach 1962-1972" src="images/the-pit-bob-king.jpg" %}
+## Construction
+In 1965 the bidding for the project was won by The House Construction Company and construction began swiftly. The stadium design of Boehning underwent transformations while under construction.  The reverse dome design bacame a solution to a budgeting problem faced in completing the project. The Pit floor currently rests 37 feet below ground level but this was not the original plan. During the begginnings of the construction process managers of the project quickly realized that the amount of scaffolding required to buld the stadium above ground would send the project over the 1 million dollar budget.  This issue led Boehning to adjust his original architecture and design a stadium with only 15 feet of scaffolding above the ground level. Completion time of the project was only one year and The Pit opened its doors to the public in 1966.   
+{% include figure.html class="img-left" width="48%" caption="Foreman Harold Boutwell looking through plans" src="images/the-pit-construction.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="The Pit Blueprint" src="images/the-pit-blueprint.png" %}
+## Post Construction
+The Pit held its first college basketball game on December 1, 1966 with the mens basketball team defeating Abilene Christian College 62-53. Following completion The Pit grew in season attendance numbers constistently due to larger seating capacity and excitement about Albuquerque first sports stadium that could rival any other in the college basketball genre. 
+{% include figure.html class="img-left" width="30%" caption="Season attendance Statistics" src="images/the-pit-attendance.png" %}
+{% include figure.html class="img-left" width="65%" caption="Lobo mens team 1966" src="images/the-pit-1966-team.png" %}
 
 
 
