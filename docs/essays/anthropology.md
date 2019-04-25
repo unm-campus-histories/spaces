@@ -23,6 +23,8 @@ The 1930s marked one of several bursts of construction for the university, and a
 
 Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a new Student Union was constructedâ€”the building we know today. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) and adapted the former SUB ballroom into a lecture hall.
 
+(This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
+
 {% include figure.html class="img-left" width="70%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
@@ -30,8 +32,7 @@ A number of renovations occurred in the decades after the Anthropology buildingâ
 
 {% include figure.html class="img-center" width="40%" caption="Letter to university secretary John Durrie from Dr. Fred Chreist (Speech and Pathology)." src="images\faculty-correspondence.jpg" %}
 
-// In 1961, a space for the Maxwell Museum of Anthropology //
-
+(This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
 ## Anthropology, Today
