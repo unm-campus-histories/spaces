@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 # Anthropology Building
-{% include figure.html class="img-left" width="80%" src="images\anth-modern.jpg" %}
+{% include figure.html class="img-center" width="80%" src="images\anth-modern.jpg" %}
 Where is the heart of the University of New Mexico? The stylistically striking Zimmerman Library or ever-bustling Student Union Building spring to mind first; many more buildings would appear on that list before any of the science buildings. Located on the western edge of campus, the Anthropology building is a squat complex containing lecture halls, offices, and the Maxwell Museum of Anthropology. Like many scWhere is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building, but rarely are the hidden-away science buildings considered central to university life. In the day-to-day of campus life, far more time, adoration and vitriol are spent on the Smith Plaza area than anywhere else. But if the university has a historical heart, it lies on the western edge of campus. Shielded by massive pines, the Anthropology building is a squat complex containing a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it once housed the Student Union Building and bookstore.
 
 ## Construction
@@ -20,6 +20,8 @@ Rising enrollment in the 1950s strained the resources of the SUB, and in / a new
 
 ## Renovation
 Year and reasons for renovations, construction of annex and Maxwell Museum, shift to new SUB
+A number of renovations occurred in the decades after the Anthropology building’s original construction, adding offices and space for the Maxwell Museum, but the most significant changes came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the ballroom acoustics and large classrooms proved almost unusable for lecturers, which were further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult for film classes.[C] Professors across departments complained about these issues, and instructors from the Psychology and Speech Departments would ask to be scheduled in other buildings just to avoid this lecture hall.[C] //
+// In 1961, a space for the Maxwell Museum of Anthropology //
 
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
