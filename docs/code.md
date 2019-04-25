@@ -121,12 +121,12 @@ To achieve the above full-width (but not jumbotron) image, use:
 ---
 
 ### Juxtapose
-It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space.
+It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space. Obviously the effect is more striking the closer the images line up.
 
 {% include juxtapose.html
-image1="{{site.baseurl}}/essays/images/kimo-1928.jpg"
-image2="{{site.baseurl}}essays/images/kimo-1938.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
+image1="essays/images/kimo-1928.jpg"
+image2="essays/images/kimo-1938.jpg"
+caption=""
 %}
 
 <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
