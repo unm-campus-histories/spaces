@@ -17,7 +17,7 @@ The 1930s marked one of several bursts of construction for the university, and a
 
 (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
-{% include figure.html class="img-right" width="40%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
+{% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
 Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a new Student Union was constructed—the building we know today. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) and adapted the former SUB ballroom into a lecture hall.
 
@@ -25,7 +25,7 @@ Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a 
 
 (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
-{% include figure.html class="img-left" width="70%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
 A number of renovations occurred in the decades after the Anthropology building’s original construction, including the addition of offices and space for the Maxwell Museum of Anthropology, but the most significant changes came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the ballroom acoustics and large classrooms proved almost unusable for lecturers, which were further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes (see image below). Professors across departments complained about these issues, and an especially evocative letter reveals that instructors would ask to be scheduled in other buildings just to avoid this lecture hall:
