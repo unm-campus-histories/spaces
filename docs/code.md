@@ -124,8 +124,8 @@ To achieve the above full-width (but not jumbotron) image, use:
 It's easy to set up a slider to compare historic and contemporary photos. If you find a historic image from a vantage point that you can replicate, please take a modern photo so we can better illustrate the changes in the surrounding space. Obviously the effect is more striking the closer the images line up.
 
 {% include juxtapose.html
-image1="essays/images/kimo-1928.jpg"
-image2="essays/images/kimo-1938.jpg"
+image1="./essays/images/kimo-1928.jpg"
+image2="./essays/images/kimo-1938.jpg"
 caption=""
 %}
 
