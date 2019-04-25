@@ -12,7 +12,7 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 
 ## Construction
 {% include figure.html class="img-left" width="48%" caption="Looking east on the construction of the original Student Union Building, 1936. " src="images\anth-construction.jpg" %}
-{% include figure.html class="img-left" width="48%" caption="Even after completion, it stood amongst barren terrain." src="images\anth-exterior.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain." src="images\anth-exterior.jpg" %}
 
 The 1930s marked one of several bursts of construction for the university, and also established UNM’s signature architectural style. An increased student body necessitated the construction of a Student Union, and John Gaw Meem took up the task of designing the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), construction began on the Student Union in 1936. The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. An open house followed the dedication of the building in 1937, and students broke in their new ballroom with a dance.
 
@@ -20,9 +20,9 @@ The 1930s marked one of several bursts of construction for the university, and a
 
 {% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
-Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a new Student Union was constructed—the building we know today. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) and adapted the former SUB ballroom into a lecture hall.
-
 {% include figure.html class="img-left" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another." src="images\lobo-1960.png" %}
+
+Rising enrollment in the 1950s strained the resources of the SUB, and in 1959 a new Student Union was constructed—the building we know today. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) and adapted the former SUB ballroom into a lecture hall.
 
 (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
