@@ -17,7 +17,7 @@ date: 2018-11-19
 * *Open to the public*: Yes, Part of the University of New Mexico Campus
 
 ***
-
+MOST OF THIS TEXT IS NOT MINE, SOOO JUST IMAGINE QUOTES AROUND THE WHOLE THING RN)
  Zimmerman Library is classified as a Late 19th and Early 20th Century Revivals: Mission/Spanish Colonial Revival
  Books, magazines, newspapers, and scholarly journals make up a substantial portion of the collections, but many other formats of information are included. Microforms, maps, DVDs, and posters are vital parts of the research and instructional process at UNM. Many parts of the collections are now available beyond the walls of any library in online digital formats. The acquisition of these materials accelerates with each year, now surpassing print and other tangible formats in terms of the number of titles available. A wide selection of ejournals, ebooks, digital music, and streaming video are available to all UNM students, faculty, and staff. The UL also leads the nation in developing processes to curate, store, and preserve research data created by UNM faculty and students and make it available to the world.
 
