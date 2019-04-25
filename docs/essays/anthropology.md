@@ -13,6 +13,9 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 ## Construction
 {% include figure.html class="img-left" width="50%" caption="Looking east on the construction of the original Student Union Building, 1936." src="images\anth-construction.jpg" %} {% include figure.html class="img-right" width="50%" caption="The completed SUB still stood among rather barren terrain." src="images\anth-exterior.jpg" %}
 
+
+
+
 The 1930s marked one of several bursts of construction for the university, and also established UNM’s signature architectural style. An increased student body necessitated the construction of a Student Union, and John Gaw Meem took up the task of designing the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), construction began on the Student Union in 1936. The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. An open house followed the dedication of the building in 1937, and students broke in their new ballroom with a dance.
 
 {% include figure.html class="img-right" width="40%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
