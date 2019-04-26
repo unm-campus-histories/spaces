@@ -67,7 +67,7 @@ The 95.1% diversion of disposed materials from the landfill and toward recycling
 The Pit involved multiple LEED accredited professionals throughout the process, enabling it to submit for the ID 2: LEED Accredited Professional credit.
 
 {% include figure.html class="img-left" width="48%" caption="The Pit entrance 2003" src="images/the-pit-old.jpg" %}
-{% include figure.html class="img-left" width="48%" caption="Inside The Pit entrance 2019" src="images/the-pit-new.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="The Pit entrance 2019" src="images/the-pit-new.jpg" %}
 
 
 
