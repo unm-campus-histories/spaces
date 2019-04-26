@@ -66,8 +66,8 @@ On-site open space equal to twice the building footprint has been designated and
 The 95.1% diversion of disposed materials from the landfill and toward recycling, salvage or reuse qualifies The Pit for an exemplary performance point in MR 2 – Construction Waste Management.
 The Pit involved multiple LEED accredited professionals throughout the process, enabling it to submit for the ID 2: LEED Accredited Professional credit.
 
-{% include figure.html class="img-left" width="48%" caption="The Pit entrance 2003" src="images/the-pit-old" %}
-{% include figure.html class="img-left" width="48%" caption="Inside The Pit entrance 2019" src="images/the-pit-new" %}
+{% include figure.html class="img-left" width="48%" caption="The Pit entrance 2003" src="images/the-pit-old.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Inside The Pit entrance 2019" src="images/the-pit-new.jpg" %}
 
 
 
