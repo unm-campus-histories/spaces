@@ -1,6 +1,6 @@
 ---
 title: Johnson Center
-author: Armondo Gibbs
+author: Armondo Uyarra
 layout: single-col
 date: 2019-03-25
 ---
@@ -8,7 +8,8 @@ date: 2019-03-25
 
 # Johnson Center
 
-Here's a dummy essay that will gradually turn into a real model.
+### What It's About
+
 
 In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
 
