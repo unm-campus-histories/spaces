@@ -23,7 +23,7 @@ The angular silhouette and adobe facade of the building show the off the Pueblo 
 {% include figure.html class="img-left" width="60%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
-{% include figure.html class="img-left" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department." src="images\lobo-1960.png" %}
+{% include figure.html class="img-right" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department." src="images\lobo-1960.png" %}
 
 By the 1950s, rising enrollment strained the resources of the diminutive SUB. Construction of a newer, larger Student Union began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960, and adapted the former SUB ballroom into a lecture hall.[C]
 
