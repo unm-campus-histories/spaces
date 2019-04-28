@@ -18,11 +18,9 @@ The 1930s marked one of several bursts of construction for the university thanks
 
 {% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
-The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. 
+The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
 {% include figure.html class="img-left" width="60%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
-
-(This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
 ## Renovations
 {% include figure.html class="img-left" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department." src="images\lobo-1960.png" %}
