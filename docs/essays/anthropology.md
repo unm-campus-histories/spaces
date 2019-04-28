@@ -20,13 +20,13 @@ The 1930s marked one of several bursts of construction for the university thanks
 
 The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. 
 
-{% include figure.html class="img-left" width="48%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
+{% include figure.html class="img-left" width="20%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move." src="images\anth-sub-exterior.jpg" %}
 
 (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
 
+## Renovations
 {% include figure.html class="img-left" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department." src="images\lobo-1960.png" %}
 
-## Renovations
 By the 1950s, rising enrollment strained the resources of the diminutive SUB. Construction of a newer, larger Student Union began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960, and adapted the former SUB ballroom into a lecture hall.[C]
 
 The Anthropology Building has endured many exterior and interior renovations in its lifetime, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology, but the most significant changes since the department moved in came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the ballroom acoustics and spaciousness of the room made it almost unusable for lecturers, and these auditory problems were further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.
