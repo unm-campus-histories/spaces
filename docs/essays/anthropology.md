@@ -16,7 +16,7 @@ Where is the heart of the University of New Mexico? The stylistically striking Z
 
 The 1930s marked one of several bursts of construction for the university thanks to funding from the Works Progress Administration and increased enrollment. During this time, John Gaw Meem’s architectural oversight established UNM’s signature Pueblo Revival style, which the Anthropology Building retains today. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology Building actually began as the university’s first Student Union. Construction began in 1936; in 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[C]
 
-{% include figure.html class="img-right" width="40%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
+{% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
 The angular silhouette and adobe facade of the building show the off the Pueblo Revival style the university is now known for. 
 
