@@ -9,7 +9,7 @@ This website is the result of a collaborative research project by dedicated, ind
 
 Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
 
-Alyssa Bitsie - [Communication and Journalism Building] (essays/communication-journalism)
+Alyssa Bitsie - [Communication and Journalism Building](essays/communication-journalism)
 
 Emily Hartshorn - [University House](essays/university-house)
 
