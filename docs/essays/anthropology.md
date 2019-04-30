@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 # Anthropology Building
-{% include figure.html class="img-center" width="80%" src="images\anth-exterior-close.jpg" %}
+{% include figure.html class="img-center" width="100%" src="images\anth-exterior-close.jpg" %}
 
 Where is the heart of the University of New Mexico? The stylistically striking Zimmerman Library or ever-bustling Student Union Building spring to mind first; many more buildings would appear on that list before any of the science buildings. Located on the western edge of campus, the Anthropology building is a squat complex containing lecture halls, offices, and the Maxwell Museum of Anthropology. Like many scWhere is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building, but rarely are the hidden-away science buildings considered central to university life. In the day-to-day of campus life, far more time, adoration and vitriol are spent on the Smith Plaza area than anywhere else. But if the university has a historical heart, it lies on the western edge of campus. Shielded by massive pines, the Anthropology building is a squat complex containing a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it once housed the Student Union Building and bookstore.
 
@@ -36,6 +36,7 @@ The Anthropology Building has endured many exterior and interior renovations in 
 
 ## Anthropology, Today
 The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of / credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
-{% include figure.html class="img-center" width="40%" caption="Exterior of Anthropology, 2019." src="images\anth-modern.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="The east entrance of the Anthropology Building is obscured by trees. 2019." src="images\anth-modern.jpg" %}
 
+### Bibliography
 
