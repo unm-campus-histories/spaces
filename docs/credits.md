@@ -11,5 +11,5 @@ Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
 
 Alyssa Bitsie
 
-Emily Hartshorn [University House](essays/university-house)
+Emily Hartshorn - [University House](essays/university-house)
 
