@@ -143,6 +143,29 @@ caption="These sliders are way more effective the more closely you line up the b
 ```
 
 ---
+### Carousel
+
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+</div>
+
+```
+{%raw%}<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-construction.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-floorplan.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+</div>{%endraw%}
+```
+
+---
 ## Footnotes
 All good historical essays (as you're writing) show what their sources are, which helps readers know what actual research underlies the essay.
 
