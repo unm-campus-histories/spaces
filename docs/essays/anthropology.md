@@ -16,7 +16,7 @@ The 1930s marked one of several bursts of construction for the university thanks
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. " src="images\anth-construction.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain." src="images\anth-exterior.jpg" %}
 
-Early photographs of the Student Union show a barren campus. (This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
+Early photographs of the Student Union show a barren campus. Across its lifetime, the Student Union/Anthropology building has flaunted a variety of landscaping looks, each gradually more pleasant than the last. The university as a whole has grown greener over time, as well, becoming an arboretum in 1994.[C]
 
 {% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
