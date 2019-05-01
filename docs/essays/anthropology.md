@@ -31,7 +31,7 @@ Besides these initial changes, the Anthropology Building has endured many exteri
 
 {% include figure.html class="img-left" width="40%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university." src="images\faculty-correspondence.jpg" %}
 
-(This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.This is a block of filler text.)
+
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
 ## Anthropology, Today
