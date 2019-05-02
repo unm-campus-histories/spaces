@@ -15,6 +15,8 @@ Maxine Porter - [Anthropology Building](essays/anthropology)
 
 Autumn Buckridge- [Sara Raynolds Hall](essays/sara-raynolds-hall)
 
+Jessica Bowen- [Humanities Building](essays/humanities-building)
+
 <hr>
 
 Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
