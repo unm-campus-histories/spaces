@@ -22,7 +22,7 @@ Also creating an arena of this magnitude without supporting columns would not wo
 {% include figure.html class="img-left" width="48%" caption="Foreman Harold Boutwell looking through plans" src="images/the-pit-construction.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="The Pit Blueprint" src="images/the-pit-blueprint.png" %}
 The Pit not only created a buzz among the community, the arena drastically changed the landacape it was built on and the overall image of the surrounding area itself. The Pit is in direct view of the I-25 highway and since being built people, Albuquerque Native citizens and others driving through Albuquerque, in 1966 saw a legitimate view of The Pit instead of a edge of the city desert.  What the arena also achieved was giving UNM a larger physical presence in the Albuquerque community, although The Pit is not directly attached by land to the main campus the arena gives UNM the optics of being much larger in Albuquerque than just a small D-1 campus.
-{% include figure.html class="img-left" width="48%" caption="Arial View of Construction 1965 and large amout of previously not utilized land" src="images/the-pit-construction2.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="Arial View of Construction 1965 and large amout of previously not utilized land" src="images/the-pit-construction2.jpg" %}
 
 
 ## Post Construction
