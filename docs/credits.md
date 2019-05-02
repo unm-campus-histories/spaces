@@ -11,6 +11,8 @@ Alyssa Bitsie - [Communication and Journalism Building](essays/communication-jou
 
 Emily Hartshorn - [University House](essays/university-house)
 
+Maxine Porter - [Anthropology Building](essays/anthropology)
+
 <hr>
 
 Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
