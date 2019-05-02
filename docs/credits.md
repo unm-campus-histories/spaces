@@ -13,6 +13,8 @@ Emily Hartshorn - [University House](essays/university-house)
 
 Maxine Porter - [Anthropology Building](essays/anthropology)
 
+Autumn Buckridge- [Sara Raynolds Hall](essays/sara-raynolds-hall)
+
 <hr>
 
 Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
