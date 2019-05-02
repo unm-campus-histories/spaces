@@ -12,7 +12,7 @@ date: 2019-04-10
 #### Overview
 The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo Revival styled building, made of clay tile and stucco, located on the south end of campus at the University of New Mexico (UNM) in Albuquerque, New Mexico. Its sits on the corner of Central Avenue and Yale Boulevard with its main entrance facing north Redondo Drive.
 
-{% include figure.html class="img-right" width="50%" caption="View looking northeast. Photo by L. Johnson" src="images/cj-side.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="View looking northeast. Photo by L. Johnson" src="images/cj-side.jpg" %}
 
 
 #### Early History
