@@ -39,7 +39,7 @@ The first renovation project since the original construction of The Pit was unde
 {% include figure.html class="img-center" width="65%" caption="1975 Renovations Guidelines from Boehning" src="images/the-pit-boehning-plans.jpg" %}
 
 The first large scale renovation since 1966 would happen in 2009 when UNM decided to give the entire building a facelift on the exterior and bring the facility up to state of the art standards as a whole.  The 2009 renovation did face some opposition due to its design that would cut out the upper mezzanine seating area to put in reservable suites.  The suites inside The Pit unfortunately are seen empty during games and have not been helping pay for the renovation, one of the main reasons the suites were included. The project did achive the goal of creating a state of the art arena but it came with a 60 million dollar pricetag in contrast to a 25 million dollar appraisal.
-{% include figure.html class="img-left" width="65%" caption="" src="images/the-pit-newspaper.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="" src="images/the-pit-newspaper.jpg" %}
 
 
 **Noteable achivements of the renovation included the following**
