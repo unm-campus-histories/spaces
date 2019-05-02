@@ -102,6 +102,17 @@ src="images/centennial-hotel.jpg"
 
 ---
 
+### Half-width
+{% include figure.html class="img-left" width="50%" src="essays/images/centennial-hotel.jpg" caption="Obviously we need a 50% image somewhere with text wrapping around it."%}
+
+If you have really short text and then a heading, the heading should start after the image. A new heading is preferable to a line break, either `---` in Markdown (or its HTML equivalent `<hr>` [ for "horizontal rule"]).
+
+## New Subheading
+Here's text for the next section...
+
+---
+
+
 ### Full-width
 
 {% include figure.html class="img-center" width="100%" caption="Make sure your image is large enough to be 100% width or it will look grainy. See above."  src="essays/images/centennial-hotel.jpg" %}
@@ -164,6 +175,10 @@ caption="These sliders are way more effective the more closely you line up the b
   <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
 </div>{%endraw%}
 ```
+---
+
+## Line breaks
+If you need a new section but don't want a new heading (I'm not sure why you'd do this, but I want to keep things flexible), you can use the Markdown code for a horizontal rule, which is `---` (three dashes). It looks like the line before and after this paragraph.
 
 ---
 ## Footnotes

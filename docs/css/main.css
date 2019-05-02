@@ -17,12 +17,21 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.4em;
   background-color: #fefefe;
-  font-size: 15px;
+  font-size: 18px;
 }
 
+h1, h2, h3, h4, h5 {
+  margin-top:3em;
+  margin-bottom:.5em;
+  clear:both;
+}
 
-  .main {
-    margin-top:0px;
+h1 {
+  margin-top:0px;
+}
+
+  #my-main {
+    max-width: 55em;
   }
 
   .container-fluid {
@@ -67,8 +76,6 @@ p {
 .jumbotron p {
   text-align:center;
 }
-
-
 
 main {
   margin: 0 1.5%;
@@ -162,23 +169,6 @@ IMAGES
 *****************************************************/
 
 
-figure.img-right-col {
-  float:left;
-  position:absolute;
-  width: 30%;
-  margin-left:64%;
-}
-
-.img-right-side {
-  display:inline;
-  clear:none;
-  float:right;
-  margin-right:-140px;
-  /* no bottom padding; handled with caption */
-  padding:0 0px 0px 0em;
-  width:250px;
-}
-
 figure {
   margin-bottom:0;
   clear:none;
@@ -188,13 +178,15 @@ figure {
 
 .img-right {
   float:right;
-  padding:0 0px 0px 2rem;
+  padding:0;
   text-align:left;
+  margin: 0 0 1em 2%;
 }
 
 .img-left {
   float:left;
-  padding:0 2rem 0px 0px;
+  padding:0;
+  margin: 0 2% 1em 0;
 }
 
 .img-center {
@@ -204,18 +196,18 @@ figure {
 }
 
 figcaption {
-  font-size: 1rem;
+  font-size: .8em;
   color:#888;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.4rem 0 2rem 0;
+  margin:.4em 0 2em 0;
   clear:both;
-  line-height: 1.1rem;
+  line-height: 1.1em;
 }
 
 figcaption.img-right {
   text-align: justify;
-  padding:0 0px 0px 0rem;
+  padding:0;
 }
 
 figcaption.img-left {
@@ -231,20 +223,12 @@ figcaption.img-center {
 figcaption p {
   margin:0;
   padding:0;
-  line-height: 1.2rem;
+  line-height: 1.4em;
 }
 
 figcaption a {
   opacity:.5;
   font-weight:normal;
-}
-
-footer {
-  margin-top:2em;
-  padding: 2em;
-  background-color: #823b3b;
-  color:#ccc;
-  text-align: center;
 }
 
 
@@ -299,12 +283,12 @@ height:50%;
 
 .card h4 {
 font-family:'Open Sans';
-font-size:1.8rem;
+font-size:2rem;
 margin-top:.5rem;
 }
 
 .card-text {
-font-size:1.2rem;
+font-size:1.4rem;
 font-weight:normal;
 }
 

@@ -13,10 +13,10 @@ function getMarkers(callback) {
     //var sheetURL = "https://docs.google.com/spreadsheets/d/1tpcVOeTci6Bc4cXYN-ytnImn6MzILDPH4W6fMfEPvkg/edit?usp=sharing#gid=0";
 
     // spring 2019 sheet
-     var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
+     // var sheetURL = "https://docs.google.com/spreadsheets/d/1AE1X-dDphqyYjVlUj1w0xvWivnu0e7EtyxzuGNjbock/edit#gid=0";
 
     // limited test version
-    // var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
+    var sheetURL = "https://docs.google.com/spreadsheets/d/1-HDDwiVMH7thJ8A4hX4kz_RKTGh6Zx6C3aZz7CntBaI/edit?usp=sharing#gid=0";
     console.log("using test data");
 
     var markers = [];
@@ -33,7 +33,7 @@ function getMarkers(callback) {
             m.name = m[1];
             m.teaser = m[2];
             m.slug = m[4];
-            console.log("found " + m.slug + "in sheet.");
+            console.log("found " + m.slug + " in sheet.");
             //m.kmlFile = m[4]; // now using essay-slug to encourage consistency
             m.imageFile = m[5];
             m.type = m[6];
@@ -53,11 +53,12 @@ function getMarkers(callback) {
     });
 }
 
-function loadMarker(i, markerData) {
+//function loadMarker(i, markerData) {
+function loadMarker(markerData, dfd) {
   console.log("now in loadMarker...");
+
   var kmlFile = "kml/" + markerData.slug + ".kml";
   var imageFile = "essays/images/" + markerData.imageFile;
-  var outlines = [];
   var outline = {};
 
   //console.log("about to get KML file: " + kmlFile);
@@ -65,17 +66,33 @@ function loadMarker(i, markerData) {
   $.ajax({
     url: kmlFile,
     success: function(xml) {
-      //console.log("KML file retrieved successfully");
+      console.log(kmlFile + " retrieved successfully");
       outline = toGeoJSON.kml(xml);
-      console.log(outline);
+
+      console.log(markerData);
+
+      // add relevant data to geoJSON from google sheet.
+      var timeObj = new Date(markerData.startDate).getTime();
+      outline.features[0].properties.start = timeObj;
+      console.log(timeObj + " entered into properties");
+      //outline.features[0].properties.start = markerData.startDate;
+      outline.features[0].properties.end = markerData.endDate;
+
       if (!markerData.endDate) {
         outline.features[0].properties.extant = true;
       } else {
         outline.features[0].properties.extant = false;
       }
+
       //console.log(outline);
 
-      outlines.push(outline);
+      // get features property from ouline (array of length 1) and add it to features array in allFeatures object (which is valid geoJSON).
+      //console.log("FOUND FEATURE:");
+      //console.log(outline.features[0]);
+      allFeatures.features.push(outline.features[0]);
+      //console.log("ALL FEATURES:");
+      //console.log(allFeatures);
+
 
       var popupHTML = '<a href="essays/'+markerData.slug+'">';
       popupHTML += '<div class="map-popup">';
@@ -116,11 +133,14 @@ function loadMarker(i, markerData) {
       }
       else {
         markerData.type = markerData.type.toLowerCase();
-      }
+      };
 
       console.log("markerData type set: " + markerData.type);
-      console.log("ALLGROUPS");
-      console.log(allGroups);
+      //console.log("ALLGROUPS");
+      //console.log(allGroups);
+
+      // trap if style is defined in sheet but not in style array
+      if (typeof allGroups[markerData.type] === 'object') {
 
       var outlineLayer = L.geoJSON(outline,{style:allGroups[markerData.type].style}).bindPopup(popup, {maxWidth : "50%"});
 
@@ -132,13 +152,28 @@ function loadMarker(i, markerData) {
         this.closePopup();
       });
 
+      outlineLayer.on('click', function (e) {
+        window.open("essays/"+markerData.slug);
+      });
+
+
       allGroups[markerData.type].group.addLayer(outlineLayer);
+
+      dfd.resolve();
+    }
+    else {
+      console.log("allGroups does not have an entry for this marker type");
+      dfd.resolve();
+    }
 
 
     }, // end success function
     error: function(xhr, status, error){
         var errorMessage = xhr.status + ': ' + xhr.statusText;
-        //console.log("KML file not found");
+        console.log("KML file not found");
+        dfd.resolve();
     }
+
   }); //end ajax
+//return dfd.promise();
 } //end loadMarker

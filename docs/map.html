@@ -4,17 +4,15 @@
 <!DOCTYPE html>
 <html>
 
+<!--
 {% include header-default.html %}
+-->
 
 <body style="height:100%">
 
 {% include unm-nav.html %}
 {% include site-nav.html %}
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
@@ -26,10 +24,22 @@
     integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
     crossorigin=""></script>
 
-
-
 <script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
+
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css">
+
+<script
+  src="https://code.jquery.com/jquery-1.9.1.min.js"
+  integrity="sha256-wS9gmOZBqsqWxgIVgA8Y9WcQOa7PgSIX+rPA0VL2rbQ="
+  crossorigin="anonymous"></script>
+
+  <script
+    src="https://code.jquery.com/ui/1.9.2/jquery-ui.min.js"
+    integrity="sha256-eEa1kEtgK9ZL6h60VXwDsJ2rxYCwfxi40VZ9E0XwoEA="
+    crossorigin="anonymous"></script>
+
 
 <link href="{{site.baseurl}}/css/main.css" rel="stylesheet">
 <link href="{{site.baseurl}}/css/map.css" rel="stylesheet">
@@ -38,6 +48,7 @@
 <script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
 <script src="{{site.baseurl}}/js/map.js"></script>
 <script src="{{site.baseurl}}/js/togeojson.js"></script>
+<script src="{{site.baseurl}}/js/SliderControl.js"></script>
 
 <div class="main" style="height:100%">
 
@@ -59,8 +70,9 @@
 <script>
 console.log("now generating map.");
 
+var sliderControl = null;
 var map = L.map('mapid').setView([35.0839282, -106.620724], 16);
-
+var allFeatures = {"type": "FeatureCollection","features": [] };
 var allGroups = {};
 
 allGroups["offices"] =
@@ -84,7 +96,7 @@ allGroups["offices"] =
     allGroups["admin"] =
     {"group": new L.FeatureGroup(),
     "style": {
-      "color": "#c05131",
+      "color": "#a7a8aa",
       "weight": 2,
       "opacity": 0.65
     }
@@ -116,6 +128,24 @@ allGroups["offices"] =
             "opacity": 0.65
           }
         };
+
+      allGroups["classrooms"] =
+          {"group": new L.FeatureGroup(),
+            "style": {
+              "color": "#ba0c2f",
+              "weight": 2,
+              "opacity": 0.65
+            }
+          };
+
+      allGroups["library"] =
+          {"group": new L.FeatureGroup(),
+            "style": {
+              "color": "#c05131",
+              "weight": 2,
+              "opacity": 0.65
+            }
+          };
 
       allGroups["unknown"] =
         {"group": new L.FeatureGroup(),
@@ -154,99 +184,106 @@ L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/
 }).addTo(map);
 
 
+// when document is loaded (the map object exists)
 $( function() {
   console.log("calling getMarkers.");
 
+  // getMarkers gets the data from the sheet and executes the below callback function
   getMarkers(function(markers) {
-    console.log("done loading data. now in callback and about to display markers");
-    // all data loaded. could sort into layers here and loop through each set
+    console.log("done loading data from sheet. now in callback and about to display markers");
 
     // loop through rows, load KML files, and bind popup.
-    $.each(markers, loadMarker);
+
+    var processItemsDeferred = [];
+
+    for(var i = 0; i < markers.length; i++){
+      processItemsDeferred.push(processItem(markers[i]));
+    }
+
+    $.when.apply($, processItemsDeferred).then(everythingDone);
+
+    function processItem(marker) {
+      console.log('called processItem');
+      var dfd = $.Deferred();
+
+      //in the real world, this would probably make an AJAX call.
+      //setTimeout(function() { dfd.resolve() }, 2000);
+      loadMarker(marker, dfd);
+
+      return dfd.promise();
+
+    }
+
+    function everythingDone(){
+      //alert('processed all items');
+      console.log('processed all items');
+      console.log(allFeatures);
+      console.log(allFeatures.features[0]);
+
+      /*
+      console.log("setting up timeline");
+      //Create a marker layer (in the example done via a GeoJSON FeatureCollection)
+      var testlayer = L.geoJson(allFeatures);
+      console.log(testlayer);
+
+      //Make sure to add the slider to the map ;-)
+      console.log("adding slider control...");
+      var sliderControl = L.control.sliderControl({
+        position: "topright",
+        layer: testlayer,
+        isEpoch: true,
+        timeStrLength: 15,
+        timeAttribute:'start'
+      });
+
+      map.addControl(sliderControl);
+
+      sliderControl.options.markers.sort(function(a, b) {
+          console.log("sorting...");
+          return (a.feature.properties.start > b.feature.properties.start);
+      });
+
+
+      //And initialize the slider
+      console.log("starting slider...");
+      sliderControl.startSlider();
+      //map.addLayer(testlayer);
+      */
+      }
+
+
+    //$.each(markers, loadMarker);
+    //console.log("each loop called.");
 
     var buildingGroupLayers = {};
 
+    // create control for layers
     for (var i = 0; i < groupNames.length; i++) {
       var currentName = groupNames[i];
       var layerSwatch = '';
       console.log("setting up " + currentName);
-      console.log("color:" + allGroups[currentName].style.color);
+      console.log("color: " + allGroups[currentName].style.color);
 
       layerSwatch = '<div class="color-box" style="background-color: '+ allGroups[currentName].style.color + ';"></div>';
       buildingGroupLayers[layerSwatch + currentName] = allGroups[currentName].group;
       //buildingGroupLayers[currentName] = allGroups[currentName].group;
+
+      // add layer to map
       map.addLayer(allGroups[currentName].group);
-    }
+    } // end create control loop
 
-    console.log(buildingGroupLayers);
+    //console.log(buildingGroupLayers);
 
+    // add control to map
     var mycontrol = L.control.layers(null,buildingGroupLayers).addTo(map);
+  }); // end callback function for getmarkers
 
-/* tabling filter by current/past buildings
-    currentGroup.on('add', function(event) {
-          //console.log(event);
-         if(event.layer == allGroups["offices"].group || event.layer == allGroups["admin"].group || event.layer == allGroups["dorm"].group ) {
-             console.log("use group added");
-             // check if filtering necessary
-             if (map.hasLayer(currentGroup)) {
-                event.layer.eachLayer(function (layer) {
-                  layer.eachLayer(function (layer) {
-                    console.log(layer.feature.properties.name + " is extant?" + layer.feature.properties.extant);
-                    if (!layer.feature.properties.extant) {
-                      layer.setStyle({fillOpacity : 0, stroke:false});
-                    }
-                    else {
-                      layer.setStyle({fillOpacity : .6, stroke:true});
-                    }
-                  });
-                });
-             }
-             if (map.hasLayer(ghostGroup)) {
-                event.layer.eachLayer(function (layer) {
-                  layer.eachLayer(function (layer) {
-                    console.log(layer.feature.properties.name + " is extant?" + layer.feature.properties.extant);
-                    if (layer.feature.properties.extant) {
-                      layer.setStyle({fillOpacity : 0, stroke:false});
-                    }
-                    else {
-                      layer.setStyle({fillOpacity : .6, stroke:true});
-                    }
-                  });
-                });
-             }
-             else { //don't display anything
-               map.removeLayer(event.layer);
-             }
-         }
-
-        else { // current or ghost group added
-          console.log("non/extant group added");
-
-          // find groups currently selected
-          // loop through known list and run hasLayer to make list of selected groups
-          var checkedGroups = [];
-
-          for (var i = 0; i < groupNames.length; i++) {
-            console.log("checking groupNames");
-            if (map.hasLayer(allGroups[groupNames[i]].group)) {
-              console.log("found checked: " + groupNames[i]);
-              checkedGroups.push(allGroups[groupNames[i]].group);
-            }
-          }
-
-          // loop through selected list and set opacity to one
-          for (var i = 0; i < checkedGroups.length; i++) {
-            console.log("about to add " + checkedGroups[i]);
-            map.addLayer(checkedGroups[i]);
-          }
-
-        } // end current or ghost clicked
-
-    });
-    */
-  });
 
 }); // end autostart function after page load.
+
+
+
+
 </script>
 
 </body>
