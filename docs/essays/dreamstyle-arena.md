@@ -27,8 +27,8 @@ The Pit not only created a buzz among the community, the arena drastically chang
 
 ## Post Construction
 The Pit held its first college basketball game on December 1, 1966 with the mens basketball team defeating Abilene Christian College 62-53. Following completion The Pit grew in season attendance numbers constistently due to larger seating capacity and excitement about Albuquerque first sports stadium that could rival any other in the college basketball genre. The Pit would gain national recognition throughout the years and in 1999 The Pit was awarded #13 on the list of favorite places in the world to view sports by Sports Illustrated Magazine, second among univerities.  Although ovrerall attendance for baketball games has dropped in recent years NCAA.com stated that The Pit still ranks 29th among 353 division 1 colleges with an averrage attendance of 11,159 fans per game.  The consistnency of attendance shows how much Albuquerque aprreciates having such an amazing sports venue.      
-{% include figure.html class="img-left" width="35%" caption="Season attendance Statistics" src="images/the-pit-attendance.png" %}
-{% include figure.html class="img-left" width="58%" caption="Lobo mens team 1966" src="images/the-pit-1966-team.png" %}
+{% include figure.html class="img-left" width="30%" caption="Season attendance Statistics" src="images/the-pit-attendance.png" %}
+{% include figure.html class="img-left" width="55%" caption="Lobo mens team 1966" src="images/the-pit-1966-team.png" %}
 
 
 
