@@ -61,3 +61,7 @@ Before construction of La Posada Dining Hall, Sherman Smith the recently appoint
 
 > As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
+___
+###La Posada Today
+
+La Posada today is much like it was 50 years ago, but has gone threw several small changes, that have modernized it while keeping it true to its original design. Recently in the summer of 2017, La Posada saw a few minor renovations including a new HVAC system, flooring, chef stations, lighting, and a new entrance. With UNM having grown in terms of space, students, dormaotries and administrative buildings, and learning facilities, La Posada has become an ever increasing hub of student interaction. As renovations and student use has changed over the past 50 years, La Posada as a reflection of the culture of UNM has stayed the same, both a testament to UNM as an institution of learning that holds specific values and to the architects that designed it. 
