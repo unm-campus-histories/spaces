@@ -11,7 +11,7 @@ date: 2019-04-10
 {% include juxtapose.html
 image1="images/la-posada-building-sign2.jpg"
 image2="images/lp-outside-comparison.jpg"
-caption="[Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3) \|  [Right image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1)" 
+caption="[Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3) \|  [Right image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1)"
 %}
 
 ### A Reflection of Ourselves
@@ -20,14 +20,8 @@ caption="[Left image source](https://econtent.unm.edu/digital/collection/ULPhoto
   class="pullquote"
   text="Louis Sullivan-'As you are, so are your buildings; and, as are your buildings, so are you. You and your architecture are the same. Each is a faithful portraits of the other.'"
   %}
-<<<<<<< HEAD
 
-In an architectural sense, UNM has furiously sought after to reflect itself within the space in which it surrounds. La Posada Dining Hall, Laguna and De Vargas Dormitory, and all other building that came before and after all have displayed that UNM wants to represent its unique modern South Western cultere in its architecture. La Posadas, architecturally being built in an adobie style, reflectings UNMs latter 20th century culture, similar to other building built at the time like the Laguna Dormitory, De Vargas Dormitory, Kiva Lecture Hall, and the Farris Engineering Center. 	
-=======
-  
 In an architectural sense, UNM has furiously sought to reflect itself within the space in which it surrounds. La Posada Dining Hall, Laguna and De Vargas Dormitory, and all other building that came before and after all have displayed that UNM wants to represent its unique modern South Western cultere in its architecture. La Posadas, architecturally being built in an adobie style, reflectings UNMs latter 20th century culture, similar to other building built at the time like the Laguna Dormitory, De Vargas Dormitory, Kiva Lecture Hall, and the Farris Engineering Center. 	
->>>>>>> b98d379110aed080e479c3e8d258813172a420f2
-___
 
 ### Planned Construction
 
