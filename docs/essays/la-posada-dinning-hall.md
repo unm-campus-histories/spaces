@@ -51,5 +51,3 @@ Before construction of La Posada Dining Hall, Sherman Smith the recently appoint
 
 {% include figure.html class="img-right" width="33%" caption="As of 1967 this was the design for the first floor of La Posada, reflecting the original design of Ernest J. Kump, lead design architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-firstfloor.PNG" %}
 
-{% include figure.html class="img-right" width="33%" caption="La Posada Hall in the 1970's" src="images/la-posada-building-sign2.jpg" %}
-
