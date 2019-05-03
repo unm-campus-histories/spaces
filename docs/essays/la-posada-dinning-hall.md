@@ -65,3 +65,10 @@ ___
 ### La Posada Today
 
 La Posada today is much like it was 50 years ago, but has gone threw several small changes, that have modernized it while keeping it true to its original design. Recently in the summer of 2017, La Posada saw a few minor renovations including a new HVAC system, flooring, chef stations, lighting, and a new entrance. With UNM having grown in terms of space, students, dormaotries and administrative buildings, and learning facilities, La Posada has become an ever increasing hub of student interaction. As renovations and student use has changed over the past 50 years, La Posada as a reflection of the culture of UNM has stayed the same, both a testament to UNM as an institution of learning that holds specific values and to the architects that designed it. 
+
+{% include juxtapose.html
+image1="images/lp-eat2.jpg"
+image2="images/lp-eat.jpg"
+caption="La Posada circa 1968 [Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/737/rec/8) and La Posada circa 2018s [Right image source](https://www.pinterest.com/pin/664984701200985280/).
+Just as La Posada was in 1968, it continues to be a center for students today over 50 years later."
+%}
