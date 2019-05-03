@@ -70,5 +70,5 @@ La Posada today is much like it was 50 years ago, but has gone threw several sma
 image1="images/lp-eat2.jpg"
 image2="images/lp-eat.jpg"
 caption="La Posada circa 1968 [Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/737/rec/8) and La Posada circa 2018s [Right image source](https://www.pinterest.com/pin/664984701200985280/).
-Just as La Posada was in 1968, it continues to be a center for students today over 50 years later."
+ Just as La Posada was in 1968, it continues to be a center for students today over 50 years later."
 %}
