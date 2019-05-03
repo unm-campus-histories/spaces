@@ -10,7 +10,7 @@ date: 2019-04-10
 {% include juxtapose.html
 image1="images/la-posada-building-sign2.jpg"
 image2="images/lp-outside-comparison.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
+caption="[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3) [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1)"
 %}
 ### A Reflection of Ourselves
 In an architectural sense, UNM has furiously sought after to reflect itself within the space in which it surrounds. La Posada Dining Hall, Laguna and De Vargas Dormitory, and all other building that came before and after all have displayed UNMs want to represent its unique modern/post modern South Western cultere. La Posadas adobie style architecture reflectings UNMS latter 20th century culture... 
