@@ -11,7 +11,7 @@ date: 2019-04-10
 {% include juxtapose.html
 image1="images/la-posada-building-sign2.jpg"
 image2="images/lp-outside-comparison.jpg"
-caption="[Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3) \|  [Right image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1)"
+caption="La Posada circa 1970s [Left image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/21/rec/1) | La Posada circa 1980s [Right image source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/19/rec/3)"
 %}
 
 ### A Reflection of Ourselves
