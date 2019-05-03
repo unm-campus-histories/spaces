@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 
-# La Posada Dinning Hall
+# La Posada Dining Hall
 
 {% include juxtapose.html
 image1="images/la-posada-building-sign2.jpg"
@@ -26,7 +26,7 @@ In an architectural sense, UNM has furiously sought to reflect itself within the
 
 ### Planned Construction
 
-During the consideration of whether or not La Posada Dinning Hall would be built by the University of New Mexico Board of Regents in 1966, other buildings including the Farris Engineering Center, a the dorm which would be later known as Laguna Dormitory, and De Vargas Dormitory were also proposed. This proposal was in direct response to counter another proposal for a high-rise dormitory complex. These dormitories and dining hall all being later approved for construction in 1966 by the UNM Board of Regents. After a series of bids, the UNM board of Regents contracted Lembke Construction Company to build what would be La Posada Dining Hall.
+During the consideration of whether or not La Posada Dining Hall would be built by the University of New Mexico Board of Regents in 1966, other buildings including the Farris Engineering Center, a the dorm which would be later known as Laguna Dormitory, and De Vargas Dormitory were also proposed. This proposal was in direct response to counter another proposal for a high-rise dormitory complex. These dormitories and dining hall all being later approved for construction in 1966 by the UNM Board of Regents. After a series of bids, the UNM board of Regents contracted Lembke Construction Company to build what would be La Posada Dining Hall.
 
 {% include figure.html class="img-right" width="48%" caption="After the approval of La Posadas, construction started soon after. This photo showing construction of La Posada being well underway as of September 13, 1968. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-9-13-6-construction.PNG" %}
 
@@ -37,7 +37,7 @@ ___
 ### A Change in Plans
 Ernest J. Kump (design architect) along with William W. Ellison (project architect) were selected to design a dormitory complex with corresponding food services. Ernest J. Kump deciding that to best way to utilize the limited construction space was to  the high-rise dormitory was to build a separate dining hall and two three story dormitories that were connected with a large courtyard. This idea incorporating much more human interaction with the space in-between building compared to one large high-rise dormitory
 
-Before construction of La Posada Dinning Hall, Sherman Smith the recently appointed administrative vice president, revised the initial plans for what would be La Posada Dinning Hall. Sherman Smith having increased the maximum capacity to 1,525 people by enclosing the central patio, where in the original design this space would have been completely open to the outside elements. This early decision in the history of La Posada Dinning Hall having completely altering the way that people would perceive not only the inside of the building, but the outside of the building. Ultimately reshaping the way people would interact with the space inside of La Posada Dinning Hall and reshaping perceptions of the other buildings around La Posada.
+Before construction of La Posada Dining Hall, Sherman Smith the recently appointed administrative vice president, revised the initial plans for what would be La Posada Dining Hall. Sherman Smith having increased the maximum capacity to 1,525 people by enclosing the central patio, where in the original design this space would have been completely open to the outside elements. This early decision in the history of La Posada Dining Hall having completely altering the way that people would perceive not only the inside of the building, but the outside of the building. Ultimately reshaping the way people would interact with the space inside of La Posada Dining Hall and reshaping perceptions of the other buildings around La Posada.
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/lp-plan1.1.jpg"/></div>
