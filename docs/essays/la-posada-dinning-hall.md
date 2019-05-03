@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 
-# La Posada Dining Hall
+# _La Posada Dining Hall_
 
 {% include juxtapose.html
 image1="images/la-posada-building-sign2.jpg"
