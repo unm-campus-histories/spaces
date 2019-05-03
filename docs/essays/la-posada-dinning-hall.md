@@ -37,13 +37,18 @@ ___
 ### A Change in Plans
 Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services. Ernest J. Kump decidnig that to best way to utilize the limited construction space was to  the high-rise dormatory was to build a sperate dining hall and two three story dormatories that were connected with a large courtyard.
 
-
-
 Before construcion of of La Posada Dinning Hall, Sherman Smith the recently appointed administrative vice president, revised the initial plans for for what would be La Posada Dinning Hall. Sherman Smith having increased the maximum cappacity to 1,525 people by enclosing the the centeral patio, where in the original desighn this space would have been compleatly open to the out side elements. This early desision in the history of La Posada Dinning Hall having compleatly altering the way that people would precive not only the inside of the building, but the ouside of the building. Ulitimaly reshaping the way people would interact with the space inside of La Posada Dinning Hall and reshaping perceptions of the other buildings around La Posada.
 
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/lp-plan1.1.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/lp-plan2.1.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/lp-plan3.1.jpg"/></div>
+</div>
+
+
+
+
+
 {% include figure.html class="img-right" width="33%" caption="As of 1967 this was the desighn for the first floor of La Posada, reflecting the original desighn of Ernest J. Kump,lead desighn architect, and the alteration made by Sherman Smith. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-firstfloor.PNG" %}
-
-
-
 
 {% include figure.html class="img-right" width="33%" caption="La Posada Hall in the 1970's" src="images/la-posada-building-sign2.jpg" %}
