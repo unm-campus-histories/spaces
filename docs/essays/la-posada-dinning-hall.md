@@ -7,6 +7,8 @@ date: 2019-04-10
 
 
 # La Posada Dinning Hall
+### A Reflection of Ourselves
+
 
 {% include aside.html
   class="pullquote"
@@ -16,7 +18,10 @@ ___
 ### Planned Construction
 During the consideration of whether or not La Posada Dinning Hall would be built by the Universtity of New Mexico Board of Regents in 1966, other buildings including the Farris Engineering Center, a the dorm which would be later known as Laguna Dormitory, and De Vargas Dormitory were also proposed [CITE]. This proposal was in direct response to counter another proposal for a high-rise dormatory complex.These dormatories and dinning hall all being later approved for construction in 1966 by the UNM Board of Regents [CITE]. After a series of bids, the UNM board of Regents contracted Lembke Construction Company to build what would be La Posada Dining Hall [CITE]. 
 
-{% include figure.html class="img-right" width="33%" caption="After the approval of La Posadas, construction started soon after. This photo showing construction of La Posada being well underway as of September 13, 1968. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-9-13-6-construction.PNG" %}
+{% include figure.html class="img-right" width="48%" caption="After the approval of La Posadas, construction started soon after. This photo showing construction of La Posada being well underway as of September 13, 1968. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-9-13-6-construction.PNG" %}
+
+{% include figure.html class="img-right" width="48%" caption="Construction as of October 23, 1968, showes how the construction of La Posada compleatly altered the space it now takes up. Where there was unused land across from the UNM Information Technologies building is now a dining hall complex.
+   [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/lp-10-23-68construction.PNG" %}
 ___
 ### A Change in Plans
 Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services. Ernest J. Kump decidnig that to best way to utilize the limited construction space was to  the high-rise dormatory was to...  ~Continue here~
