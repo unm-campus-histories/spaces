@@ -35,7 +35,7 @@ During the consideration of whether or not La Posada Dinning Hall would be built
 ___
 
 ### A Change in Plans
-Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services. Ernest J. Kump decidnig that to best way to utilize the limited construction space was to  the high-rise dormatory was to build a sperate dining hall and two three story dormatories that were connected with a large courtyard.
+Ernest J. Kump (desighn architect) along with William W. Ellison (projest architect) were selected to design a dormatory complex with corrrisponding food services. Ernest J. Kump decidnig that to best way to utilize the limited construction space was to  the high-rise dormatory was to build a sperate dining hall and two three story dormatories that were connected with a large courtyard. This idea incorporating much more human interaction with the space inbetween building compared to one large high-rise dormatory
 
 Before construcion of of La Posada Dinning Hall, Sherman Smith the recently appointed administrative vice president, revised the initial plans for for what would be La Posada Dinning Hall. Sherman Smith having increased the maximum cappacity to 1,525 people by enclosing the the centeral patio, where in the original desighn this space would have been compleatly open to the out side elements. This early desision in the history of La Posada Dinning Hall having compleatly altering the way that people would precive not only the inside of the building, but the ouside of the building. Ulitimaly reshaping the way people would interact with the space inside of La Posada Dinning Hall and reshaping perceptions of the other buildings around La Posada.
 
@@ -45,7 +45,7 @@ Before construcion of of La Posada Dinning Hall, Sherman Smith the recently appo
   <div><img src="{{ site.baseurl }}/essays/images/lp-plan3.1.jpg"/></div>
 </div>
 
-
+> These latter plans for La Posada shows that the space inbetween the various dormaotries was intended for student recreation and interaction within this space [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml) 
 
 
 
