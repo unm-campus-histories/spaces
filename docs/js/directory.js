@@ -65,5 +65,5 @@ function createCard(i,page) {
     //rowString += '</div></div>';
     console.log("just made row: " + rowString);
     //console.log($('.map-popup').html());
-    $('.cards').append(rowString);
+    $('#cards').append(rowString);
 }

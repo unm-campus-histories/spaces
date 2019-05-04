@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
 
@@ -31,7 +29,6 @@ h1 {
 }
 
   #my-main {
-    max-width: 55em;
   }
 
   .container-fluid {
@@ -39,7 +36,7 @@ h1 {
   }
 
   .single-col {
-    margin: 0 15%;
+    margin: 0 5%;
   }
 
   .lg-left-col {
@@ -129,29 +126,28 @@ float:left;
 
 
 aside.pullquote {
-  border-top:.3rem solid #333;
-  border-bottom:.3rem solid #333;
-  margin-left:1rem;
+  border-top:.2rem solid #333;
+  border-bottom:.2rem solid #333;
+  margin-left:1em;
 }
 
 aside.pullquote p{
   font-family:'Oswald';
-  font-size:1.5rem;
-  padding: 1rem;
-  line-height:1.8rem;
-  text-align:left;;
+  font-size:1.2em;
+  padding: .5em 0 .5em 0;
+  line-height:1.2em;
+  text-align:left;
 }
 
 aside.aside-right {
 float:left;
-margin-left:64%;
+margin-left:62%;
 }
 
 aside.aside-left {
 float:left;
 left:0;
 margin:0 1rem 0 0;
-margin-top:.6rem;
 }
 
 
@@ -235,17 +231,12 @@ figcaption a {
 /*****************************************************
 DIRECTORY CARDS
 *****************************************************/
-.headshot {
-float:left;
-width:150px;
-margin-right:2rem;
-}
 
 .card {
-width:21%;
-min-width:235px;
-height:350px;
-margin: 3rem 2rem 0rem 0;
+font-size: 12px;
+width:27%;
+height:30em;
+margin: 3em 2em 0 2em;
 float:left;
 opacity:.8;
 }
@@ -271,43 +262,30 @@ color:#333;
 }
 
 .card-block {
-padding:1rem 1rem 1rem 1rem;
-min-height:14rem;
+padding:1%;
+min-height:14em;
 }
 
 .card-img-top {
-width:100%;
-height:50%;
-
+  width:100%;
 }
 
 .card h4 {
 font-family:'Open Sans';
-font-size:2rem;
-margin-top:.5rem;
+font-size:1.5em;
+margin-top:.5em;
 }
 
 .card-text {
-font-size:1.4rem;
+font-size:1em;
 font-weight:normal;
-}
-
-
-.card-home {
-width:49%;
-margin-right:0;
-}
-
-.card-img-top-home {
-height:250px;
+color:#333;
 }
 
 
 /*****************************************************
 IMAGE CAROUSEL
 *****************************************************/
-
-
 .slick-slide img {
 padding:0 2rem;
 }
@@ -343,10 +321,6 @@ padding:0;
 margin:.5rem 0 0 2rem;
 }
 
-
-
-
-
 } /* end media screen */
 
 
@@ -356,16 +330,11 @@ margin:.5rem 0 0 2rem;
 /*
 /*****************************************************************************/
 
-  @media (max-width: 768px) {
+  @media (max-width: 992px) {
 
-
-  main {
-    margin: 0 1.5%;
+  .card {
+    width:40%;
   }
-
-.lg-left-col p{
-  width:100%;
-}
 
   aside {
   position:relative;
@@ -392,4 +361,10 @@ figure.img-right-col {
   margin: 1rem 0 1rem 0;
 }
 
+}
+
+@media (max-width: 576px) {
+.card {
+  width:100%;
+}
 }
