@@ -26,3 +26,5 @@ for construction limited mobility and created multiple detours of common routes.
 area included the Collaborative Teaching and Learning Building and the Economics building, as well as 
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
 buildings without seeking an alternate route.
+
+{% include figure.html class="img-left" width="31%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %} {% include figure.html class="img-center" width="31%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %} {% include figure.html class="img-right" width="31%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %}
