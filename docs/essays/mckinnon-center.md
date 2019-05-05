@@ -40,7 +40,7 @@ they forced professors to cancel class.  Nonetheless, crews worked long hours da
 the building as fast as possible, knowing that the constant disturbances were uncontrollable issues for 
 the university.
 
-{% include figure.html class="img-left" width="33%" caption="Skeletal structure of MCM. The large construction zone created hazards and difficulties for students and staff who had classes in the surrounding buildings. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" src="images/mcm-construction-5.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="Skeletal structure of MCM. The large construction zone created hazards and difficulties for students and staff who had classes in the surrounding buildings. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" src="images/mcm-construction-5.jpg" %}
 Not only was the surrounding area affected by construction, but classes offered by ASM had to be 
 moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
 and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
@@ -49,7 +49,7 @@ entirety of the east ASM building just to get to their classrooms.
 
 # Completion
 
-{% include figure.html class="img-right" width="40%" caption="The Grand Opening of McKinnon Center for Management on March 15, 2018. The opening and final inspection of the building were completed just in time for UNM's fall semester. [_Source_](https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp)" src="images/mcm-ribbon-cutting.jpg" %}
+{% include figure.html class="img-right" width=38%" caption="The Grand Opening of McKinnon Center for Management on March 15, 2018. The opening and final inspection of the building were completed just in time for UNM's fall semester. [_Source_](https://www.mgt.unm.edu/news/highlights/2018/05/mcm-ribbon-cutting.asp)" src="images/mcm-ribbon-cutting.jpg" %}
 Much to the joy of professors and students alike, the construction of the McKinnon Center for 
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
