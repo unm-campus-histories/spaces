@@ -13,5 +13,3 @@ replacement for the deteriorating Anderson School of Management building, and th
 McKinnon.  The building became accessible to students in the summer of 2018 after a year and a half of construction dating back to December
 2016.  The building adjacent to MCM previously known as the Graduate School of Management has now assumed the Anderson School of Management
 title.  Both buildings serve as the breeding grounds of success for all business students.
-
-{% include figure.html class="img-right" width="33%" caption="McKinnon Center" src="images/mcm.jpg" %}
