@@ -42,5 +42,5 @@ the university.
 Not only was the surrounding area affected by construction, but classes offered by ASM had to be 
 moved to the Graduate School of Management building, where classrooms were limited, and professors 
 had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
-boundaries being formed, and at one point students were forced to walk through fences around the 
+boundaries being formed. At one point, students were forced to walk through fences around the 
 entirety of GSM just to get to their classrooms.
