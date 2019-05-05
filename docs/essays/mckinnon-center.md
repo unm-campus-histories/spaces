@@ -5,7 +5,7 @@ layout: single-col
 date: 2019-04-11
 ---
 
-{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %}
+{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management." src="images/mcm.jpg" %}
 
 # Background
 
@@ -18,7 +18,7 @@ Management has now assumed the Anderson School of Management title.  Together, t
 up the school of business at UNM.
 
 # Construction 
-{% include figure.html class="img-right" width="40%" caption="MCM Blueprints, outlining the construction site" src="images/mcm-blueprints.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="MCM Blueprints, outlining the construction site.  Notice the extension of the outline into UNM's campus and how limiting it made surrounding pathways." src="images/mcm-blueprints.jpg" %}
 
 Construction for the new management building began in December of 2016.  The plan was to demolish 
 the current west ASM building and erect the new one in its place rather than moving locations.  This portion 
@@ -30,8 +30,8 @@ buildings without seeking an alternate route.  These gates extended into campus 
 
 
 
-{% include figure.html class="img-left" width="32%" caption="Demolition of the West ASM building" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
-{% include figure.html class="img-center" width="32%" caption="Early morning construction while campus is empty" src="images/mcm-construction-2.jpg" %}
+{% include figure.html class="img-left" width="32%" caption="The demolition of the West ASM building. The East ASM building was not included in the demolition but was definitely affected." src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
+{% include figure.html class="img-center" width="32%" caption="Early morning construction while campus is empty. Crews worked long days to finish the construction in a timely manner in order to limit campus inaccessbibility as much as possible." src="images/mcm-construction-2.jpg" %}
 
 # Side Effects
 
@@ -42,7 +42,7 @@ they forced professors to cancel class.  Nonetheless, crews worked long hours da
 the building as fast as possible, knowing that the constant disturbances were uncontrollable issues for 
 the university.
 
-{% include figure.html class="img-left" width="33%" caption="Skeletal structure of MCM. Surrounding areas are shown to be gated off" src="images/mcm-construction-5.jpg" %}
+{% include figure.html class="img-left" width="33%" caption="Skeletal structure of MCM. The large construction zone created hazards and difficulties for students and staff who had classes in the surrounding buildings." src="images/mcm-construction-5.jpg" %}
 Not only was the surrounding area affected by construction, but classes offered by ASM had to be 
 moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
 and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
@@ -51,7 +51,7 @@ entirety of the east ASM building just to get to their classrooms.
 
 # Completion
 
-{% include figure.html class="img-right" width="40%" caption="Grand Opening of McKinnon Center for Management on March 15, 2018" src="images/mcm-ribbon-cutting.jpg" %}
+{% include figure.html class="img-right" width="40%" caption="The Grand Opening of McKinnon Center for Management on March 15, 2018. The opening and final inspection of the building were completed just in time for UNM's fall semester" src="images/mcm-ribbon-cutting.jpg" %}
 Much to the joy of professors and students alike, the construction of the McKinnon Center for 
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
@@ -60,7 +60,7 @@ well above the others in surrounding.
 
 # MCM Today
 
-{% include figure.html class="img-left" width="40%" caption="The first semester that students were able to access the new extension of UNM's business school" src="images/mcm-today.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="The first semester that students were able to access the new extension of UNM's school of management. The area where the students are standing had be gated off for a year and a half." src="images/mcm-today.jpg" %}
 After not even a year of being accessible to students at the time that this was written, the McKinnon 
 Center for Management has already proved itself to be one of the most prominent buildings featured on 
 UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone, 
