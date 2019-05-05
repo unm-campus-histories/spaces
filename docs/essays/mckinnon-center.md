@@ -28,6 +28,8 @@ area included the Collaborative Teaching and Learning Building and the Economics
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
 buildings without seeking an alternate route.  These gates extended into campus as far as the CTLB.
 
+
+
 {% include figure.html class="img-left" width="32%" caption="Demolition of the West ASM building" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
 {% include figure.html class="img-center" width="32%" caption="Early morning construction while campus is empty" src="images/mcm-construction-2.jpg" %}
 
@@ -40,6 +42,7 @@ they forced professors to cancel class.  Nonetheless, crews worked long hours da
 the building as fast as possible, knowing that the constant disturbances were uncontrollable issues for 
 the university.
 
+{% include figure.html class="img-left" width="33%" caption="Skeletal structure of MCM. Surrounding areas are shown to be gated off" src="images/mcm-construction-5.jpg" %}
 Not only was the surrounding area affected by construction, but classes offered by ASM had to be 
 moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
 and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
