@@ -27,5 +27,5 @@ area included the Collaborative Teaching and Learning Building and the Economics
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
 buildings without seeking an alternate route.
 
-{% include figure.html class="img-left" width="25%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %} {% include figure.html class="img-right" width="25%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %}
-{% include figure.html class="img-center" width="25%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %}
+{% include figure.html class="img-left" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-3.jpg" %}
+{% include figure.html class="img-center" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-2.jpg" %}
