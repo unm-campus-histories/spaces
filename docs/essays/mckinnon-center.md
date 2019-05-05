@@ -14,20 +14,21 @@ building was constructed as a replacement for the deteriorating Anderson School 
 building, and the $5 million funds were donated to UNM by Ian and Sonnet McKinnon.  The building 
 became accessible to students in the summer of 2018 after a year and a half of construction dating back 
 to December 2016.  The building adjacent to MCM previously known as the Graduate School of 
-Management has now assumed the Anderson School of Management title.  Both buildings serve as the 
-breeding grounds of success for all business students.
+Management has now assumed the Anderson School of Management title.  Together, these buildings make
+up the school of business at UNM.
 
-# Construction
+# Construction 
+{% include figure.html class="img-right" width="40%" caption="MCM Blueprints, outlining the construction site" src="images/mcm-blueprints.jpg" %}
 
 Construction for the new management building began in December of 2016.  The plan was to demolish 
-the current ASM building and erect the new one in its place rather than moving locations.  This portion 
+the current west ASM building and erect the new one in its place rather than moving locations.  This portion 
 of campus proved to be an area where student traffic was at a high and having to shut the area down 
 for construction limited mobility and created multiple detours of common routes.  Buildings around this 
 area included the Collaborative Teaching and Learning Building and the Economics building, as well as 
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
 buildings without seeking an alternate route.  These gates extended into campus as far as the CTLB.
 
-{% include figure.html class="img-left" width="32%" caption="Demolition of the ASM building" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
+{% include figure.html class="img-left" width="32%" caption="Demolition of the West ASM building" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
 {% include figure.html class="img-center" width="32%" caption="Early morning construction while campus is empty" src="images/mcm-construction-2.jpg" %}
 
 # Side Effects
@@ -40,7 +41,7 @@ the building as fast as possible, knowing that the constant disturbances were un
 the university.
 
 Not only was the surrounding area affected by construction, but classes offered by ASM had to be 
-moved to the Graduate School of Management building, where classrooms were limited, and professors 
-had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
+moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
+and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
 boundaries being formed. At one point, students were forced to walk through fences around the 
-entirety of GSM just to get to their classrooms.
+entirety of the east ASM building just to get to their classrooms.
