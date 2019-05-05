@@ -5,7 +5,7 @@ layout: single-col
 date: 2019-04-11
 ---
 
-{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" src="images/mcm.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management. [_Source_](https://www.mgt.unm.edu/building/construction-photos.asp)" src="images/mcm.jpg" %}
 
 # Background
 
