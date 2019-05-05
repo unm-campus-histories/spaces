@@ -27,7 +27,7 @@ area included the Collaborative Teaching and Learning Building and the Economics
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
 buildings without seeking an alternate route.  These gates extended into campus as far as the CTLB.
 
-{% include figure.html class="img-left" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-3.jpg" %}
+{% include figure.html class="img-left" width="25%" caption="Demolition of the ASM building" src="images/mcm-construction-1.jpg" %} {% include figure.html class="img-right" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-3.jpg" %}
 {% include figure.html class="img-center" width="25%" caption="The McKinnon Center for Management" src="images/mcm-construction-2.jpg" %}
 
 # Side Effects
