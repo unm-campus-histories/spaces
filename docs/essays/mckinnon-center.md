@@ -6,10 +6,6 @@ date: 2019-04-11
 ---
 
 
-# McKinnon Center for Management
-
-
-
 # Background
 
 The McKinnon Center for Management is the staple of UNM’s northern edge of campus.  The multi-story building was constructed as a
