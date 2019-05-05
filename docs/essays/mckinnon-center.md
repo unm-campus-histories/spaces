@@ -5,6 +5,7 @@ layout: single-col
 date: 2019-04-11
 ---
 
+{% include figure.html class="img-left" width="33%" caption="McKinnon Center" src="images/mcm.jpg" %}
 
 # Background
 
