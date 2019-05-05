@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>university- advisement- center</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-1200-77-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>University Advisement and Enrichment Center</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -106.6184806,35.0843256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polygon 2</name>
+      <description>university- advisement- center</description>
+      <styleUrl>#poly-000000-1200-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -106.6186796,35.0845507,0
+              -106.6187614,35.0844849,0
+              -106.6187614,35.0842149,0
+              -106.6187212,35.0841776,0
+              -106.6187547,35.0841534,0
+              -106.6186783,35.0840953,0
+              -106.6186501,35.0841238,0
+              -106.6186005,35.0840843,0
+              -106.6185535,35.0840854,0
+              -106.6185562,35.0840206,0
+              -106.6185978,35.0840195,0
+              -106.6186018,35.0840108,0
+              -106.6186045,35.0839998,0
+              -106.6186005,35.083991,0
+              -106.6185643,35.0839888,0
+              -106.6185643,35.0839537,0
+              -106.6184784,35.0838835,0
+              -106.6184798,35.0837573,0
+              -106.6184704,35.0837529,0
+              -106.6183671,35.0837529,0
+              -106.618351,35.0837606,0
+              -106.6183524,35.0839537,0
+              -106.6184382,35.0840206,0
+              -106.6184369,35.084081,0
+              -106.6182826,35.0840755,0
+              -106.6181968,35.0841458,0
+              -106.6181968,35.0842807,0
+              -106.6181244,35.0842796,0
+              -106.6181217,35.0843422,0
+              -106.6181968,35.0843422,0
+              -106.6181901,35.0844772,0
+              -106.6182732,35.0845496,0
+              -106.6186796,35.0845507,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
