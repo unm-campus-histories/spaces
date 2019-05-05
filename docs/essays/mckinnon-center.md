@@ -54,7 +54,8 @@ Much to the joy of professors and students alike, the construction of the McKinn
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
 were littered with benches, rock beds, and grassy patches, and the design of the building itself made it stand out 
-well above the others in surrounding.  
+well above the others in surrounding.  The building is easily noticeable when standing on the street just north of it, 
+as it is the largest and cleanest building on UNM's northern campus.
 
 # MCM Today
 
