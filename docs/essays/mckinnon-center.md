@@ -25,4 +25,4 @@ of campus proved to be an area where student traffic was at a high and having to
 for construction limited mobility and created multiple detours of common routes.  Buildings around this 
 area included the Collaborative Teaching and Learning Building and the Economics building, as well as 
 Hokona Hall.  The northern edge of campus was gated off and prevented students from accessing these 
-buildings without seeking an alternate route.
+buildings without seeking an alternate route.h
