@@ -51,6 +51,7 @@ entirety of the east ASM building just to get to their classrooms.
 
 # Completion
 
+{% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
 Much to the joy of professors and students alike, the construction of the McKinnon Center for 
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
