@@ -53,7 +53,7 @@ entirety of the east ASM building just to get to their classrooms.
 Much to the joy of professors and students alike, the construction of the McKinnon Center for 
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
-were littered with benches and grassy patches, and the design of the building itself made it stand out 
+were littered with benches, rock beds, and grassy patches, and the design of the building itself made it stand out 
 well above the others in surrounding.  
 
 # MCM Today
@@ -63,5 +63,5 @@ After not even a year of being accessible to students at the time that this was 
 Center for Management has already proved itself to be one of the most prominent buildings featured on 
 UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone, 
 which only makes the area more easily accessible.  MCM is forecasted to last about 50 years, and in that 
-time it will continue to house an innovative business culture for students and staff.h
+time it will continue to house an innovative business culture for students and staff.
 
