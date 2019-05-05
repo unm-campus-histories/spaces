@@ -5,7 +5,7 @@ layout: single-col
 date: 2019-04-11
 ---
 
-{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management." src="images/mcm.jpg" %}
+{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management, UNM's most modern development and the latest addition to The School of Management. [Source](https://www.mgt.unm.edu/building/construction-photos.asp)" src="images/mcm.jpg" %}
 
 # Background
 
@@ -60,7 +60,7 @@ well above the others in surrounding.
 
 # MCM Today
 
-{% include figure.html class="img-left" width="40%" caption="The first semester that students were able to access the new extension of UNM's school of management. The area where the students are standing had be gated off for a year and a half." src="images/mcm-today.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="The first semester that students were able to access the new extension of UNM's school of management. The area where the students are standing had previously been gated off for a year and a half." src="images/mcm-today.jpg" %}
 After not even a year of being accessible to students at the time that this was written, the McKinnon 
 Center for Management has already proved itself to be one of the most prominent buildings featured on 
 UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone, 
