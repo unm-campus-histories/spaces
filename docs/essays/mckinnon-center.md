@@ -44,4 +44,21 @@ Not only was the surrounding area affected by construction, but classes offered 
 moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
 and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
 boundaries being formed. At one point, students were forced to walk through fences around the 
-entirety of the east ASM building just to get to their classrooms.h
+entirety of the east ASM building just to get to their classrooms.
+
+# Completion
+
+Much to the joy of professors and students alike, the construction of the McKinnon Center for 
+Management was completed on March 15, 2018.  The building would undergo further tests to make 
+sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
+were littered with benches and grassy patches, and the design of the building itself made it stand out 
+well above the others in surrounding.  
+
+# MCM Today
+
+After not even a year of being accessible to students at the time that this was written, the McKinnon 
+Center for Management has already proved itself to be one of the most prominent buildings featured on 
+UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone, 
+which only makes the area more easily accessible.  MCM is forecasted to last about 50 years, and in that 
+time it will continue to house an innovative business culture for students and staff.
+
