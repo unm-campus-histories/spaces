@@ -11,7 +11,7 @@ date: 2019-04-11
 
 The McKinnon Center for Management is the staple of UNM’s northern edge of campus.  The multi-story
 building was constructed as a replacement for the deteriorating Anderson School of Management
-building, and the $5 million funds were donated to UNM by Ian and Sonnet McKinnon.  The building 
+building, and $5 million of the total $25.4 million funds were donated to UNM by Ian and Sonnet McKinnon.  The building 
 became accessible to students in the summer of 2018 after a year and a half of construction dating back 
 to December 2016.  The building adjacent to MCM previously known as the Graduate School of 
 Management has now assumed the Anderson School of Management title.  Together, these buildings make
@@ -51,7 +51,7 @@ entirety of the east ASM building just to get to their classrooms.
 
 # Completion
 
-{% include figure.html class="img-right" width="32%" caption="Removal of interior materials to be separated and recycled" src="images/mcm-construction-4.jpg" %}
+{% include figure.html class="img-left" width="40%" caption="Grand Opening of McKinnon Center for Management on March 15, 2018" src="images/mcm-ribbon-cutting.jpg" %}
 Much to the joy of professors and students alike, the construction of the McKinnon Center for 
 Management was completed on March 15, 2018.  The building would undergo further tests to make 
 sure it was safe and secure.  By May 11, the MCM was officially open.  The grounds around the building 
@@ -60,6 +60,7 @@ well above the others in surrounding.
 
 # MCM Today
 
+{% include figure.html class="img-right" width="40%" caption="The first semester that students were able to access the new extension of UNM's business school" src="images/mcm-today.jpg" %}
 After not even a year of being accessible to students at the time that this was written, the McKinnon 
 Center for Management has already proved itself to be one of the most prominent buildings featured on 
 UNM’s campus, as well as the most modern.  The building also came with a new student drop-off zone, 
