@@ -5,7 +5,7 @@ layout: single-col
 date: 2019-04-11
 ---
 
-{% include figure.html class="img-left" width="33%" caption="McKinnon Center" src="images/mcm.jpg" %}
+{% include figure.html class="img-center" width="50%" caption="The McKinnon Center for Management" src="images/mcm.jpg" %}
 
 # Background
 
