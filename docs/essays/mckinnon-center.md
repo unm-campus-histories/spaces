@@ -44,4 +44,4 @@ Not only was the surrounding area affected by construction, but classes offered 
 moved to both the Graduate School of Management building and the east ASM building, where classrooms were limited 
 and professors had to adjust to their new classroom layouts.  In addition, the progression of construction led to new 
 boundaries being formed. At one point, students were forced to walk through fences around the 
-entirety of the east ASM building just to get to their classrooms.
+entirety of the east ASM building just to get to their classrooms.h
