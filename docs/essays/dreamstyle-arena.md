@@ -64,7 +64,7 @@ On-site open space equal to twice the building footprint has been designated and
 {% include figure.html class="img-left" width="48%" caption="The Pit entrance 2003" src="images/the-pit-old.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="The Pit entrance 2019" src="images/the-pit-new.jpg" %}
 
-#Other Events at The Pit
+# Other Events at The Pit
 The Pit is the home of Lobo Basketball but the arena has also hosted many other events including the PBR Ty Murray Invitiational multiple years, New Mexico High School Basketball Tournaments, Led Zepplin Concert 1973, New Mexico High School Graduations, NCAA College basketball tournament games in 1968, 1978, 1983, 1985, 1992, 1996, 2000, 2002, 2005, and 2012.
 
 
