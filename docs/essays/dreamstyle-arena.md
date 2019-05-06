@@ -44,43 +44,28 @@ The first large scale renovation since 1966 would happen in 2009 when UNM decide
 
 **Noteable achivements of the renovation included the following**
 
-
 The Pit’s location affords easy access to local community services (SS 2), public transportation (SS 4.1), and bicycle storage & changing rooms (SS 4.2).
-47 preferred parking spaces have been provided for low-emitting and fuel-efficient vehicles, and no additional parking has been included in the renovation.
-330,369 square feet of open space, twice the square footage of the building footprint, has been designated and will be conserved for the life of the building.
-On-site retention and detention ponds treat 100% of rainfall volume, allowing the site to capture solids at surface level and preventing them from entering the public subsurface infrastructure.
-
-Water Efficiency
+_Water Efficiency_
 Landscape and irrigation systems include native and adapted plants and efficient irrigation systems yielding a 71% reduction of potable water compared to the baseline.
 Selection of efficient faucets, lavatories, urinals, shower heads and toilets contribute to a 47.3% water savings over the Energy Policy Act of 1992.
-
-Energy Efficiency
+_Energy Efficiency_
 Energy-efficient measures include insulating the exterior shell and roof, high performance windows, decreased interior and exterior lighting power, 95% efficient boiler for underfloor radiant heat, and efficient constant volume recirculation pump.
-The energy model predicts the building will cost 20.6% less and consume 13.8% less energy than an ASHRAE 90.1-2004 compliant baseline.
-Refrigerants were selected to comply with LEED requirements to prevent ozone depletion.
-Materials and Resources
-
+_Materials and Resources_
 Over 93% of the existing walls, floors, and roof have been maintained in the renovation.
 Construction waste management activities diverted 95.1% of disposed materials from the landfill and toward recycling, salvage or reuse.
 5,200 tons of concrete and 3,416 tons of asphalt from the existing facility were crushed into aggregate and reused on the project as sub-base and fill.
-Materials were specified and documented to achieve 20.6% recycled content and 21.7% regional materials.
-85% of new wood products installed on the product came from FSC-certified sources.
-Indoor Environmental Quality
-
+_Indoor Environmental Quality_
 Outside air ventilation rates exceed the national ventilation standard ASHRAE 62.1-2004 by over 30%.
 A construction IAQ management plan was implemented during construction to reduce dust, odors, chemical residues and other respiratory irritants.
-Interior materials were specified to be low in volatile organic compounds (VOC) and formaldehyde. Low-emitting materials include carpets, paints, coatings, adhesives, sealants and composite wood products.
-Entryway walk-off mats, exhausted chemical use areas, and high efficiency MERV 13 filters reduce the presence of indoor chemicals and pollutants.
-100% of individual workstations are equipped with individual lighting controls.
-Innovation in Design Process
-
+_Innovation in Design Process_
 47.3% water use reduction qualifies The Pit for an exemplary performance point in WE 3 – Water Use Reduction.
 On-site open space equal to twice the building footprint has been designated and will be conserved for the life of the building, allowing The Pit project to submit for exemplary performance in SS 5.2 – Maximize Open Space.
-The 95.1% diversion of disposed materials from the landfill and toward recycling, salvage or reuse qualifies The Pit for an exemplary performance point in MR 2 – Construction Waste Management.
-The Pit involved multiple LEED accredited professionals throughout the process, enabling it to submit for the ID 2: LEED Accredited Professional credit.
 
 {% include figure.html class="img-left" width="48%" caption="The Pit entrance 2003" src="images/the-pit-old.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="The Pit entrance 2019" src="images/the-pit-new.jpg" %}
+
+#Other Events at The Pit
+The Pit is the home of Lobo Basketball but the arena has also hosted many other events including the PBR Ty Murray Invitiational multiple years, New Mexico High School Basketball Tournaments, Led Zepplin Concert 1973, New Mexico High School Graduations, NCAA College basketball tournament games in 1968, 1978, 1983, 1985, 1992, 1996, 2000, 2002, 2005, and 2012.
 
 
 
