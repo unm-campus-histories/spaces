@@ -1,6 +1,8 @@
+---
 title: University Advisement Center
 author: Christopher Apodaca 
 layout: single-col
+---
 
 
 University Advisement and Enrichment Center 
