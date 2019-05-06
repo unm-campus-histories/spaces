@@ -1,7 +1,6 @@
-Title: University Advisement Center
-Author: Christopher Apodaca 
-Layout: Single- col
-Date: 05-02-2019
+title: University Advisement Center
+author: Christopher Apodaca 
+layout: single-col
 
 
 University Advisement and Enrichment Center 
