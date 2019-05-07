@@ -30,7 +30,4 @@ The decision of the building was difficult for those involved but they had come 
 
 
 
-### Naming the Building
-
-
 {% include figure.html class="img-right" width="33%" caption="Ortega Hall Morning" src="images/ortega-hall.jpg" %}
