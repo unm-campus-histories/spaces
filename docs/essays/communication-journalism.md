@@ -31,4 +31,15 @@ Emails were sent back and forth from the Secretary of the University, John Durri
 
 {% include figure.html class="img-left" width="49%" caption="Front of the C & J Building today looking toward the main entrance from Redondo Drive." src="images/cj-today.jpg" %}
 
+## Bibliography
+
+- University of New Mexico. College of Arts and Sciences, English Department History, 1989, Accession 139, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. College of Arts and Sciences, Communication Department History, 1989, Accession 139, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- Davis, William E. _Miracle on the Mesa: A History of the University of New Mexico, 1889-2003_. Albuquerque, NM: University of New Mexico Press, 2006.
+
+- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+
+- University of New Mexico. Department of Facility Planning Records, 1889-, Collection UNMA 028, Box 55. Center for Southwest Research, University Libraries, University of New Mexico.
 
