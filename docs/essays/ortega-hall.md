@@ -8,6 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
+{% include figure.html class="img-right" width="48%" caption="Ortega Hall 1978, One of three buildings to replace Zimmerman Stadium" src="images/ortega-hall-exterior.jpeg" %}
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
 
@@ -19,7 +20,7 @@ The current location of Ortega Hall has been a busy area prior to the constructi
  
 
 ### The Exterior Design
-
+This 50,000 square foot classroom and faculty office building at the University of New Mexico also contains clusters of language labratories and audiovisual rooms as well as a large student lounge and library. Completed in 1977 for a cost of $1,440,000, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.  
 
 ### The Interior Design and Classrooms
 
