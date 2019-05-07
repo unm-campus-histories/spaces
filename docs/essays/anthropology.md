@@ -11,9 +11,8 @@ date: 2019-04-10
 Where is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building—not a tucked-away science building on the edge of campus. But if the university has a historical heart, it lies in the Anthropology building. Shielded by massive pines on the western side of campus, this squat complex contains a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it was once the center of campus life as the original Student Union Building.
 
 ## Construction
+{% include figure.html class="img-right" width="40%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration.The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^hooker]
-
-{% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937." src="images\anth-student-union-opening.jpg" %}
 
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. " src="images\anth-construction.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain." src="images\anth-exterior.jpg" %}
@@ -27,7 +26,7 @@ Early photographs of the Student Union show a barren campus. Across its lifetime
 
 By the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960. The transition required a number of interior renovations, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology.[^csw]
 
-Besides these initial changes, the Anthropology Building has endured many exterior and interior renovations in its lifetime, the most significant of which came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.[^csw]
+Besides these initial changes, the Anthropology Building has endured many exterior and interior renovations in its lifetime, the most significant of which came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.[^csw-2]
 
 {% include figure.html class="img-left" width="40%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university." src="images\faculty-correspondence.jpg" %}
 
@@ -47,3 +46,5 @@ The Anthropology building is easy to overlook; it’s so far west that most stud
 [^hooker]: Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000, p. 77.
 
 [^csw]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+
+[^csw-2]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
