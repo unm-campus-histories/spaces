@@ -40,4 +40,8 @@ The Anthropology building is easy to overlook; it’s so far west that most stud
 
 
 ### Bibliography
+* Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
+
+* University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+
 
