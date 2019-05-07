@@ -8,15 +8,17 @@ date: 2019-04-10
 
 # Communication and Journalism Building
 
-{% include figure.html class="img-left" width="100%" caption="View from Central Avenue photo by Tyler Dingee" src="images/cj-front.jpg" %}
+{% include figure.html class="img-left" width="80%" caption="View from Central Avenue photo by Tyler Dingee" src="images/cj-front.jpg" %}
 #### Overview
-The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo Revival styled building, made of clay tile and stucco, located on the south end of campus at the University of New Mexico (UNM) in Albuquerque, New Mexico. Its sits on the corner of Central Avenue and Yale Boulevard with its main entrance facing north Redondo Drive.
+The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo Revival styled building, made of clay tile and stucco, located on the south end of campus at the University of New Mexico (UNM) in Albuquerque, New Mexico. It sits on the corner of Central Avenue and Yale Boulevard with its main entrance facing north toward Redondo Drive.
 
-{% include figure.html class="img-center" width="100%" caption="View looking northeast. Photo by L. Johnson" src="images/cj-side.jpg" %}
+{% include figure.html class="img-center" width="80%" caption="View looking northeast. Photo by L. Johnson" src="images/cj-side.jpg" %}
 
 
 #### Early History
-Before 1947, the study of journalism was not its own department yet, but housed in the English Department. There were two professors teaching literature and writing courses, it included some journalistic, short story writing and book reviewing. By 1920, the department had increased in size and two new lecturers were added to accommodate the English department. After World War II, many returning veterans took advantage of the military's G.I Bill education benefits and universities across the United States saw an increase in enrollment. With the increased student attendance, journalism would later form its own independent department while it maintained national accreditation. The C & J building originally housed the Printing Plant, post office and UNM Press. It was built by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates, in 1949 and was built after the chemical engineering building. Meem's work can be seen across UNM campus, to include the Zimmerman Library. 
+C & J was built by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates, in 1949 and was built after the chemical engineering building. Meem's work can be seen across UNM campus, which includes the famous [Zimmerman Library]: (www.https://unm-campus-histories.github.io/spaces/essays/zimmerman.html)
+
+Before 1947, journalism was only offered to students through the English department. The English department only had a few teachers who specialized in the field of journalism. There were two professors teaching literature and writing courses, which included some journalistic, short-story writing and book reviewing. By 1920, the department had increased in size and two new lecturers were added to accommodate the English department. After World War II, many returning veterans took advantage of the military's G.I Bill education benefits causing universities across the United States to see an increase in enrollment. With the increase of student enrollments, journalism would later form its own independent department, eventually getting national accrediation. The C & J building originally housed the Printing Plant, post office and UNM Press. 
 
 #### Additions
 In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
