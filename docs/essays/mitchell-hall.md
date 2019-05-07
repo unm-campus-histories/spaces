@@ -15,7 +15,7 @@ Mitchell hall is located just south of Dane Smith Hall in-between the Duck Pond 
 
 ### Game Plan
 In May of 1950 the board of regents approved plans and specifications for the classroom buiding known as number 23. The building had two floors plus a partial basement and 40 classrooms ranging in size from 20-150 seats. Bids were taken at the State Purchasing office in Santa Fe NM, on June 12th, 1950. K.L. House Construction company was awarded the contract and started working on it June 19th. 
-{% include figure.html class="img-right" width="45%" caption="These are the 4 contractors who bid on the building 23 project. The winner of the bid was K.L. House Construction who bid a total of $500,672 for the total cost of the building" src="images/mitchell-hall-contractors.jpg" %}
+{% include figure.html class="img-right" width="50%" caption="These are the 4 contractors who bid on the building 23 project. The winner of the bid was K.L. House Construction who bid a total of $500,672 for the total cost of the building" src="images/mitchell-hall-contractors.jpg" %}
 
 ### Early Stages
 The regents elected to carry the heritage of age-old Spanish-Indian architectural influence into campus buildings and development. This influence was based on climate conditions, materials available, and the decorative influences of old Spain, Indian pueblos, and churches erected by the early missionaries. In the design of Mitchell hall, the University requested that four primary considerations be met.1) that the cost be kept to a minimum. 2) that the building be as completely functional as possible. 3) that the latest technics for fine classroom facilities and operation be incorporated. 4) that the building carries out the architectural tradition of the other campus buildings. 
@@ -33,10 +33,10 @@ In designing the heating and ventilating system for the building. The considerat
 
 ### Size of classrooms and seating
 The size of Mitchell Hall was to be able to hold 1800 students in 40 classrooms which was dictated by enrollment needs. Size of the classrooms and number to be accommodated in each was set by curricular requirements. There are eight 30 student rooms with fixed seats and six with loose seats for dual purpose as seminar rooms. There are four 60 student rooms with fixed seats and two 80 student rooms with fixed seats. One flat floor 100 student lecture room, two stepped seating 100 student lecture rooms. One 120 student stepped seating lecture room and two seminar rooms. 
-{% include figure.html class="img-middle" width="50%" capttion="Lynn B. Mitchell" src="images/mitchell-hall-lynn-mitchell.jpg" %}
+
 ### Naming the Building
 A letter from President Tom Popejoy to Dr. Mitchell stating that that the name of building #23 be named after Lynn B. Mitchell. It was approved by the board of regnets on August 21, 1951.{% include figure.html class="img-middle" width="50%" capttion="President Popejoy's letter to Lynn Mitchell congratulating and letting him know that the board of regents have decided to call building number 23 Mitchell Hall" src="images/mitchell-hall-naming.jpg" %}
-
+{% include figure.html class="img-middle" width="50%" capttion="Lynn B. Mitchell" src="images/mitchell-hall-lynn-mitchell.jpg" %}
 
 
 
