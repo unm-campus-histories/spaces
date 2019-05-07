@@ -8,10 +8,10 @@ date: 2019-04-10
 # Anthropology Building
 {% include figure.html class="img-center" width="100%" src="images\anth-exterior-close.jpg" %}
 
-Where is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building—not a tucked-away science building on the edge of campus. But if the university has a historical heart, it lies in the Anthropology building. Shielded by massive pines on the western side of campus, this squat complex contains a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it was once the center of campus life as the original Student Union Building.[^source-1]
+Where is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building—not a tucked-away science building on the edge of campus. But if the university has a historical heart, it lies in the Anthropology building. Shielded by massive pines on the western side of campus, this squat complex contains a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it was once the center of campus life as the original Student Union Building.
 
 ## Construction
-The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration. The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[C]
+The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration.[^source-1] The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936.[^source-1] In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^source-2]
 
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. " src="images\anth-construction.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain." src="images\anth-exterior.jpg" %}
@@ -40,8 +40,10 @@ The Anthropology building is easy to overlook; it’s so far west that most stud
 
 
 ### Bibliography
-* [^source-1]: Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
+* Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
 
 * University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
 
+[^source-1]: Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
 
+[^source-2]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
