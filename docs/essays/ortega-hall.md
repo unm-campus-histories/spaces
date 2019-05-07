@@ -27,7 +27,7 @@ This 50,000 square foot classroom and faculty office building at the University 
 ### Naming the Building
 The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages. 
 
-### Size of classrooms and seating
+### Inital drawings and concepts of Ortega Hall
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing1.jpg"/></div>
