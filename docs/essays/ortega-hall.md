@@ -8,7 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
-{% include figure.html class="img-right" width="90%" caption="Ortega Hall 1978, One of three buildings to replace Zimmerman Stadium" src="images/ortega-hall-exterior1.jpeg" %}
+{% include figure.html class="img-center" width="90%" caption="Ortega Hall 1978, One of three buildings to replace Zimmerman Stadium" src="images/ortega-hall-exterior1.jpeg" %}
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
 
@@ -29,6 +29,11 @@ The decision of the building was difficult for those involved but they had come 
 
 ### Size of classrooms and seating
 
-
-
-{% include figure.html class="img-right" width="33%" caption="Ortega Hall Morning" src="images/ortega-hall.jpg" %}
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing1.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing2.jpeg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing3.jpeg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing4.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing5.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing6.jpg"/></div>
+</div>
