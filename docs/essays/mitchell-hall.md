@@ -38,6 +38,7 @@ The size of Mitchell Hall was to be able to hold 1800 students in 40 classrooms 
  
 ### Naming the Building
 A letter from President Tom Popejoy to Dr. Mitchell stating that that the name of building #23 be named after Lynn B. Mitchell. It was approved by the board of regnets on August 21, 1951.
+
 {% include figure.html class="img-middle" width="50%" caption="" src="images/mitchell-hall-lynn-mitchell.jpg" %}
 
 
