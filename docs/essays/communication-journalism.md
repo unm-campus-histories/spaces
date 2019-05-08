@@ -15,7 +15,7 @@ The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo
 
 {% include juxtapose.html
 image1="images/cj-side.jpg"
-image2="images/kimo-1938.jpg"
+image2="images/cj-side-today.jpg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
 
