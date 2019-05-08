@@ -10,10 +10,11 @@ This website is the result of a collaborative research project by dedicated, ind
 A huge thanks to the Center for Southwest Research for their research assistance!
 
 ---
+Aaron Padilla - [La Posada Dining Hall](essays/la-posada-dinning-hall)
 
 Alyssa Bitsie - [Communication and Journalism Building](essays/communication-journalism)
 
-Jessica Bowen- [Humanities Building](essays/humanities-building)
+Jessica Bowen - [Humanities Building](essays/humanities-building)
 
 Autumn Buckridge- [Sara Raynolds Hall](essays/sara-raynolds-hall)
 
