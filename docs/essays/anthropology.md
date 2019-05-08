@@ -33,6 +33,7 @@ While the university’s larger problem of class sizes had little to do with Ant
   <div><img src="{{ site.baseurl }}/essays/images/lobo-1960.png"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-addition.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-plans.jpg"/></div>
 </div>
 
