@@ -30,12 +30,14 @@ Besides these initial changes, the Anthropology Building has endured many exteri
 
 {% include figure.html class="img-center" width="47%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
 
-{% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
+{% include figure.html class="img-center" width="50%" caption="A student reads outside the pre-renovation Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
 ## Anthropology, Today
 {% include figure.html class="img-left" width="60%" caption="The east entrance of the Anthropology Building is obscured by trees. 2019." src="images\anth-modern.jpg" %}
 
 The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of science credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
+
+{% include figure.html class="img-left" width="60%" caption="Contemporary layout of Anthropology building." src="images\anth-plans.jpg" %}
 
 
 ### Bibliography
