@@ -24,7 +24,7 @@ Early photographs of the Student Union show a barren campus. Across its lifetime
 
 By the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960. The transition required a number of interior renovations, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology.[^csw]
 
-{% include figure.html class="img-left" width="40%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
 
 The 1970s marked a decade of construction, renovation, and frustration for the Anthropology Department. The university experienced a seating crisis as it struggled to match classes to appropriately-sized classrooms. In 1970, funds from the National Science Foundation spurred the construction of the Anthropology Annex, which created more room for the Maxwell Museum and anthropological research. By 1979, renovations to the annex were already being discussed as a part of the university’s attempts to resolve their seating issues.[^csw-2]
 
@@ -32,9 +32,9 @@ While the university’s larger problem of class sizes had little to do with Ant
 
 
 <div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/anth-student-union-opening.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling-again"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-plans.jpg"/></div>
 </div>
 
