@@ -16,7 +16,7 @@ The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo
 {% include juxtapose.html
 image1="images/cj-side.jpg"
 image2="images/cj-side-today.jpg"
-caption="These sliders are way more effective the more closely you line up the before and after images."
+caption="C & J building looking northeast."
 %}
 
 #### Early History
@@ -36,10 +36,9 @@ Emails were sent back and forth from the Secretary of the University, John Durri
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/cj-classroom.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-today.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-article.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-newspaper-article.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-letter.jpg"/></div>
 </div>
 
 
