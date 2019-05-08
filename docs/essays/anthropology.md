@@ -28,6 +28,7 @@ Besides these initial changes, the Anthropology Building has endured many exteri
 
 {% include figure.html class="img-left" width="40%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
 
+{% include figure.html class="img-center" width="40%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
 
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
