@@ -28,15 +28,11 @@ By the 1950s, rising enrollment strained the resources of the diminutive Student
 
 The 1970s marked a decade of construction, renovation, and frustration for the Anthropology Department. The university experienced a seating crisis as it struggled to match classes to appropriately-sized classrooms. In 1970, funds from the National Science Foundation spurred the construction of the Anthropology Annex, which created more room for the Maxwell Museum and anthropological research. By 1979, renovations to the annex were already being discussed as a part of the university’s attempts to resolve their seating issues.[^csw-2]
 
+{% include figure.html class="img-right" width="47%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
+
 While the university’s larger problem of class sizes had little to do with Anthropology, some renovations to the building were consequences of its past. When the Student Union moved to its current home, the old ballroom became a massive lecture hall. Correspondence between university officials reveal frustrations with this space: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms. Many letters between instructors, administrators, and architects reveal that the process of planning and approving renovations was a slow one. [^csw-3]
 
-
-<div class="carousel">
-  <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/anth-more-remodelling.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/anth-plans.jpg"/></div>
-</div>
+{% include figure.html class="img-center" width="60%" caption="Contemporary layout of Anthropology building. Source: Center for Southwest Research" src="images\anth-plans.jpg" %}
 
 ## Anthropology, Today
 {% include figure.html class="img-left" width="60%" caption="The east entrance of the Anthropology Building is obscured by trees. Photo by Maxine Porter, 2019." src="images\anth-modern.jpg" %}
