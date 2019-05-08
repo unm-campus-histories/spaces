@@ -36,18 +36,19 @@ While the university’s larger problem of class sizes had little to do with Ant
 
 {% include figure.html class="img-left" width="60%" caption="Contemporary layout of Anthropology building." src="images\anth-plans.jpg" %}
 
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/anth-student-union-opening.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/lobo-1960.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/anth-addition.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
+</div>
 
 ## Anthropology, Today
 {% include figure.html class="img-left" width="60%" caption="The east entrance of the Anthropology Building is obscured by trees. Photo by Maxine Porter, 2019." src="images\anth-modern.jpg" %}
 
 The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of science credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
 
-
-{% include juxtapose.html
-image1="images/maxwell-old.jpg"
-image2="images/maxwell-new.jpg"
-caption="The Maxwell Museum of Anthropology in the 1970s compared to 2019. Historical photo from Center for Southwest Research; contemporary photo by Maxine Porter."
-%}
+{% include figure.html class="img-right" width="60%" caption="Entrance to the Maxwell Museum of Anthropology. Photo by Maxine Porter, 2019." src="images\maxwell-new.jpg" %}
 
 
 ### Bibliography
