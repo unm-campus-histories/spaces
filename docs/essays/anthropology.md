@@ -20,21 +20,22 @@ Early photographs of the Student Union show a barren campus. Across its lifetime
 {% include figure.html class="img-center" width="80%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
-{% include figure.html class="img-right" width="50%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
+{% include figure.html class="img-right" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
 
 By the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960. The transition required a number of interior renovations, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology.[^csw]
 
 Besides these initial changes, the Anthropology Building has endured many exterior and interior renovations in its lifetime, the most significant of which came in the mid-1970s. Correspondence between university officials reveal frustrations with the Anthropology lecture hall: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.[^csw-2]
 
-{% include figure.html class="img-left" width="40%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
+{% include figure.html class="img-left" width="47%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
 
-{% include figure.html class="img-center" width="40%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
+{% include figure.html class="img-center" width="47%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
 
 {% include figure.html class="img-center" width="50%" caption="A student reads outside the Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
 
 ## Anthropology, Today
 {% include figure.html class="img-left" width="60%" caption="The east entrance of the Anthropology Building is obscured by trees. 2019." src="images\anth-modern.jpg" %}
-The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of / credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
+
+The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of science credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
 
 
 ### Bibliography
