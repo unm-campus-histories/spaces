@@ -24,17 +24,17 @@ Early photographs of the Student Union show a barren campus. Across its lifetime
 
 By the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960. The transition required a number of interior renovations, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology.[^csw]
 
-{% include figure.html class="img-left" width="50%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
+{% include figure.html class="img-left" width="50%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
 
 The 1970s marked a decade of construction, renovation, and frustration for the Anthropology Department. The university experienced a seating crisis as it struggled to match classes to appropriately-sized classrooms. In 1970, funds from the National Science Foundation spurred the construction of the Anthropology Annex, which created more room for the Maxwell Museum and anthropological research. By 1979, renovations to the annex were already being discussed as a part of the university’s attempts to resolve their seating issues.[^csw-2]
 
-While the university’s larger problem of class sizes had little to do with Anthropology, some renovations to the building were consequences of its past. When the Student Union moved to its current home, the old ballroom became a massive lecture hall. Correspondence between university officials reveal frustrations with this space: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.[^csw-3]
+While the university’s larger problem of class sizes had little to do with Anthropology, some renovations to the building were consequences of its past. When the Student Union moved to its current home, the old ballroom became a massive lecture hall. Correspondence between university officials reveal frustrations with this space: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms. Many letters between instructors, administrators, and architects reveal that the process of planning and approving renovations was a slow one. [^csw-3]
 
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/anth-remodelling-again"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/anth-more-remodelling"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-plans.jpg"/></div>
 </div>
 
@@ -43,7 +43,7 @@ While the university’s larger problem of class sizes had little to do with Ant
 
 The Anthropology building is easy to overlook; it’s so far west that most students will never pass by it often, so specialized that only freshman in need of science credits and dedicated Anthropology students will actually go inside, and the veritable orchard outside the main entrance even makes it difficult to photograph. For a different generation, the little rectangle on the west of campus was the heart of their college life. The movement of the Student Union Building shifted the entire balance of campus eastward, leaving the dear “old SUB” behind.
 
-{% include figure.html class="img-right" width="60%" caption="Entrance to the Maxwell Museum of Anthropology. Photo by Maxine Porter, 2019." src="images\maxwell-new.jpg" %}
+{% include figure.html class="img-right" width="50%" caption="Entrance to the Maxwell Museum of Anthropology. Photo by Maxine Porter, 2019." src="images\maxwell-new.jpg" %}
 
 
 ### Bibliography
