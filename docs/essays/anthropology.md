@@ -51,7 +51,7 @@ caption="The Maxwell Museum of Anthropology in the 1970s compared to 2019. Histo
 ### Bibliography
 * Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
 
-* University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
+* University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1-2. Center for Southwest Research, University Libraries, University of New Mexico.
 
 [^hooker]: Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000, p. 77.
 
