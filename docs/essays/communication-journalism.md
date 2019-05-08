@@ -39,8 +39,6 @@ Emails were sent back and forth from the Secretary of the University, John Durri
   <div><img src="{{ site.baseurl }}/essays/images/cj-classroom.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-today.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-article.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/cj-newspaper-article.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/cj-letter.jpg"/></div>
 </div>
 
 
