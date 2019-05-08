@@ -13,15 +13,15 @@ Where is the heart of the University of New Mexico? Some might say the stylistic
 ## Construction
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. Source: Center for Southwest Research" src="images\anth-construction.jpg" %}
 
-{% include figure.html class="img-left" width="47%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
 
 The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration. The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^hooker]
 
 Early photographs of the Student Union show a barren campus. Across its lifetime, the Student Union/Anthropology building has flaunted a variety of landscaping looks, each gradually more pleasant than the last.
 
-{% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937. Source: Center for Southwest Research" src="images\anth-student-union-opening.jpg" %}
+{% include figure.html class="img-left" width="30%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937. Source: Center for Southwest Research" src="images\anth-student-union-opening.jpg" %}
 
-{% include figure.html class="img-center" width="60%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
+{% include figure.html class="img-right" width="60%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
 {% include figure.html class="img-right" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
