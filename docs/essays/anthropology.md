@@ -19,7 +19,9 @@ The 1930s marked one of several bursts of construction for the university thanks
 
 Early photographs of the Student Union show a barren campus. Across its lifetime, the Student Union/Anthropology building has flaunted a variety of landscaping looks, each gradually more pleasant than the last.
 
-{% include figure.html class="img-center" width="70%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
+{% include figure.html class="img-right" width="35%" caption="Albuquerque Progress reports on the 'Students Union' opening, 1937. Source: Center for Southwest Research" src="images\anth-student-union-opening.jpg" %}
+
+{% include figure.html class="img-center" width="60%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
 {% include figure.html class="img-right" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
