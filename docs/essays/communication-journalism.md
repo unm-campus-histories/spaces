@@ -19,11 +19,6 @@ image2="images/cj-side-today.jpg"
 caption="These sliders are way more effective the more closely you line up the before and after images."
 %}
 
-
-
-
-
-
 #### Early History
 C & J was built by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates, in 1949 and was built after the chemical engineering building. Meem's work can be seen across UNM campus, which includes the famous [Zimmerman Library](www.https://unm-campus-histories.github.io/spaces/essays/zimmerman.html)
 
@@ -36,11 +31,17 @@ Emails were sent back and forth from the Secretary of the University, John Durri
 {% include figure.html class="img-right" width="48%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
 {% include figure.html class="img-right" width="48%" caption="Bricks make up the addition that will be the annex to the Journalism Building in 1965." src="images/cj-annex-1965.jpg" %}
 
-{% include figure.html class="img-right" width="49%" caption="Journalism class in undated photo." src="images/cj-classroom.jpg" %}
 
- 
 
-{% include figure.html class="img-left" width="49%" caption="Front of the C & J Building today looking toward the main entrance from Redondo Drive." src="images/cj-today.jpg" %}
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/cj-classroom.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-today.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
+</div>
+
 
 ## Bibliography
 
