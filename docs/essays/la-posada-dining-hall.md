@@ -1,5 +1,5 @@
 ---
-title: la-posada-building-sign
+title: la-posada-dining-hall
 author: Aaron Padilla
 layout: single-col
 date: 2019-04-10
@@ -73,3 +73,13 @@ caption="La Posada circa 1968 [Left image source](https://econtent.unm.edu/digit
  Just as La Posada was in 1968, it continues to be a center for students today over 50 years later."
 %}
 
+___
+## Bibliography
+
+- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+
+- University of New Mexico. Bainbridge Bunting Photograph Collection, 1870-1980, collection PICT 000-385, box 6	folder 102. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Dept. of Facility Planning architectural drawings, 1892-2011, collection SWA UNMFPLAN Drawings, Stack 13	Drawer 01. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  34. Center for Southwest Research, University Libraries, University of New Mexico.
