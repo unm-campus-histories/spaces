@@ -28,19 +28,13 @@ The 1970s marked a decade of construction, renovation, and frustration for the A
 
 While the university’s larger problem of class sizes had little to do with Anthropology, some renovations to the building were consequences of its past. When the Student Union moved to its current home, the old ballroom became a massive lecture hall. Correspondence between university officials reveal frustrations with this space: the acoustics and spaciousness of the former SUB ballroom made it almost unusable for lecturers, problems further exacerbated by an excess of seats versus class sizes (475 seats vs. 200 students); and poor technical equipment and lighting made it difficult to use for film classes, which are normally better suited to large rooms.[^csw-3]
 
-{% include figure.html class="img-left" width="47%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
-
-{% include figure.html class="img-center" width="47%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building." src="images\anth-addition.jpg" %}
-
-{% include figure.html class="img-center" width="50%" caption="A student reads outside the pre-renovation Anthropology building, c. 1960s." src="images\anth-with-student.jpg" %}
-
-{% include figure.html class="img-left" width="60%" caption="Contemporary layout of Anthropology building." src="images\anth-plans.jpg" %}
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/anth-student-union-opening.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/lobo-1960.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/anth-addition.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/faculty-correspondence.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/anth-plans.jpg"/></div>
 </div>
 
 ## Anthropology, Today
