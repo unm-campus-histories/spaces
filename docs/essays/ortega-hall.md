@@ -24,15 +24,15 @@ This 50,000 square foot classroom and faculty office building at the University 
 
 ### Interior Design 
 Ortega Hall, designed for the Department of Modern and Classical Languages, providing four levels of classrooms and faculty offices on a 22 ft. 6 in. module. This module can serve as a typical classroom or a group of four offices. Non-conforming elements on the first level consist of a cluster of six language labratories under control of a central console area. A similar cluster of six audiovisual classrooms grouped for rear screen projection from a central projection room. The roof over these areas becomes the pedestrian platform which forms a base of the building and provides the main circulation level for future buildings in this location. The upper and most visible portion of the structure is made up of three floors of the offices and classrooms. Dean's suites, secretarial areas, conference rooms and unspecialized classrooms having the most use are located on the second level. An interior two-story lounge for faculty staff is located on the third level covered with a skylight allowing natural light to pass through. 
-
-### Naming the Building
-The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages. 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom1.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom2.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom3.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom4.jpg"/></div>
 </div>
+
+### Naming the Building
+The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages. 
 
 ### Inital drawings and concepts of Ortega Hall
 
