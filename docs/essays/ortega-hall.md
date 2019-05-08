@@ -8,7 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
-{% include figure.html class="img-center" width="90%" caption="Ortega Hall 1978, One of three buildings to replace Zimmerman Stadium" src="images/ortega-hall-exterior1.jpeg" %}
+{% include figure.html class="img-center" width="90%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. " src="images/ortega-hall-exterior-gloomy.jpg" %}
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
 
