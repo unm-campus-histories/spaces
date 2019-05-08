@@ -20,7 +20,6 @@ Early photographs of the Student Union show a barren campus. Across its lifetime
 {% include figure.html class="img-center" width="80%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
-{% include figure.html class="img-right" width="40%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
 
 By the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960. The transition required a number of interior renovations, including the addition of faculty offices, labs, and space for the Maxwell Museum of Anthropology.[^csw]
 
