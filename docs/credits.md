@@ -18,8 +18,12 @@ Jessica Bowen - [Humanities Building](essays/humanities-building)
 
 Autumn Buckridge- [Sara Raynolds Hall](essays/sara-raynolds-hall)
 
+Nick Christman - [Yatoka Hall](essays/yatoka-hall)
+
 Fred Gibbs - [Mesa Vista Hall](essays/mesa-vista-hall)
 
 Emily Hartshorn - [University House](essays/university-house)
 
 Maxine Porter - [Anthropology Building](essays/anthropology)
+
+
