@@ -8,7 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
-{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. [Source] (https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" src="images/ortega-hall-exterior-gloomy.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. [Source (https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" src="images/ortega-hall-exterior-gloomy.jpg" %}
 
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
@@ -50,4 +50,4 @@ The decision of the building was difficult for those involved but they had come 
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing6.jpg"/></div>
 </div>
 
-> Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. [Source] (https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+> Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml) 
