@@ -27,3 +27,5 @@ Emily Hartshorn - [University House](essays/university-house)
 Maxine Porter - [Anthropology Building](essays/anthropology)
 
 Johnny Desiderio - [Coronado Hall](essays/coronado-hall)
+
+Jared Lucero - ["Modern Art"] (essays/modern-art)
