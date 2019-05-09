@@ -15,6 +15,10 @@ Where is the heart of the University of New Mexico? Some might say the stylistic
 
 {% include figure.html class="img-right" width="48%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
 
+The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration. The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^hooker]
+
+In the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, which would become the Student Union Building we know today, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The transition required a number of interior renovations, including the addition of the Anthropology Annex (faculty offices and labs) and space for the Maxwell Museum of Anthropology. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960.[^csw]
+
 {% include figure.html class="img-center" width="80%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
