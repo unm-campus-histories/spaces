@@ -23,7 +23,7 @@ The current location of Ortega Hall has been a busy area prior to the constructi
 ### The Exterior Design
 This 50,000 square foot classroom and faculty office building at the University of New Mexico also contains clusters of language labratories and audiovisual rooms as well as a large student lounge and library. Completed in 1977 for a cost of $1,440,000, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.  
 
-{% include figure.html class="img-left" width="48%" caption="Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. " src="images/ortega-hall-exterior1.jpeg" %}
+{% include figure.html class="img-left" width="58%" caption="Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. " src="images/ortega-hall-exterior1.jpeg" %}
 {% include figure.html class="img-right" width="38%" caption="Black and White exterior image taken in 1978, photographer facing East to show different angles of the architecture. " src="images/ortega-hall-exterior-bw.jpg" %}
 
 ### Interior Design 
