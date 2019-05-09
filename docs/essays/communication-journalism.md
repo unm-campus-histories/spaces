@@ -16,7 +16,7 @@ The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo
 {% include juxtapose.html
 image1="images/cj-side.jpg"
 image2="images/cj-side-today.jpg"
-caption="C & J building looking northeast."
+caption="C & J building looking northeast.jpg"
 %}
 
 #### Early History
@@ -28,8 +28,8 @@ Before 1947, journalism was only offered to students through the English departm
 In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
 Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
 
-{% include figure.html class="img-right" width="49%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
-{% include figure.html class="img-left" width="49%" caption="Bricks make up the addition that will be the annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Bricks make up the addition that will be the annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
 
 
 
