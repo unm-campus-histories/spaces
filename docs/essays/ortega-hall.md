@@ -68,3 +68,5 @@ ___
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  84. Center for Southwest Research, University Libraries, University of New Mexico.
 
 - Unknown. “Zimmerman Stadium - Stands Filled with Fans.” CONTENTdm, 8 Dec. 2011, econtent.unm.edu/digital/collection/ULPhotoImag/id/2693/rec/21.
+
+- Unknown. “Zimmerman Stadium and Zimmerman Library.” CONTENTdm, 8 Dec. 2011, econtent.unm.edu/digital/collection/ULPhotoImag/id/2655/rec/23.
