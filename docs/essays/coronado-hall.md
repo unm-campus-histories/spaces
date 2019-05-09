@@ -26,3 +26,10 @@ In more recent times as in the November 4, 2010 issue of the Daily Lobo an artic
 {% include figure.html class="img-right" width="37%" caption="Coronado Hall looking east from the front of the Casas Del Rio building." src="images/coronado-hall-looking-east.jpg" %}
 Today, Coronado Hall is a co-ed dorm housing 432 students at full capacity, known for its active community association that organizes many fun events throughout the year according to the UNM housing website. Coronado is also know for being the only residence hall to have a sink and faucet in every room and is presently located across from Johnson Field. The dorm also received renovations in the summer of 2017 to update the room and facilities.
 
+---
+
+### Bibliography
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 34. Center for Southwest Research, University Libraries, University of New Mexico.
+- Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
+
+
