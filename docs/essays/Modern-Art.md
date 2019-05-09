@@ -29,6 +29,9 @@ Individuals in positions of authority serve as role models by promoting courtesy
 Individuals at all levels are allowed to discuss issues of concern in an open and honest manner, without fear of reprisal or retaliation.” 
 
 # Vandalism 
+
+{% include figure.html class="img-right" width="33%" caption="The bronze status defaces" src="images/modern-art-vandalism.png" %}
+
 Unfortunately, as a centrally located and well-known space, “Modern Art” has also been one of the most prominent spaces for vandalism on UNM Campus. 
 
 According to the 2016 Albuquerque Journal article, “Popular UNM statuses defaced, again” an episode of this vandalism shows purple splotches marred all over the statues. UNM’s Physical Plant department is responsible for cleaning the graffiti. 
