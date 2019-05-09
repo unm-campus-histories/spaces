@@ -22,7 +22,13 @@ date: 2019-04-10
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
-{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
+{% include figure.html class="img-right" width="46%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
+
+{% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+
+{% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
+
+{% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-night.jpg" %}
 
 Here's a dummy essay that will gradually turn into a real model.
 
