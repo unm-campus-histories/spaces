@@ -35,7 +35,7 @@ Ortega Hall, designed for the Department of Modern and Classical Languages, prov
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom4.jpg"/></div>
 </div>
 
-> Original floor plans of the showing the classrooms and offices by number. These pictures show all four levels of the building that are still current in 2019. 
+> Original floor plans of the showing the classrooms and offices by number. These pictures show all four levels of the building that are still current in 2019. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 ### Naming the Building
 The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages. 
@@ -50,4 +50,4 @@ The decision of the building was difficult for those involved but they had come 
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-drawing6.jpg"/></div>
 </div>
 
-> Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. 
+> Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. [Source] (https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
