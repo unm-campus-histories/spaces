@@ -23,6 +23,7 @@ The mural was titled, *The Spirit of Man* and was painted by the Peruvian artist
 In more recent times as in the November 4, 2010 issue of the Daily Lobo an article titled, *Case closed on Coronado clinic* a rumor about the dorm was addressed. Possibly because of the building's design layout or age, Coronado was said to be a hospital before being turned into a residence hall, but a look through the Southwest center for Research's UNM archives proves the claim false. 
 
 ### Present
+{% include figure.html class="img-right" width="30%" caption="Coronado Hall looking east from the front of the Casas Del Rio building." src="images/coronado-hall-looking-east.jpg" %}
 Today, Coronado Hall is a co-ed dorm housing 432 students at full capacity, known for its active community association that organizes many fun events throughout the year according to the UNM housing website. Coronado is also know for being the only residence hall to have a sink and faucet in every room and is presently located across from Johnson Field. The dorm also received renovations in the summer of 2017 to update the room and facilities.
 
 
