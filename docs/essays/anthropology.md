@@ -14,7 +14,6 @@ Where is the heart of the University of New Mexico? Some might say the stylistic
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. Source: Center for Southwest Research" src="images\anth-construction.jpg" %}
 
 {% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
-
 ---
 
 The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration. The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^hooker]
