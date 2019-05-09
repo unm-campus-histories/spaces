@@ -55,4 +55,5 @@ The decision of the building was difficult for those involved but they had come 
 ___
 ## Bibliography
 - Gugliotta, Terry. “Ortega Hall and the Center of the Universe.” CONTENTdm, 5 Mar. 2012, econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83.
+
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  84. Center for Southwest Research, University Libraries, University of New Mexico.
