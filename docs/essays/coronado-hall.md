@@ -26,5 +26,3 @@ In more recent times as in the November 4, 2010 issue of the Daily Lobo an artic
 {% include figure.html class="img-right" width="37%" caption="Coronado Hall looking east from the front of the Casas Del Rio building." src="images/coronado-hall-looking-east.jpg" %}
 Today, Coronado Hall is a co-ed dorm housing 432 students at full capacity, known for its active community association that organizes many fun events throughout the year according to the UNM housing website. Coronado is also know for being the only residence hall to have a sink and faucet in every room and is presently located across from Johnson Field. The dorm also received renovations in the summer of 2017 to update the room and facilities.
 
-
-{% include figure.html class="img-right" width="33%" caption="Coronado Hall" src="images/coronado-hall.jpg" %}
