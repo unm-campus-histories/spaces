@@ -12,11 +12,13 @@ date: 2019-04-10
 
 {% include figure.html class="img-right" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
 
+
+
 {% include figure.html class="img-right" width="32%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
 {% include figure.html class="img-right" width="32%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
-{% include figure.html class="img-right" width="32%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNGg" %}
+{% include figure.html class="img-right" width="32%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
