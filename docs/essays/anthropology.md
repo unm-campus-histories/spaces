@@ -25,7 +25,7 @@ In the 1950s, rising enrollment strained the resources of the diminutive Student
 
 The 1970s marked a decade of construction, renovation, and frustration for the Anthropology Department. The university experienced a seating crisis as it struggled to match classes to appropriately-sized classrooms. In 1970, funds from the National Science Foundation spurred renovation of the Anthropology Annex, which created more room for the Maxwell Museum and anthropological research. By 1979, more renovations to the annex were already being discussed as a part of the university’s attempts to resolve their seating issues.[^csw-2]
 
-{% include figure.html class="img-left" width="40%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
+{% include figure.html class="img-right" width="30%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
 
 {% include figure.html class="img-right" width="40%" caption="In an evocative letter to university secretary John Durrie, Dr. Fred Chreist (Speech and Pathology) outlines faculty complaints about the Anthropology lecture hall, and alludes to greater seating issues at the university. Source: Center for Southwest Research" src="images\faculty-correspondence.jpg" %}
 
