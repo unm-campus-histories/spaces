@@ -35,7 +35,6 @@ In designing the heating and ventilating system for the building. The considerat
 The size of Mitchell Hall was to be able to hold 1800 students in 40 classrooms which was dictated by enrollment needs. Size of the classrooms and number to be accommodated in each was set by curricular requirements. There are eight 30 student rooms with fixed seats and six with loose seats for dual purpose as seminar rooms. There are four 60 student rooms with fixed seats and two 80 student rooms with fixed seats. One flat floor 100 student lecture room, two stepped seating 100 student lecture rooms. One 120 student stepped seating lecture room and two seminar rooms. 
 
 
- 
 ### Naming the Building
 A letter from President Tom Popejoy to Dr. Mitchell stating that that the name of building #23 be named after Lynn B. Mitchell. It was approved by the board of regnets on August 21, 1951.
 
