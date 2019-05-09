@@ -8,7 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
-{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. " src="images/ortega-hall-exterior-gloomy.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. [Source] (https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" src="images/ortega-hall-exterior-gloomy.jpg" %}
 
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
@@ -23,8 +23,8 @@ The current location of Ortega Hall has been a busy area prior to the constructi
 ### The Exterior Design
 This 50,000 square foot classroom and faculty office building at the University of New Mexico also contains clusters of language labratories and audiovisual rooms as well as a large student lounge and library. Completed in 1977 for a cost of $1,440,000, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.  
 
-{% include figure.html class="img-left" width="58%" caption="Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. " src="images/ortega-hall-exterior1.jpeg" %}
-{% include figure.html class="img-right" width="38%" caption="Black and White exterior image taken in 1978, photographer facing East to show different angles of the architecture. " src="images/ortega-hall-exterior-bw.jpg" %}
+{% include figure.html class="img-left" width="58%" caption="Black and White exterior image taken in 1978, protrays the architectural works of Ferguson, Stevens, Mallory, and Pearl. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/ortega-hall-exterior1.jpeg" %}
+{% include figure.html class="img-right" width="38%" caption="Black and White exterior image taken in 1978, photographer facing East to show different angles of the architecture. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" src="images/ortega-hall-exterior-bw.jpg" %}
 
 ### Interior Design 
 Ortega Hall, designed for the Department of Modern and Classical Languages, providing four levels of classrooms and faculty offices on a 22 ft. 6 in. module. This module can serve as a typical classroom or a group of four offices. Non-conforming elements on the first level consist of a cluster of six language labratories under control of a central console area. A similar cluster of six audiovisual classrooms grouped for rear screen projection from a central projection room. The roof over these areas becomes the pedestrian platform which forms a base of the building and provides the main circulation level for future buildings in this location. The upper and most visible portion of the structure is made up of three floors of the offices and classrooms. Dean's suites, secretarial areas, conference rooms and unspecialized classrooms having the most use are located on the second level. An interior two-story lounge for faculty staff is located on the third level covered with a skylight allowing natural light to pass through. 
