@@ -44,7 +44,7 @@ The university experienced seating issues as it struggled to match classes to ap
 
 Once the bustling heart of campus life, today the Anthropology building is easy to overlook. Its distant location means most students don't pass by the building often, much less step inside, and the imposing trees that shade the main entrance even make it difficult to photograph. It is easy to forget that for previous generations, the core of the UNM experience lie in this little rectangle of a building.
 
-When the Student Union moved east, the whole campus shifted with it, but fragments of the Anthropology building's past remain. The signature ballroom acoustics still cause an echo in the building's main corridor, an indication that the building was meant to accomdate a crowd. Across the many interior and exterior changes it has endured, the building maintains John Gaw Meem's original architectural vision. In these ways the Anthropology Building still *is* the heart of the University of New Mexico: the steadily-beating reminder of the university's past, even as it moves into the future.
+When the Student Union moved east, the whole campus shifted with it, but fragments of the Anthropology building's past still remain. The main corridor maintains a persistent echo, an indication that the high ceilings were built to accommodate the noise of a crowd. Across the many renovations, the building remains consistent with John Gaw Meem's original vision, and it stands out as one of the most valuable historical buildings of the University of New Mexico. In these ways, the Anthropology building still is the heart of the university: the steadily-beating reminder of the university's past, even as it moves into the future.
 
 
 
