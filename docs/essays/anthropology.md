@@ -21,9 +21,9 @@ The 1930s marked one of several bursts of construction for the university thanks
 {% include figure.html class="img-center" width="80%" caption="Three students leave the Student Union Building. A sign in the right window advertises the campus bookstore. Soon the campus would outgrow this building, and both the SUB and the bookstore would move. Source: Center for Southwest Research" src="images\anth-sub-exterior.jpg" %}
 
 ## Renovations
-{% include figure.html class="img-left" width="48%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
 
-{% include figure.html class="img-right" width="48%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
+{% include figure.html class="img-right" width="48%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
 
 In the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, which would become the Student Union Building we know today, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The transition required a number of interior renovations, including the addition of the Anthropology Annex (faculty offices and labs) and space for the Maxwell Museum of Anthropology. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960.[^csw]
 
