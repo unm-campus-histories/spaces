@@ -16,7 +16,7 @@ Final plans for the dormitory were submitted in the fall of 1958 along with the 
 
 ### Artwork
 Like the other buildings on the campus Coronado was built in the Pueblo Revival style, and with its construction a mural was also commissioned for the lobby of the new building.
-{% include figure.html class="img-left" width="33%" caption="Artist Guillermo McDonald Juardo stands in front of his *The Spirit of Man* mural in the Coronado lobby." src="images/coronado-mural.jpg" %}
+{% include figure.html class="img-left" width="27%" caption="Artist Guillermo McDonald Juardo stands in front of his *The Spirit of Man* mural in the Coronado lobby." src="images/coronado-mural.jpg" %}
 The mural was titled, *The Spirit of Man* and was painted by the Peruvian artist Guillermo McDonald Juardo who also studied in the Fine Arts college of the University of New Mexico. Like *The Three Peoples Mural* in Zimmerman library the mural depicts the story of the peoples of the New World; the American, the Indian, and the Spaniard. A depiction showing three horses representing the three groups of peoples with the American culture trying to merge the three different cultures for the development of the state of New Mexico.
 
 ### Rumors
@@ -25,7 +25,5 @@ In more recent times as in the November 4, 2010 issue of the Daily Lobo an artic
 ### Present
 Today, Coronado Hall is a co-ed dorm housing 432 students at full capacity, known for its active community association that organizes many fun events throughout the year according to the UNM housing website. Coronado is also know for being the only residence hall to have a sink and faucet in every room and is presently located across from Johnson Field. The dorm also received renovations in the summer of 2017 to update the room and facilities.
 
-
-In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
 
 {% include figure.html class="img-right" width="33%" caption="Coronado Hall" src="images/coronado-hall.jpg" %}
