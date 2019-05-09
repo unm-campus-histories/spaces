@@ -67,6 +67,15 @@ On-site open space equal to twice the building footprint has been designated and
 # Other Events at The Pit
 The Pit is the home of Lobo Basketball but the arena has also hosted many other events including the PBR Ty Murray Invitiational multiple years, New Mexico High School Basketball Tournaments, Led Zepplin Concert 1973, New Mexico High School Graduations, NCAA College basketball tournament games in 1968, 1978, 1983, 1985, 1992, 1996, 2000, 2002, 2005, and 2012.
 
+# Bibliography
+“Pit Arena Addition and Renovation - Albuquerque, New Mexico.” Design Balance Missoula Montana - Sustainable Design and Resource Efficiency Consulting, www.design-balance.com/pitarenaadditionandrenovation.html.
+<hr>
+“Tom L. Popejoy Society.” University of New Mexico Foundation, 13 July 2017, www.unmfund.org/popejoy-society/.
+<hr>
+University of New Mexico Athletics Department Records 1890-2011. University of New Mexico Athletics Department. Collection UNMA 106. University of New Mexico Center for Southwest Research. Vertical Files Athletics-Arena. Box 6.
+<hr>
+Grammer, Geoff. “Not What It Was, but Lobo Hoops Attendance Holds up Nationally.” Albuquerque Journal, www.abqjournal.com/1287114/not-what-it-was-but-lobo-hoops-attendance-still-strong-nationally.html. 1 Mar 2019, 8:16 pm.
+
 
 
 
