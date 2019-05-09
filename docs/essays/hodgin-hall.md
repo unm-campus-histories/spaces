@@ -24,7 +24,7 @@ date: 2019-04-10
 
 {% include figure.html class="img-right" width="46%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
-{% include figure.html class="img-right" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+{% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
 
 {% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
 
