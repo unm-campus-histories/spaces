@@ -8,7 +8,7 @@ date: 2019-04-10
 
 # Ortega Hall
 
-{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. [Source (https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" src="images/ortega-hall-exterior-gloomy.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="March, 9 1998; Looking Southeast towards Smith plaza on this gloomy winter day. The artwork of Bruce Nauman's Center of the Universe pictured on the rightside. [Source] (https://econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83)" src="images/ortega-hall-exterior-gloomy.jpg" %}
 
 ### Location
 Ortega Hall is located southwest of Zimmermann Library and east of the Smith Plaza. 
