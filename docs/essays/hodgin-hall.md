@@ -8,7 +8,13 @@ date: 2019-04-10
 
 # Hodgin Hall
 
-{% include figure.html class="img-right" width="70%" caption="Hodgin-Hall" src="images/hodgin-hall-main-pic.PNG" %}
+{% include figure.html class="img-left" width="70%" caption="Hodgin-Hall" src="images/hodgin-hall-main-pic.PNG" %}
+
+Here's a dummy essay that will gradually turn into a real model.
+
+In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
+
+
 
 
 {% include figure.html class="img-left" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
@@ -33,13 +39,9 @@ date: 2019-04-10
 
 {% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
 
-{% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
+{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
 
-{% include figure.html class="img-right" width="75%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-night.jpg" %}
-
-Here's a dummy essay that will gradually turn into a real model.
-
-In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
+{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-night.jpg" %}
 
 
 
