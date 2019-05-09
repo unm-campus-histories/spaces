@@ -41,7 +41,7 @@ A letter from President Tom Popejoy to Dr. Mitchell stating that that the name o
 {% include figure.html
 class="img-left"
 width="48%"
-caption="Here's an image on the left."
+caption=""
 src="images/mitchell-hall-lynn-mitchell.jpg"
 %}
 
