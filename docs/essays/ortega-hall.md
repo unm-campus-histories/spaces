@@ -18,7 +18,7 @@ The current location of Ortega Hall has been a busy area prior to the constructi
 
 
 ### Construction of Oretga Hall 
- 
+
 
 ### The Exterior Design
 This 50,000 square foot classroom and faculty office building at the University of New Mexico also contains clusters of language labratories and audiovisual rooms as well as a large student lounge and library. Completed in 1977 for a cost of $1,440,000, this first increment in the main academic area of the central campus established the upper pedestrian walkway system which connects the major academic buildings south of the central plaza.  
@@ -35,7 +35,7 @@ Ortega Hall, designed for the Department of Modern and Classical Languages, prov
   <div><img src="{{ site.baseurl }}/essays/images/ortega-hall-classroom4.jpg"/></div>
 </div>
 
-> Original floor plans of the showing the classrooms and offices by number. These pictures show all four levels of the building that are still current in 2019. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
+> Original floor plans showing the classrooms and offices by number. These pictures show all four levels of the building that are still current in 2019. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)
 
 ### Naming the Building
 The decision of the building was difficult for those involved but they had come by with a decision to honor Joaquin Ortega. Joaquin Ortega taught at a multitude of different universities across the United States. At New Mexico he was know for being a Spanish Professor, the Director of the School of Inter-American Affairs and Editor of The New Mexico Quarterly. Professor Ortega inspired students daily and left an impact of every student he encountered. Professor Ortega passed away in Rondo, Spain August 25, 1955. In memory of his passing the University named this new building after him and designated it for the study of Foreign Languages. 
@@ -51,3 +51,8 @@ The decision of the building was difficult for those involved but they had come 
 </div>
 
 > Preliminary drawings of Ortega Hall. First Picture showing the idea towards creating a better University. Second Picture shows the idea of roofs and bridges over the first level. Third Picture is a birdseye drawing of what the first level would represent in hallways, classrooms, and offices. Fourth Picture is a persons perspective from Smith Plaza looking at the potential building. Fifth picture shows lecture halls on the first level. Sixth Picture is a view of the two-story lounge for faculty members. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml) 
+
+___
+## Bibliography
+- Gugliotta, Terry. “Ortega Hall and the Center of the Universe.” CONTENTdm, 5 Mar. 2012, econtent.unm.edu/digital/collection/ULPhotoImag/id/3352/rec/83.
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box  84. Center for Southwest Research, University Libraries, University of New Mexico.
