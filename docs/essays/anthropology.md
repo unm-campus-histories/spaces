@@ -13,8 +13,7 @@ Where is the heart of the University of New Mexico? Some might say the stylistic
 ## Construction
 {% include figure.html class="img-left" width="48%" caption="Looking west on the construction of the original Student Union Building, 1936. Source: Center for Southwest Research" src="images\anth-construction.jpg" %}
 
-{% include figure.html class="img-left" width="48%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
----
+{% include figure.html class="img-right" width="48%" caption="Even after completion, the SUB stood amongst barren terrain. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/75)" src="images\anth-exterior.jpg" %}
 
 The 1930s marked one of several bursts of construction for the university thanks to increased enrollment and funds provided by the Works Progress Administration. The needs of the student body called for the construction of a Student Union, and the university tapped John Gaw Meem to design the building. One of the four original buildings designed by Meem (the others being Zimmerman Library, Scholes Hall, and Bandelier Hall), the Anthropology building remains an example of the Pueblo Revival style the university is known for. Construction on the Student Union began in 1936. In 1937, an open house followed the dedication of the building, and students broke in their new ballroom with a dance.[^hooker]
 
@@ -24,8 +23,6 @@ The 1930s marked one of several bursts of construction for the university thanks
 {% include figure.html class="img-left" width="49%" caption="Daily Lobo article from August of 1960 detailing the shift from one Student Union to another, including renovations to the old SUB to better accomodate the Anthropology Department. Source: Center for Southwest Research" src="images\lobo-1960.png" %}
 
 {% include figure.html class="img-right" width="46%" caption="The Albuquerque Journal reports on plans for renovations and additions to the Anthropology building in 1970. Source: Center for Southwest Research" src="images\anth-addition.jpg" %}
-
-
 In the 1950s, rising enrollment strained the resources of the diminutive Student Union. Construction of a newer, larger building began in 1959, which would become the Student Union Building we know today, and the ‘old SUB’ was refitted for the purposes of the Anthropology Department. The transition required a number of interior renovations, including the addition of the Anthropology Annex (faculty offices and labs) and space for the Maxwell Museum of Anthropology. The Anthropology Department moved in to its current home from the Administrative Building (now Scholes Hall) in 1960.[^csw]
 
 The 1970s marked a decade of construction, renovation, and frustration for the Anthropology Department. The university experienced a seating crisis as it struggled to match classes to appropriately-sized classrooms. In 1970, funds from the National Science Foundation spurred renovation of the Anthropology Annex, which created more room for the Maxwell Museum and anthropological research. By 1979, more renovations to the annex were already being discussed as a part of the university’s attempts to resolve their seating issues.[^csw-2]
