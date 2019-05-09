@@ -6,7 +6,7 @@ date: 2019-04-10
 ---
 
 # Anthropology Building
-{% include figure.html class="img-center" width="100%" caption="[Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/73)" src="images\anth-exterior-close.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="East entrance of the Anthropology building, 1937. [Source](https://econtent.unm.edu/digital/collection/ULPhotoImag/id/73)" src="images\anth-exterior-close.jpg" %}
 
 Where is the heart of the University of New Mexico? Some might say the stylistically striking Zimmerman Library or the ever-bustling Student Union Building—not a tucked-away science building on the edge of campus. But if the university has a historical heart, it lies in the Anthropology building. Shielded by massive pines on the western side of campus, this squat complex contains a lecture hall, labs, offices, and the Maxwell Museum of Anthropology. Though it has a low profile today, it was once the center of campus life as the original Student Union Building.
 
