@@ -35,15 +35,42 @@ This building has evolved over time with many name changes which are represented
 
 {% include figure.html class="img-left" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
 
+## Remodel (1906):
+In 1906 the decision to have the building remodeled, which was called the Administration Building at the time, was essential due the original roof design having poor structural integrity and was foreseen to be problematic in the future. This gave way for the opportunity to have the building suit the traditional Pueblo culture style. In 1908, a massive remodel was underway to change the building’s red bric–k Victorian appearance. The pitched roof was removed, stucco concealed the salmon colored brick and large vigas supported the entry way. An additional room, Rodney Hall, was constructed, and the project was completed in 1909 for a total of $17,309.  
+
 {% include figure.html class="img-left" width="25%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
 {% include figure.html class="img-left" width="25%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
+## Preservation and Restoration (1975):
+This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000. 
+
+
 {% include figure.html class="img-left" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
+
+## Renovation (2010):
+In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building. 
+
 
 {% include figure.html class="img-right" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
+
+
+
 {% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+
+
+## Unexplored Heart of UNM 
+
+If you are asking yourself, why the heart of UNM is a foreign building, well it is probably because its physical location does not lie in the center of North campus, like the Student Union Building. However, as time evolved, the UNM campus grew North-East, so it has unfortunately become an unexplored long-lived beating heart.
+
+I would like to help you engage with this very much alive building on UNM’s main campus that may seem forgotten but is a crucial part of our campus’s heritage. The previously mentioned renovations, remodels, and restorations are not simply because money has been thrown at the University, but rather because this physical space and building holds such a significant meaning and nostalgia that has been worth the battling. 
+
+Did you know that Hodgin Hall holds the memories and evidence of our past traditions? These include a time capsule from the class of 1908, another time capsule to be opened in 2111, Zia awards, a library filled with UNM alumni published books, past UNM yearbooks, original student records, and many more historical items. 
+	
+How about the fact the UNM’s original school colors were gold and black but changed in 1869 to reflect the silvery ribbon of the Rio Grande and the sunset crimson of the Sandia Mountains. These unrepresented facts and histories are all under one roof.
+This building is literally designed to showcase a Hall of Fame.  Why have we so willingly neglected this historical building? How can we know where we are going if we do not know and validly respect UNM’s history? 
+
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
 
