@@ -12,7 +12,7 @@ date: 2019-04-10
 
 If you aren’t familiar with the University Building and do not know where it is located, you are not alone. This University Building has had four name changes and is currently called Hodgin Hall, Alumni Center. This building is located off the corner of Central and University, previously railyard road, and is the heart and backbone of UNM. Some would say it is the unexplored heart, but we will get into that later. Hodgin Hall is where it all started. That’s correct, it is the very first building that was constructed on UNM’s campus and was the only building for almost a decade.
 
-{% include figure.html class="img-right" width="30%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
 
                                               							             
 
