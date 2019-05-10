@@ -14,6 +14,7 @@ If you aren’t familiar with the University Building and do not know where it i
 
 {% include figure.html class="img-right" width="30%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
 
+## 
 A lonely site west of the Sandia Mountains laid twenty acres of land that were generously donated for the future campus.  Amongst rocky soil and fields of chamiso laid the ground where the UNM’s first building was sought out to be built. The University building was completed in 1892 after the Territorial Act in 1889. This building was the sole location for the Preparatory and Normal School, severing one hundred and eight students in fall of 1892. 
 
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties. 
