@@ -35,7 +35,7 @@ In 1963 the journalism building would undergo construction again for new additio
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/cj-classroom.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/cj-letter(1).jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-letter (1).jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-abqjournal.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-article.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/cj-today.jpg"/></div>
