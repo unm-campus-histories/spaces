@@ -1,5 +1,5 @@
 ---
-title: dane-smith-hall
+title: Dane Smith Hall
 author: Jacob Brown
 layout: single-col
 date: 2019-04-10
