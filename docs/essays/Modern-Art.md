@@ -21,8 +21,12 @@ In the unveiling of the art piece, Sabo writes, “I think everyone can relate t
 
 Since the time of its inception, the art piece has also taken an interactive form as walking through this space, one would often notice scarfs on the bronze sculptures or items in the hands. 
 
-# Brother 
-The stainless steel tower in the middle tower is the work of Sabo’s work is done by brother, Gary Beales, which served at inspiration by Betty’s work. Watching her brother complete his stainless steel tower, Sabo thought the tower looked confusing on what it represents -- a soda can from birds eye view -- which inspired to create the bronze figures, who are trying to figure out exactly what the tower is. One of the figures sits on the curb frustrated while some stand up as if are having a conversation on their ideas of the tower. Although this space is entitled and renowd after Sabo’s work, it would not be what it is if it was not for Beales initial piece. 
+# Gary Beales
+
+{% include figure.html class="img-right" width="33%" caption="The tower, built by Gary Beales, at the center of 'Modern Art'" src="images/modern-art-tower.png" %}
+
+
+The stainless steel tower in the middle tower is the work of Sabo’s work is done by artist Gary Beales, which served at inspiration by Betty’s work. Watching her brother complete his stainless steel tower, Sabo thought the tower looked confusing on what it represents -- a soda can from birds eye view -- which inspired to create the bronze figures, who are trying to figure out exactly what the tower is. One of the figures sits on the curb frustrated while some stand up as if are having a conversation on their ideas of the tower. Although this space is entitled and renowd after Sabo’s work, it would not be what it is if it was not for Beales initial piece. 
 
 # Free Speech at The University of New Mexico
 
