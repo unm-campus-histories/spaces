@@ -18,7 +18,7 @@ If you aren’t familiar with the University Building and do not know where it i
 ---
 A lonely site west of the Sandia Mountains laid twenty acres of land that were generously donated for the future campus.  Amongst rocky soil and fields of chamiso laid the ground where the UNM’s first building was sought out to be built. The University building was completed in 1892 after the Territorial Act in 1889. This building was the sole location for the Preparatory and Normal School, severing one hundred and eight students in fall of 1892.
 
-{% include figure.html class="img-center" width="65%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+{% include figure.html class="img-right" width="65%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
 
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties.
 
@@ -40,15 +40,15 @@ This building has evolved over time with many name changes which are represented
 ## Remodel (1906)
 In 1906 the decision to have the building remodeled, which was called the Administration Building at the time, was essential due the original roof design having poor structural integrity and was foreseen to be problematic in the future. This gave way for the opportunity to have the building suit the traditional Pueblo culture style. In 1908, a massive remodel was underway to change the building’s red bric–k Victorian appearance. The pitched roof was removed, stucco concealed the salmon colored brick and large vigas supported the entry way. An additional room, Rodney Hall, was constructed, and the project was completed in 1909 for a total of $17,309.  
 
-{% include figure.html class="img-right" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
+{% include figure.html class="img-right" width="42%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
-{% include figure.html class="img-left" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
+{% include figure.html class="img-left" width="42%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
 ## Preservation and Restoration (1975)
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
 
 
-{% include figure.html class="img-left" width="46" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
+{% include figure.html class="img-left" width="43" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
@@ -59,6 +59,12 @@ In 2008, the State Legislature provided funds for the first phase of renovations
 If you are asking yourself, why the heart of UNM is a foreign building, well it is probably because its physical location does not lie in the center of North campus, like the Student Union Building. However, as time evolved, the UNM campus grew North-East, so it has unfortunately become an unexplored long-lived beating heart.
 
 I would like to help you engage with this very much alive building on UNM’s main campus that may seem forgotten but is a crucial part of our campus’s heritage. The previously mentioned renovations, remodels, and restorations are not simply because money has been thrown at the University, but rather because this physical space and building holds such a significant meaning and nostalgia that has been worth the battling.
+
+{% include juxtapose.html
+image1="images/hodgin-hall-new-u-showing.jpeg"
+image2="images/hodgin-hall-night.jpg"
+caption="then and now"
+%}
 
 Did you know that Hodgin Hall holds the memories and evidence of our past traditions? These include a time capsule from the class of 1908, another time capsule to be opened in 2111, Zia awards, a library filled with UNM alumni published books, past UNM yearbooks, original student records, and many more historical items.
 
@@ -74,7 +80,6 @@ caption="then and now"
 {% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-hall-of-fame-text.JPG" %}
 
 ## What Developed Out of the First Building on the UNM Campus
-
 In recap, which is so worthwhile the read, the plan for this landmark was envisioned to someday shape the surrounding space. What we know as Albuquerque, NM did not exist long ago. This building was built in a completely empty space with nothing surrounding but dirt in hopes that a community would develop and grow filing the area around. Today we can clearly see this landmark of UNM as a showcase of visionary, creativity and history which initiated the city of Albuquerque as we know it today.
 
 ---
