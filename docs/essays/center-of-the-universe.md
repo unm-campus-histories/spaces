@@ -35,7 +35,7 @@ There were few who paid compliments to the *Center of the Universe* when it was 
 
 ### The Sculpture Today
 
-{% include figure.html class="img-center" width="100%" caption="A model of the original installation, created for an exhibit on Nauman's works. Photo taken for the Contemporanea International Art Magazine, Vol III No 2, Facility Planning #028" src="images\cotu-model.png" %}
+{% include figure.html class="img-center" width="75%" caption="A model of the original installation, created for an exhibit on Nauman's works. Photo taken for the Contemporanea International Art Magazine, Vol III No 2, Facility Planning #028" src="images\cotu-model.png" %}
 
 Ever since the initial few years that the sculpture has been around, it’s safe to say controversy has died down. The installation is no longer picketed by angry students and teachers. While the insides are still regularly covered with small marks of rebellion, the graffiti is not near as much of a problem as it was in the past. The UNM landscaping department even made sure renovations on the area between Mitchell and Ortega properly integrated the sculpture. Most people simply walk through or around it, and probably don’t think much of it. They may take a moment inside to wonder why it’s here, or simply stop to spin the Pokestop in Pokemon Go, but few people today know about the outrage and controversy that initially followed Nauman’s installation.
 
