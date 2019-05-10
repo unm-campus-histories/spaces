@@ -7,7 +7,7 @@ date: 2019-04-10
 
 # **Hodgin Hall** 
 
-{% include figure.html class="img-right" width="67%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
+{% include figure.html class="img-right" width="65%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
 ---
 If you aren’t familiar with the University Building and do not know where it is located, you are not alone. This University Building has had four name changes and is currently called Hodgin Hall, Alumni Center. This building is located off the corner of Central and University, previously railyard road, and is the heart and backbone of UNM. Some would say it is the unexplored heart, but we will get into that later. Hodgin Hall is where it all started. That’s correct, it is the very first building that was constructed on UNM’s campus and was the only building for almost a decade.
 
