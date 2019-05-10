@@ -14,13 +14,14 @@ If you aren’t familiar with the University Building and do not know where it i
 
 {% include figure.html class="img-right" width="30%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
 
-## 
+                                                           
+
 A lonely site west of the Sandia Mountains laid twenty acres of land that were generously donated for the future campus.  Amongst rocky soil and fields of chamiso laid the ground where the UNM’s first building was sought out to be built. The University building was completed in 1892 after the Territorial Act in 1889. This building was the sole location for the Preparatory and Normal School, severing one hundred and eight students in fall of 1892. 
 
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties. 
 
 
-{% include figure.html class="img-left" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
+{% include figure.html class="img-right" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
 
 **1892-1898** 	University Building 
 
@@ -37,17 +38,17 @@ This building has evolved over time with many name changes which are represented
 ## Remodel (1906):
 In 1906 the decision to have the building remodeled, which was called the Administration Building at the time, was essential due the original roof design having poor structural integrity and was foreseen to be problematic in the future. This gave way for the opportunity to have the building suit the traditional Pueblo culture style. In 1908, a massive remodel was underway to change the building’s red bric–k Victorian appearance. The pitched roof was removed, stucco concealed the salmon colored brick and large vigas supported the entry way. An additional room, Rodney Hall, was constructed, and the project was completed in 1909 for a total of $17,309.  
 
-{% include figure.html class="img-center" width="25%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
+{% include figure.html class="img-right" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
-{% include figure.html class="img-left" width="25%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
+{% include figure.html class="img-left" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
 ## Preservation and Restoration (1975):
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000. 
 
 
-{% include figure.html class="img-left" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
+{% include figure.html class="img-left" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
-{% include figure.html class="img-right" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
 
 ## Renovation (2010):
