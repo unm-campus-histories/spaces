@@ -22,7 +22,7 @@ A lonely site west of the Sandia Mountains laid twenty acres of land that were g
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties.
 
 
-{% include figure.html class="img-right" width="46%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
+{% include figure.html class="img-center" width="55%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
 
 
 **1892-1898**     University Building
@@ -46,8 +46,7 @@ In 1906 the decision to have the building remodeled, which was called the Admini
 ## Preservation and Restoration (1975)
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
 
-
-{% include figure.html class="img-left" width="43" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
+{% include figure.html class="img-left" width="40" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
@@ -70,13 +69,7 @@ Did you know that Hodgin Hall holds the memories and evidence of our past tradit
 How about the fact the UNM’s original school colors were gold and black but changed in 1869 to reflect the silvery ribbon of the Rio Grande and the sunset crimson of the Sandia Mountains. These unrepresented facts and histories are all under one roof.
 This building is literally designed to showcase a Hall of Fame.  Why have we so willingly neglected this historical building? How can we know where we are going if we do not know and validly respect UNM’s history?
 
-{% include juxtapose.html
-image1="images/hodgin-hall-new-u-showing.jpeg"
-image2="images/hodgin-hall-night.jpg"
-caption="then and now"
-%}
-
-{% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-hall-of-fame-text.JPG" %}
+{% include figure.html class="img-center" width="80%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-hall-of-fame-text.JPG" %}
 
 ## What Developed Out of the First Building on the UNM Campus
 In recap, which is so worthwhile the read, the plan for this landmark was envisioned to someday shape the surrounding space. What we know as Albuquerque, NM did not exist long ago. This building was built in a completely empty space with nothing surrounding but dirt in hopes that a community would develop and grow filing the area around. Today we can clearly see this landmark of UNM as a showcase of visionary, creativity and history which initiated the city of Albuquerque as we know it today.
