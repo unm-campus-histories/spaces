@@ -39,5 +39,6 @@ Before becoming home to one of the most widely used buildings on campus, the lan
 # Bibliography
 
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
+
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 96. Center for Southwest Research, University Libraries, University of New Mexico.
 
