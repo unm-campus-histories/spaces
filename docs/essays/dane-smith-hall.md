@@ -12,7 +12,7 @@ date: 2019-04-10
 
 # Background
 
-Dane Smith Hall is a 89,000-square-foot, multipurpose classroom building built in the heart of campus to meet the Universitiy's rapidly growing demand for genral education meeting rooms. It was the first general education classroom built at UNM since 1950, making the need for this building neccesary at its time of construction.
+Dane Smith Hall is a 89,000-square-foot, multipurpose classroom building built in the heart of campus to meet the University's rapidly growing demand for general education meeting rooms. It was the first general education classroom built at UNM since 1950, making the need for this building necessary at its time of construction.
 
 # Usage
 
@@ -20,7 +20,13 @@ Dane Smith Hall has a seating capacity of about 2,000 students across all classr
 
 # Construction
 
-Initial plans for Dane Smith Hall began in 1996, when the board of regents at UNM voted to begin building a new multipurpose classroom to help compensate the large volume of students attending the university. The building was designed by PA Architects, a local company out of Albuquerque. Construction was delayed multiple times due to arguments over the cost of the new building and relocations of the patrons living on the land that hosted Dane Smith before it came to be. When Dane Smith was completed, Roma Avenue was demolished, no longer going through to Yale Boulevard. This connection was replaced with the large round-a-bout that is now a staple of campus, being used constantly thoughout the year
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/DSHConstruction.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/DSHConstruction2.jpg"/></div>
+</div>
+
+
+Initial plans for Dane Smith Hall began in 1996, when the board of regents at UNM voted to begin building a new multipurpose classroom to help compensate the large volume of students attending the university. The building was designed by PA Architects, a local company out of Albuquerque. Construction was delayed multiple times due to arguments over the cost of the new building and relocations of the patrons living on the land that hosted Dane Smith before it came to be. When Dane Smith was completed, Roma Avenue was demolished, no longer going through to Yale Boulevard. This connection was replaced with the large round-a-bout at the end of Yale that is now a staple of campus, being used constantly throughout the year
 
 # Spatial History
  {% include figure.html class="img-right" width="55%" caption="Birds-eye view of the current layout of Dane Smith Hall on top of the original neighborhood that was replaced for the facility." src="images/DSHLayout.jpg" %}
