@@ -21,7 +21,13 @@ Construction
 
 ![Advisement Center Blueprint](file:///C:/Users/Chris/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/unm-studet-service-building-measurements.jpg%20%20(1).pdf)
 
-The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. 
+The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
+
+UNM Campus Planner, John McKinney came up with the idea of moving the tennis courts in order to construct the Student Services Center, being surrounded by Mesa Vista Hall, Kiva Hall, Student Dormotories, Johnson Gym, and the four remaining Tennis courts as well. John McKinney had stated that the four other Tennis courts will stay because they lay over a city water reservoir, and because of that, parking could not be allowed in that area. Had parking been allowed in that area, there would have been serious damage done to the water reservoir. McKinney also stated that the Tennis Classes were to also be moved to the 10 Courts at Redondo Drive. The reasoning for the move was in part because the new Student Services Building was now going to take over that spot, and with the new location of the Tennis Classes, six new courts were to be built at that new site. 
 
 In the three- story building, there are both advising offices for students to set career plans, and there are classrooms on each of the 
-three stories of the building as well. Some of the Classrooms serve as places where History Professors give out Lectures, 
+three stories of the building as well. Some of the Classrooms serve as places where History Professors give out Lectures, and Sciences professors give out their class sessions, along with lectures as well. On the three storied building, when it was first constructed, there first served 11 student service division offices, and an underground storage level that would be used for storage, and mailing and assembling rooms. The Main Floor in the building would have a Registration department, a student loan department, a veterans guidance office, admissions and records offices, and a loading dock. 
+
+How the Building has Changed over the Years. 
+
+Over the years, the Student Services Center has also become a place to hold live classes. First, it was just for advisement and storage, but it has expanded to hold classrooms and has added an elevator to the building, to go along with the staircase that is displayed. 
