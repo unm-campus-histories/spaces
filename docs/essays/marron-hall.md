@@ -21,14 +21,14 @@ But after South Hall was built UNM and the country were subject to the Depressio
 class="img-left"
 width="48%"
 caption="The south facade of South Hall, this is what now faces the Communications and Journalism building."
-src="essays/images/southfaadeofsouthhall.jpg"
+src="images/southfaadeofsouthhall.jpg"
 %}
 
 {% include figure.html
 class="img-left"
 width="48%"
 caption="The women's dorm had many amenities, like the former porch."
-src="essays/images/southhall.jpg"
+src="images/southhall.jpg"
 %}
 
 The 1941 renovation cost $95,000.
@@ -39,7 +39,7 @@ President Popejoy ordered the conversion of Old Hokona Hall to be renovated in 1
 class="img-left"
 width="50%"
 caption="Looking at Marron Hall overhead you can see where the original building was attached to the renovation."
-src="essays/images/Overheadmarronhall.png"
+src="images/Overheadmarronhall.png"
 %}
 
 Marron Hall exists as both faculty offices and as a small base to student publications. Student publications, now the Daily Lobo, was experiencing a large growth in the 70’s. In 1977 Dick Pfaff, the supervisor of student publications requested more rooms in Marron Hall to house the growing program, this was documented by letters in the Student Publications archive. At the time the Hall was home to Anthropology and the Women’s Studies department. With the additional rooms allocated to the student publications Marron Hall exists as it does today.
