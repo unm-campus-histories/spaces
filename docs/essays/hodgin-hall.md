@@ -31,8 +31,6 @@ This building has evolved over time with many name changes which are represented
 
 **2005**      	  Hodgin Hall, Alumni Center
 
-{% include figure.html class="img-center" width="80%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
-
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-weeds.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
