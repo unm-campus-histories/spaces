@@ -30,13 +30,17 @@ Before 1947 some of the first journalism classes were held in the World War II b
 
 
 #### Additions
-In 1963 the jouranlism building would undergo construction again for new additions by the same architect firm with a construction cost of $161,898. There were also letters between the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to improve classroom acoustics. 
+In 1963 the journalism building would undergo construction again for new additions by the same architect firm with a construction cost of $161,898. There were also letters between the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to improve classroom acoustics. 
 
 
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/cj-classroom.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-letter(1).jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-abqjournal.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-article.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/cj-today.jpg"/></div>
+</div>
 
-{% include figure.html class="img-left" width="48%" caption="Class in the journalism building in undated photo." src="images/cj-classroom.jpg" %}
-
-{% include figure.html class="img-left" width="48%" caption="Article clipping from a newspaper about new additions to the journalism building." src="images/cj-article.jpg" %}
 
 
 ## Bibliography
