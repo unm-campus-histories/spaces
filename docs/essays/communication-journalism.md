@@ -31,9 +31,11 @@ Emails were sent back and forth from the Secretary of the University, John Durri
 {% include figure.html class="img-right" width="48%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Bricks make up the addition that will be the annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
 
+---
+
 {% include figure.html class="img-left" width="48%" caption="Class in the journalism building in undated photo." src="images/cj-classroom.jpg" %}
 
-{% include figure.html class="img-left" width="48%" caption="C & J entrance today." src="images/cj-article.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="1964 article about the additions that will be added to the journalism building." src="images/cj-article.jpg" %}
 
 
 ## Bibliography
