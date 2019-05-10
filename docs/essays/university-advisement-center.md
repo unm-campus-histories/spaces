@@ -9,7 +9,7 @@ University Advisement and Enrichment Center
 
 Overview
 
-{% include figure.html class="img-right" width= "33%" caption= "map location of student service center" src="images/student-services-center-map-location.jpg.pdf" %}
+{% include figure.html class= "img-right" width= "33%" caption= "map location of student service center" src="images/student-services-center-map-location.jpg.pdf" %}
 
 
 The University Advisement and Enrichment Center is a three- story building, located on Cental UNM Campus in Albuquerque, New Mexico. The
