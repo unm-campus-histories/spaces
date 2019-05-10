@@ -42,12 +42,12 @@ In 1906 the decision to have the building remodeled, which was called the Admini
 ## Preservation and Restoration (1975)
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
 
-
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
   <div><img src="{{ site.baseurl }}/images/hodgin-hall-old-painting.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>`
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
+  
  
 ## Renovation (2010)
 In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building.
