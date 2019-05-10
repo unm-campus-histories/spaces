@@ -21,5 +21,12 @@ Yatoka Hall has a very interesting history as part of the UNM campus, mainly bec
 ## Responses
 The addition of the Duck Pond to replace this area created a standout location on the North end of campus, quite possibly the most iconic location on campus. In 2013, Devon Stevens wrote a brief article in the Daily Lobo about the Duck Pond and in it, they said, 'When Yatoka was demolished, who can say that it wasn't and improvement? The Duck Pond is a far better feature...' and Stevens continues, 'There may have been people who had good memories of the place, but they're all regulated to the ghostly past of a building most don't even remember.' Sure, this is a harsh statement against Yatoka Hall, but there is truth to it. Yatoka Hall was a poorly maintained building designed for extra storage. When that storage was distributed to other buildings, it serves little to no purpose. By contrast, the Duck Pond is a very popular resting area for students and visitors. This space may be more popular and valuable with the Duck Pond, Yatoka Hall was one of the first buildings on UNM, and that piece of history deserves its own space in UNM Campus Histories.
 
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/yatoka-repair.JPG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/yatoka-classes.JPG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/yatoka-hall-map-1932.png"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/yatoka-area.JPG"/></div>
+</div>
+
 
 
