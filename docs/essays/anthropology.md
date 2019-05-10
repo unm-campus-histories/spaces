@@ -54,4 +54,4 @@ When the Student Union moved east, the whole campus shifted with it, but fragmen
 
 [^csw-2]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1. Center for Southwest Research, University Libraries, University of New Mexico.
 
-[^csw-3]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 2. Center for Southwest Research, University Libraries, University of New Mexico.
+[^csw-3]: University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Box 1-2. Center for Southwest Research, University Libraries, University of New Mexico.
