@@ -20,7 +20,7 @@ The University Advisement and Enrichment Center was first built in 1977, and to 
 
 Construction 
 
-![Advisement Center Blueprint](file:///C:/Users/Chris/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/unm-studet-service-building-measurements.jpg%20%20(1).pdf)
+{% include figure.html class="img-right"width="33%"caption="UNM Center Plans"src="images/unm-new-center-plans.jpg.pdf"%} 
 
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
 
