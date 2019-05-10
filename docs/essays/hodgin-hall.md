@@ -33,9 +33,13 @@ This building has evolved over time with many name changes which are represented
 
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-weeds.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roof.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-old-painting.JPG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-side1.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-front.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-side3.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-old-painting.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
 </div>
 
