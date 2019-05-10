@@ -72,8 +72,16 @@ Did you know that Hodgin Hall holds the memories and evidence of our past tradit
 How about the fact the UNM’s original school colors were gold and black but changed in 1869 to reflect the silvery ribbon of the Rio Grande and the sunset crimson of the Sandia Mountains. These unrepresented facts and histories are all under one roof.
 This building is literally designed to showcase a Hall of Fame.  Why have we so willingly neglected this historical building? How can we know where we are going if we do not know and validly respect UNM’s history? 
 
+{% include juxtapose.html
+image1="images/hodgin-hall-new-u-showing.jpeg"
+image2="images/hodgin-hall-night.jpg"
+caption="then and now”
+
 
 {% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-new-u-showing.jpeg" %}
+
+{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-night.jpg" %}
+
 
 {% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-hall-of-fame-text.JPG" %}
 
@@ -82,7 +90,6 @@ This building is literally designed to showcase a Hall of Fame.  Why have we so 
 In recap, which is so worthwhile the read, the plan for this landmark was envisioned to someday shape the surrounding space. What we know as Albuquerque, NM did not exist long ago. This building was built in a completely empty space with nothing surrounding but dirt in hopes that a community would develop and grow filing the area around. Today we can clearly see this landmark of UNM as a showcase of visionary, creativity and history which initiated the city of Albuquerque as we know it today. 
 
 
-{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-night.jpg" %}
 
 
 
