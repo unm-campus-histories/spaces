@@ -20,11 +20,15 @@ The University Advisement and Enrichment Center was first built in 1977, and to 
 
 Construction 
 
+
 {% include figure.html class="img-right"width="33%"caption="unm center plans"src="images/unm-new-center-plans.jpg"%} 
+
 
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
 
+
 {% include figure.html class="img-right"width="33%"caption="student service building measurements"src="images/unm-student-service-building-measurements.jpg"%} 
+
 
 
 UNM Campus Planner, John McKinney came up with the idea of moving the tennis courts in order to construct the Student Services Center, being surrounded by Mesa Vista Hall, Kiva Hall, Student Dormotories, Johnson Gym, and the four remaining Tennis courts as well. John McKinney had stated that the four other Tennis courts will stay because they lay over a city water reservoir, and because of that, parking could not be allowed in that area. Had parking been allowed in that area, there would have been serious damage done to the water reservoir. McKinney also stated that the Tennis Classes were to also be moved to the 10 Courts at Redondo Drive. The reasoning for the move was in part because the new Student Services Building was now going to take over that spot, and with the new location of the Tennis Classes, six new courts were to be built at that new site. 
@@ -35,4 +39,4 @@ three stories of the building as well. Some of the Classrooms serve as places wh
 
 How the Building has Changed over the Years. 
 
-Over the years, the Student Services Center has also become a place to hold live classes. First, it was just for advisement and storage, but it has expanded to hold classrooms and has added an elevator to the building, to go along with the staircase that is displayed. 
+Over the years, the Student Services Center has also become a place to hold live classes. First, it was just for advisement and storage, but it has expanded to hold classrooms and has added an elevator to the building, to go along with the staircase that is displayed. The building has become a versatile use over time, and it serves as a Huge Benefit to the improvements of UNM Main campus since it broke ground in 1977. 
