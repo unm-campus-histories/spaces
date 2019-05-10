@@ -37,7 +37,7 @@ In 1906 the decision to have the building remodeled, which was called the Admini
 
 {% include figure.html class="img-right" width="42%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
-{% include figure.html class="img-left" width="43%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
+{% include figure.html class="img-left" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
 ## Preservation and Restoration (1975)
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
