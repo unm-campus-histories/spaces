@@ -5,7 +5,7 @@ layout: single-col
 date: 2019-04-10
 ---
 
-# Hodgin Hall
+#<center>Hodgin Hall</center>
 _
 
 {% include figure.html class="img-left" width="68%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
