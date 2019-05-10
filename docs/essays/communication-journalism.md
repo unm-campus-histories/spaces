@@ -24,18 +24,20 @@ C & J was built by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates,
 
 Before 1947, journalism was only offered to students through the English department. The English department only had a few teachers who specialized in the field of journalism. There were two professors teaching literature and writing courses, which included some journalistic, short-story writing and book reviewing. By 1920, the department had increased in size and two new lecturers were added to accommodate the English department. After World War II, many returning veterans took advantage of the military's G.I Bill education benefits causing universities across the United States to see an increase in enrollment. With the increase of student enrollments, journalism would later form its own independent department, eventually getting national accrediation. The C & J building originally housed the Printing Plant, post office and UNM Press. 
 
-#### Additions
-In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
-Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
 
 {% include figure.html class="img-right" width="48%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
 {% include figure.html class="img-left" width="48%" caption="Bricks make up the addition that will be the annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
 
----
+
+#### Additions
+In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
+Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
+
+
 
 {% include figure.html class="img-left" width="48%" caption="Class in the journalism building in undated photo." src="images/cj-classroom.jpg" %}
 
-{% include figure.html class="img-left" width="48%" caption="1964 article about the additions that will be added to the journalism building." src="images/cj-article.jpg" %}
+{% include figure.html class="img-left" width="48%" caption="Article clipping from a newspaper about new additions to the journalism building." src="images/cj-article.jpg" %}
 
 
 ## Bibliography
