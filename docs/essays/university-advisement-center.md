@@ -10,12 +10,13 @@ University Advisement and Enrichment Center
 Overview
 
 The University Advisement and Enrichment Center is a three- story building, located on Cental UNM Campus in Albuquerque, New Mexico. The 
-building is located on 400 Cornell Dr NW, Albuquerque, NM, 87106. 
+building is located on 400 Cornell Dr NW, Albuquerque, NM, 87106. The Building serves as a place where UNM Students can get help for advising strategies in trying to help and improve their colege life in more ways than one, and Build a Foundation for their future careers. The University Advisement and Enrichment Center is a Great place for UNM Students to Start in Career Planning and for planning how the Upcoming Semesters will look for them. 
+
 
 History of the Building 
 
-The University Advisement and Enrichment Center was first built in 1977, and to this day, it serves the purpose of UNM students meeting up 
-with Academic Advisors to set a clear path to the best road to graduation. The Building was First called the "Student Service Center," and as time has gone by, the name of the building had changed to the "University Advisement and Enrichment Center." Advisors expose students to strategies, tools, and resources that help in enhancing the student's long- term success. The University Advisement and Enrichment Center is Building #85, and Suite #135, located on UNM Main campus. 
+The University Advisement and Enrichment Center was first built in 1977, and to this day, it serves the purpose of UNM students meeting up with Academic Advisors to set a clear path to the best road to graduation. The Building was First called the "Student Service Center," and as time has gone by, the name of the building had changed to the "University Advisement and Enrichment Center." Advisors expose students to strategies, tools, and resources that help in enhancing the student's long- term success. The University Advisement and Enrichment Center is Building #85, and Suite #135, located on UNM Main campus. 
+
 
 Construction 
 
@@ -27,6 +28,7 @@ UNM Campus Planner, John McKinney came up with the idea of moving the tennis cou
 
 In the three- story building, there are both advising offices for students to set career plans, and there are classrooms on each of the 
 three stories of the building as well. Some of the Classrooms serve as places where History Professors give out Lectures, and Sciences professors give out their class sessions, along with lectures as well. On the three storied building, when it was first constructed, there first served 11 student service division offices, and an underground storage level that would be used for storage, and mailing and assembling rooms. The Main Floor in the building would have a Registration department, a student loan department, a veterans guidance office, admissions and records offices, and a loading dock. 
+
 
 How the Building has Changed over the Years. 
 
