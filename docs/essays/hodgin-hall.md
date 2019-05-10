@@ -80,6 +80,23 @@ In recap, which is so worthwhile the read, the plan for this landmark was envisi
 
 ---
 
+More history on Hodgin Hall Alumni Center can be found via [UNM Alumni Page](https://www.unmalumni.com/hodgin-hall.html) to include:
+- Self- guided walking tours (UNM Traditions, Time Capsules, etc.)  
+- Detailed History of Hodgin Hall 
+- Hodgin Hall Brochures 
+- Brick Brigade 
+- Hodgin Hall Library 
+- The U 
+
+
+Hodgin Hall Physical Location 
+UNM Alumni Center, Hodgin Hall 
+MSC01-1160 
+1 University of New Mexico 
+Albuquerque, NM 87131-0001 
+
+---
+
 ## Bibliography
 
 - “Hodgin Hall Alumni Center: The Heart and Soul of UNM.” UNM Alumni, 
