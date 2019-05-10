@@ -59,6 +59,16 @@ The University of New Mexico Center for Southwest Research and Special Collectio
 
 Before the Betty Sabo piece was a piece of artwork -- large stones gathered from Belen, New Mexico that are said to resemble “Pieces of Marble Columns on the Acropolis” (256)
 
+# After the 'Marble Columns of the Acropolis'
+
+The University of New Mexico Southwest Research and Special Collections does not currently have any records on original footprints of the erection of 'Modern Art' of 2004, however the Daily Lobo Archives contained an article describing the story of how Sabo's work got to where it is today.
+
+In the Daily Lobo article, Sabo confirms that the scultptures are a reaction to the fractured soda can. Planning of 'Modern Art' started in 2000 when Betty was asked to submit a proposal by the Arts and Public Places Committee because of her contrabution to the Albuquerque community.
+
+In an interview with Roger Lujan, the then director of UNM's Facility and Planning Department described the revel of the art piece, "This is the beginning of the next and very wonderful chapter in the history and development of UNM" 
+
+The Daily Lobo ends with quoting Sabo, "UNM made me what I am today. I never dreamed in my wildest moment that I would have a peice of art at UNM. It's probabaly the greatest thing that has happened to me."
+
 # "Betty Sabo - An Artful Life"
 
 {% include figure.html class="img-right" width="33%" caption="Betty Sabo pictured with her creation shortly before her death (1928 - 2016)" src="images/modern-art-betty-dead.png" %}
