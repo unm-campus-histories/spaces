@@ -4,7 +4,7 @@ author: Brittney Vasquez
 layout: single-col
 date: 2019-04-10
 ---
-**<center>Hodgin Hall</center>**
+****<center>Hodgin Hall</center>****
 
 {% include figure.html class="img-left" width="68%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
 
@@ -16,10 +16,12 @@ If you aren’t familiar with the University Building and do not know where it i
 ---
 A lonely site west of the Sandia Mountains laid twenty acres of land that were generously donated for the future campus.  Amongst rocky soil and fields of chamiso laid the ground where the UNM’s first building was sought out to be built. The University building was completed in 1892 after the Territorial Act in 1889. This building was the sole location for the Preparatory and Normal School, severing one hundred and eight students in fall of 1892.
 
+{% include figure.html class="img-center" width="65%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties.
 
 
-{% include figure.html class="img-right" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
+{% include figure.html class="img-right" width="46%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
 
 
 **1892-1898**     University Building
@@ -32,7 +34,7 @@ This building has evolved over time with many name changes which are represented
 
 **2005**      	  Hodgin Hall, Alumni Center
 
-{% include figure.html class="img-center" width="65%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+
 ## Remodel (1906)
 In 1906 the decision to have the building remodeled, which was called the Administration Building at the time, was essential due the original roof design having poor structural integrity and was foreseen to be problematic in the future. This gave way for the opportunity to have the building suit the traditional Pueblo culture style. In 1908, a massive remodel was underway to change the building’s red bric–k Victorian appearance. The pitched roof was removed, stucco concealed the salmon colored brick and large vigas supported the entry way. An additional room, Rodney Hall, was constructed, and the project was completed in 1909 for a total of $17,309.  
 
@@ -46,7 +48,7 @@ This building is listed as a U.S. National Register of Historic Places which ess
 
 {% include figure.html class="img-left" width="46" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
-{% include figure.html class="img-right" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
+{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
 ## Renovation (2010)
 In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building.
