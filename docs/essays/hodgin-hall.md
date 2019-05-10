@@ -46,16 +46,9 @@ This building is listed as a U.S. National Register of Historic Places which ess
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
   <div><img src="{{ site.baseurl }}/images/hodgin-hall-old-painting.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>`
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
-</div>
-
-{% include figure.html class="img-left" width="25" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
-
-{% include figure.html class="img-left" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
-
+ 
 ## Renovation (2010)
 In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building.
 
