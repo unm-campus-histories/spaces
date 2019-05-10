@@ -38,6 +38,11 @@ According to the 2016 Albuquerque Journal article, “Popular UNM statuses defac
 
 
 # UNM Planning Records
+
+{% include figure.html class="img-right" width="33%" caption="The rock sculture in place before erection of Modern Art" src="images/modern-art-tbt.png" %}
+
+{% include figure.html class="img-right" width="33%" caption="Planning of the original art" src="images/modern-art-tbt-plan.png" %}
+
 The University of New Mexico Center for Southwest Research and Special Collections contain history of the space where “Modern Art” is occupied, which is Cornell Mall. The art within Cornell Mall makeup “Landscapes,” but according to Only in New Mexico one of the main issues about art or spaces in this space is that with the exception of Smith Plaza, they have never been named.
 
 Before the Betty Sabo piece was a piece of artwork -- large stones gathered from Belen, New Mexico that are said to resemble “Pieces of Marble Columns on the Acropolis” (256)
