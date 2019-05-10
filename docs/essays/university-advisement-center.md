@@ -9,6 +9,9 @@ University Advisement and Enrichment Center
 
 Overview
 
+{% include figure.html class="img-right"width="33%"caption="map location of student service center"src="images/student-services-center-map-location.jpg"%} 
+
+
 The University Advisement and Enrichment Center is a three- story building, located on Cental UNM Campus in Albuquerque, New Mexico. The 
 building is located on 400 Cornell Dr NW, Albuquerque, NM, 87106. The Building serves as a place where UNM Students can get help for advising strategies in trying to help and improve their colege life in more ways than one, and Build a Foundation for their future careers. The University Advisement and Enrichment Center is a Great place for UNM Students to Start in Career Planning and for planning how the Upcoming Semesters will look for them. 
 
@@ -20,8 +23,7 @@ The University Advisement and Enrichment Center was first built in 1977, and to 
 
 Construction 
 
-
-{% include figure.html class="img-right"width="33%"caption="unm center plans"src="images/unm-new-center-plans.jpg"%} 
+  {% include file.ext param='value' param2='value' %} in essays/university-advisement-center.md
 
 
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
