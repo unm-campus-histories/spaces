@@ -18,7 +18,7 @@ image1="images/cj-side.jpg"
 image2="images/cj-side-today.jpg"
 caption="C & J building looking northeast.jpg"
 %}
----
+
 #### Early History
 C & J was built in 1949 by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates with a construction cost of $147,398 and project cost of $166,470. It was built after the chemical engineering building with a completion date on August 3, 1949. Meem's work is popular on UNM campus and in various locations across New Mexico. His work includes the famous [Zimmerman Library.](www.https://unm-campus-histories.github.io/spaces/essays/zimmerman.html)
 
