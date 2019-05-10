@@ -12,7 +12,7 @@ date: 2019-04-10
 
 Marron Hall existed as a space long before the building came to be known as Marron Hall. What is now known as Marron Hall came to existence in 1921, when the original South Hall was built. South Hall was built as an addition to the original Hokona Hall. At the time the population of UNM was booming and female students needed a place to board at on campus, before that time students could stay at one of the few dorm rooms on campus. But even fefore the dorms were built it was thought that female students could board with Albuquerque families. The rush of students was so much that by 1931 an addition had to be made to the dorm. It is this additional part that is now a part of Marron Hall. It is that same year that Frances Halloran Marron, Marron Hall’s namesake, was appointed to the UNM Board of Regents.
 
-{% include figure.html class="img-right" width="33%" caption="The original plans to the women's dorm. What would later become Marron Hall is the wing of the building labeled old addition." src="images/oldhakonahall.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="The original plans to the women's dorm. What would later become Marron Hall is the wing of the building labeled old addition." src="images/oldhokonahall.jpg" %}
 
 But after South Hall was built UNM and the country were subject to the Depression. But this only ramped up the building on campus. The Public Works Administration built a multitude of new buildings on UNM’s campus to help revitalize Albuquerque’s economy. And again by 1941 a new addition was needed. In 1941 the main part of Marron Hall was built as the space that the campus knows it now to be. The building was designed by John Gaw Meem. Between 1934-56 no other architecture firm was contracted for building on UNM campus. Unfortunately for Meem the United States was ramping up for World War II, creating less enrollment and a cut in federal funding, and his fee was cut to 3/5ths of the original 6% for Marron and Bandelier Hall, but funds could also be taken from the student fees collected by the university due to legislation passed in 1934.
 
@@ -21,7 +21,7 @@ But after South Hall was built UNM and the country were subject to the Depressio
 class="img-left"
 width="48%"
 caption="The south facade of South Hall, this is what now faces the Communications and Journalism building."
-src="images/southfaadeofsouthhall.jpg"
+src="images/southfacadeofsouthhall.jpg"
 %}
 
 {% include figure.html
