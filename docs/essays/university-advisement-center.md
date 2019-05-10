@@ -9,7 +9,7 @@ University Advisement and Enrichment Center
 
 Overview
 
-{% include figure.html class="img-right"width="33%"caption="map location of student service center"src="images/student-services-center-map-location.jpg"%} 
+{% include figure.html class="img-right"width="33%"caption="map location of student service center"src="images/student-services-center-map-location.jpg.pdf"%} 
 
 
 The University Advisement and Enrichment Center is a three- story building, located on Cental UNM Campus in Albuquerque, New Mexico. The 
@@ -23,13 +23,15 @@ The University Advisement and Enrichment Center was first built in 1977, and to 
 
 Construction 
 
-  {% include file.ext param='value' param2='value' %} in essays/university-advisement-center.md
+{% include figure.html class="img-right"width="33%"caption="unm center plans"src="images/unm-new-center-plans.jpg.pdf"%}  
+ 
+{% include figure.html class="img-right"width="33%"caption="student services center blueprint"src="images/student-services-center-blueprint.jpg.pdf"%}  
 
 
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
 
 
-{% include figure.html class="img-right"width="33%"caption="student service building measurements"src="images/unm-student-service-building-measurements.jpg"%} 
+{% include figure.html class="img-right"width="33%"caption="student service building measurements"src="images/unm-student-service-building-measurements.jpg.pdf"%} 
 
 
 
@@ -42,3 +44,5 @@ three stories of the building as well. Some of the Classrooms serve as places wh
 How the Building has Changed over the Years. 
 
 Over the years, the Student Services Center has also become a place to hold live classes. First, it was just for advisement and storage, but it has expanded to hold classrooms and has added an elevator to the building, to go along with the staircase that is displayed. The building has become a versatile use over time, and it serves as a Huge Benefit to the improvements of UNM Main campus since it broke ground in 1977. 
+
+The building has many different assets to it, but the Advising Strategies for UNM Students remains it's Biggest Asset of all. The Building has departments such as University Communication and Marketing Programs, History Programs, Science Programs, etc. The University Student Service Center has many different benefits to it and because of that UNM Main campus and the Student Service Center is a Better place for students than ever before. 
