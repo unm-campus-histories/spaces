@@ -30,5 +30,5 @@ Johnny Desiderio - [Coronado Hall](essays/coronado-hall)
 
 Jared Lucero - ["Modern Art"](essays/modern-art)
 
-Jacob Brown - [Dane Smith Hall] (essays/dane-smith-hall)
+Jacob Brown - [Dane Smith Hall](essays/dane-smith-hall)
 
