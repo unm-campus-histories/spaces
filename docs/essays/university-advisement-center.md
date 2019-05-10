@@ -9,7 +9,7 @@ University Advisement and Enrichment Center
 
 Overview
 
-{% include figure.html class= "img-right" width= "33%" caption= "map location of student service center" src= "images/student-services-center-map-location.jpg.pdf" %}
+{% include figure.html class= "img-right" width= "33%" caption= "map location of student service center" src= "images\student-services-center-map-location.jpg.pdf" %}
 
 
 The University Advisement and Enrichment Center is a three- story building, located on Cental UNM Campus in Albuquerque, New Mexico. The
@@ -23,15 +23,15 @@ The University Advisement and Enrichment Center was first built in 1977, and to 
 
 Construction
 
-{% include figure.html class="img-right" width="33%" caption="unm center plans" src="images/unm-new-center-plans.jpg.pdf" %}  
+{% include figure.html class="img-right" width="33%" caption="unm center plans" src="images\unm-new-center-plans.jpg.pdf" %}  
 
-{% include figure.html class="img-right" width="33%" caption="student services center blueprint" src="images/student-services-center-blueprint.jpg.pdf" %}  
+{% include figure.html class="img-right" width="33%" caption="student services center blueprint" src="images\student-services-center-blueprint.jpg.pdf" %}  
 
 
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. Everything was approved by the UNM board to create a $5.7 Million Student Service Center on UNM Main campus. Four of the eight original tennis courts were removed, in order to create the Student Services Center in 1977, and at that time, there were 207 spaces on UNM Main Campus, along with therebeing an additional 78 parking spaces in the area. 
 
 
-{% include figure.html class="img-right" width="33%" caption="student service building measurements" src="images/unm-student-service-building-measurements.jpg.pdf" %}
+{% include figure.html class="img-right" width="33%" caption="student service building measurements" src="images\unm-student-service-building-measurements.jpg.pdf" %}
 
 
 
