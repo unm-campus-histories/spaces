@@ -46,3 +46,12 @@ How the Building has Changed over the Years.
 Over the years, the Student Services Center has also become a place to hold live classes. First, it was just for advisement and storage, but it has expanded to hold classrooms and has added an elevator to the building, to go along with the staircase that is displayed. The building has become a versatile use over time, and it serves as a Huge Benefit to the improvements of UNM Main campus since it broke ground in 1977.
 
 The building has many different assets to it, but the Advising Strategies for UNM Students remains it's Biggest Asset of all. The Building has departments such as University Communication and Marketing Programs, History Programs, Science Programs, etc. The University Student Service Center has many different benefits to it and because of that UNM Main campus and the Student Service Center is a Better place for students than ever before.
+
+
+
+
+Bibliography 
+
+Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
+
+McColeman, Susan. A History of the Buildings of the University of New Mexico, 1890-1934. Albuquerque, NM: Office of the University Architect, University of New Mexico, 1984.
