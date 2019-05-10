@@ -46,8 +46,8 @@ This building is listed as a U.S. National Register of Historic Places which ess
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
   <div><img src="{{ site.baseurl }}/images/hodgin-hall-old-painting.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-history-stays.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/mvh-room-cost.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/mvh-tv-room.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/mvh-women-supervision.jpg"/></div>
 </div>
@@ -63,6 +63,7 @@ In 2008, the State Legislature provided funds for the first phase of renovations
 If you are asking yourself, why the heart of UNM is a foreign building, well it is probably because its physical location does not lie in the center of North campus, like the Student Union Building. However, as time evolved, the UNM campus grew North-East, so it has unfortunately become an unexplored long-lived beating heart.
 
 I would like to help you engage with this very much alive building on UNM’s main campus that may seem forgotten but is a crucial part of our campus’s heritage. The previously mentioned renovations, remodels, and restorations are not simply because money has been thrown at the University, but rather because this physical space and building holds such a significant meaning and nostalgia that has been worth the battling.
+
 
 {% include juxtapose.html
 image1="images/hodgin-hall-new-u-showing.jpeg"
