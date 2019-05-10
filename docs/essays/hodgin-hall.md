@@ -31,6 +31,8 @@ This building has evolved over time with many name changes which are represented
 
 **2005** 	Hodgin Hall, Alumni Center 
 
+{% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
+
 ## Remodel (1906):
 In 1906 the decision to have the building remodeled, which was called the Administration Building at the time, was essential due the original roof design having poor structural integrity and was foreseen to be problematic in the future. This gave way for the opportunity to have the building suit the traditional Pueblo culture style. In 1908, a massive remodel was underway to change the building’s red bric–k Victorian appearance. The pitched roof was removed, stucco concealed the salmon colored brick and large vigas supported the entry way. An additional room, Rodney Hall, was constructed, and the project was completed in 1909 for a total of $17,309.  
 
@@ -44,16 +46,17 @@ This building is listed as a U.S. National Register of Historic Places which ess
 
 {% include figure.html class="img-left" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
+{% include figure.html class="img-right" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
+
+
 ## Renovation (2010):
 In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building. 
 
 
-{% include figure.html class="img-right" width="47%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
 
 
 
-{% include figure.html class="img-center" width="85%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-text-within-walls.PNG" %}
 
 
 ## Unexplored Heart of UNM 
