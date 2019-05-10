@@ -47,17 +47,10 @@ The University of New Mexico Center for Southwest Research and Special Collectio
 
 Before the Betty Sabo piece was a piece of artwork -- large stones gathered from Belen, New Mexico that are said to resemble “Pieces of Marble Columns on the Acropolis” (256)
 
-# "Betty Sabo - An Artful Life" 
+# "Betty Sabo - An Artful Life"
+
+{% include figure.html class="img-right" width="33%" caption="Betty Sabo pictured with her creation shortly before her death (1928 - 2016)" src="images/modern-art-betty-dead.png" %}
+
 Announced in 2012 by the University of New Mexico Foundation, Betty Sabo’s life and career is the subject of a new documentary, entitled, “Betty Sabo - An Artful Life.” The announcement also discusses the Betty Sabo Endowment, which benefits art students. When the announcement was published, Sabo was battling alzheimer's. Sabo passed away peacefully a few years later, on February 10 2016  -- which is declared Betty Sabo Day by Governor Susana Martinez.
 
 
-Here's a dummy essay that will gradually turn into a real model.
-
-In the meantime, here's a **test image**, hopefully off to the right and taking up 1/3 of the page width.
-
-{% include figure.html
-  class="img-right"
-  width="33%"
-  caption="Fiesa"
-  src="misc_for_libguide_076.jpg"
-%}
