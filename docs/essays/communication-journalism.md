@@ -29,8 +29,8 @@ Before 1947 some of the first journalism classes were held in the World War II b
 {% include figure.html class="img-left" width="48%" caption="Bricks make up the addition that will be the annex to the Journalism building in 1965." src="images/cj-annex-1965.jpg" %}
 
 
-#### Additions
-In 1963 the journalism building would undergo construction again for new additions by the same architect firm with a construction cost of $161,898. There were also letters between the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to improve classroom acoustics. 
+#### Additions and Today
+In 1963 the journalism building would undergo construction again for new additions by the same architect firm with a construction cost of $161,898. There were also letters between the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to improve classroom acoustics. In 1991 and 2007, there were renovations done on the journalism bulding to improve the building quality and structure. Today, the department offers more opportunities for students seeking a degree in journalism or communications such as: concentrations in multimedia journalism, strategic communication or digital field multimedia.  
 
 
 <div class="carousel">
@@ -54,4 +54,6 @@ In 1963 the journalism building would undergo construction again for new additio
 - Hooker, Van Dorn, Melissa Howard, and V. B Price. _Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989_. Albuquerque, NM: University of New Mexico Press, 2000.
 
 - University of New Mexico. Department of Facility Planning Records, 1889-, Collection UNMA 028, Box 55. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- University of New Mexico. Communication and Journalism Homepage. 
 
