@@ -32,6 +32,8 @@ Initial plans for Dane Smith Hall began in 1996, when the board of regents at UN
  {% include figure.html class="img-right" width="45%" caption="Birds-eye view of the current layout of Dane Smith Hall on top of the original neighborhood that was replaced for the facility." src="images/DSHLayout.jpg" %}
  
 Before becoming home to one of the most widely used buildings on campus, the land hosting Dane Smith Hall was home to a small neighborhood. Within this neighborhood lived various professors at UNM. Dane Farnsworth Smith, the namesake of Dane Smith Hall, lived in a small house with his wife in this neighborhood. He is one of many professors from this small neighborhood to have a building on campus named after him. These professors include Coach Johnson (Johnson Gym), Professor Clark (Clark hall), and Stuart Northrop (Northrop Hall).  
+{% include figure.html class="img-left" width="35%" caption="Professor Dane Smith's house on Roma Ave." src="images/dane.jpg" %}
+
 
 # Bibliography
 
