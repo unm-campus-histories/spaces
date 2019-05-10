@@ -1,5 +1,5 @@
 ---
-title: Modern Art by Berry Sabo
+title: Modern Art by Betty Sabo
 author: Jared Lucero
 layout: single-col
 date: 2019-03-25
