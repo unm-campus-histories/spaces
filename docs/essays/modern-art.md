@@ -75,4 +75,26 @@ The Daily Lobo ends with quoting Sabo, "UNM made me what I am today. I never dre
 
 Announced in 2012 by the University of New Mexico Foundation, Betty Sabo’s life and career is the subject of a new documentary, entitled, “Betty Sabo - An Artful Life.” The announcement also discusses the Betty Sabo Endowment, which benefits art students. When the announcement was published, Sabo was battling alzheimer's. Sabo passed away peacefully a few years later, on February 10 2016  -- which is declared Betty Sabo Day by Governor Susana Martinez.
 
+# Bibliography 
 
+“Administrative Policies and Procedures Manual - Policy 2240: Respectful Campus.” University Policy, 3 May 2019, 
+  policy.unm.edu/university-policies/2000/2240.html.
+  
+AlaimoMonson, Rachel. “'Modern Art' Delivers Wonder to Cornell Mall.” New Mexico Daily Lobo, 24 Aug. 2004, 6:00am,    
+  www.dailylobo.com/article/2004/08/modern_art_delivers_wonder_to_cornell_mall.
+  
+“Artist Betty Sabo Died Tuesday Morning.” KOAT, KOAT, 10 May 2016, www.koat.com/article/artist-betty-sabo-died-tuesday-morning/5071312.
+
+Box 58. “The University Planning Records of Cornell Mall .” The University of New Mexico,  Center for Southwest Research and Special 
+  Collections, 1979.
+  
+Hooker, Van Dorn, et al. Only in New Mexico: an Architectural History of the University of New Mexico: the First Century, 1889-1989. 
+  University of New Mexico, 2000.
+  
+Kent, Jackie. “UNM Signs Alert Students to 'Free Speech Zones'.” KRQE, KRQE, 23 Apr. 2018, www.krqe.com/news/albuquerque-metro/unm-signs- 
+  alert-students-to-free-speech-zones/1136387617.
+  
+“Public Art at UNM: Writing and Research: Examples of Public Art at UNM.” Research Guides, 25 Apr. 2018, 3:02 PM,   
+  libguides.unm.edu/publicart/unm_examples.
+  
+“UNM Foundation.” University of New Mexico Foundation, www.unmfund.org/donor-story/betty-sabo-an-artful-life/.
