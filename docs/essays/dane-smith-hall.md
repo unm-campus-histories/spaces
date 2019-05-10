@@ -16,7 +16,7 @@ Dane Smith Hall is a 89,000-square-foot, multipurpose classroom building built i
 
 # Usage
 
-Dane Smith Hall has a seating capacity of about 2,000 students across all classrooms. The building contains sixteen large classrooms containing 56 seats, thirteen smaller classrooms seating 25, three computer classrooms, two containing 25 seats and one containing 40, four television classrooms containing 40 seats, two small lecture halls seating 100 each, and one large lecture class with 162 seats. Each of these classrooms are equipped with projectors. televisions, and campus network connections in order to create a state of the art building that UNM desperately needed at the time. Dane Smith Hall hosts all types of classes from mathematics to political science to signed language. A majority if undergarduates attending UNM will take at least one core class at Dane Smith Hall.
+Dane Smith Hall has a seating capacity of about 2,000 students across all classrooms. The building contains sixteen large classrooms containing 56 seats, thirteen smaller classrooms seating 25, three computer classrooms, two containing 25 seats and one containing 40, four television classrooms containing 40 seats, two small lecture halls seating 100 each, and one large lecture class with 162 seats. Each of these classrooms are equipped with projectors. televisions, and campus network connections in order to create a state of the art building that UNM desperately needed at the time. Dane Smith Hall hosts all types of classes including mathematics, political science, signed language, to name a few. A majority of undergarduates attending UNM will take at least one core class at Dane Smith Hall.
 
 # Construction
 
