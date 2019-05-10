@@ -7,7 +7,7 @@ date: 2019-04-10
 
 # **Hodgin Hall** 
 
-{% include figure.html class="img-right" width="65%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
+{% include figure.html class="img-left" width="60%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
 ---
 If you aren’t familiar with the University Building and do not know where it is located, you are not alone. This University Building has had four name changes and is currently called Hodgin Hall, Alumni Center. This building is located off the corner of Central and University, previously railyard road, and is the heart and backbone of UNM. Some would say it is the unexplored heart, but we will get into that later. Hodgin Hall is where it all started. That’s correct, it is the very first building that was constructed on UNM’s campus and was the only building for almost a decade.
 
@@ -35,7 +35,6 @@ This building has evolved over time with many name changes which are represented
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-weeds.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-blue-print.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-parking-in-front.PNG"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-old-painting.JPG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
 </div>
@@ -45,7 +44,7 @@ In 1906 the decision to have the building remodeled, which was called the Admini
 
 {% include figure.html class="img-right" width="42%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-landmark.PNG" %}
 
-{% include figure.html class="img-left" width="40%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
+{% include figure.html class="img-left" width="39.5%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-registered.PNG" %}
 
 ## Preservation and Restoration (1975)
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
