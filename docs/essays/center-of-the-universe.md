@@ -43,10 +43,16 @@ Ever since the initial few years that the sculpture has been around, it’s safe
 
 ##### Bibliography
 “The Center of the Universe”, drawing my Steve Borbes, Facility Planning #028, Oversize drawers.
+
 *Contemporanea International Art Magazine*, Feb 1990, Vol III No 2, P 38-45.
+
 *Campus News*, University of New Mexico, Feb. 18th, 1988, Vol 23, No 11.
+
 *New Mexico Daily Lobo*, Mar 30, 1988.
+
 *Albuquerque Journal Magazine*, Mar 8, 1988, Vol 11, No 19.
+
 Landscaping, Sculpture- Center of the Universe Illustration, Facility Planning #028, Oversize drawers.
+
 “Center of the Universe”, Bruce Nauman, UNMA UAC 028, Photo by Van Dorn Hooker
 
