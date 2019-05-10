@@ -10,6 +10,6 @@ date: 2019-04-10
 
 {% include figure.html class="img-right" width="98%" caption="A modern view of Dane Smith Hall" src="images/dane-smith-modern.jpg" %}
 
-#Background
+# Background
 
 Dane Smith Hall is a 89,000-square-foot, multipurpose classroom building built in the heart of campus to meet the Universitiy's rapidly growing demand for genral education meeting rooms.
