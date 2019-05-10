@@ -5,7 +5,6 @@ layout: single-col
 date: 2019-04-10
 ---
 
-
 # Hodgin Hall
 _
 
@@ -15,7 +14,7 @@ If you aren’t familiar with the University Building and do not know where it i
 
 {% include figure.html class="img-right" width="33%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-brick.jpg" %}
 
-                                              							             
+---                                              							             
 
 		   A lonely site west of the Sandia Mountains laid twenty acres of land that were generously donated for the future campus.  Amongst rocky soil and fields of chamiso laid the ground where the UNM’s first building was sought out to be built. The University building was completed in 1892 after the Territorial Act in 1889. This building was the sole location for the Preparatory and Normal School, severing one hundred and eight students in fall of 1892. 
 
@@ -90,7 +89,7 @@ caption="then and now”
 
 In recap, which is so worthwhile the read, the plan for this landmark was envisioned to someday shape the surrounding space. What we know as Albuquerque, NM did not exist long ago. This building was built in a completely empty space with nothing surrounding but dirt in hopes that a community would develop and grow filing the area around. Today we can clearly see this landmark of UNM as a showcase of visionary, creativity and history which initiated the city of Albuquerque as we know it today. 
 
-
+-----
 
 
 
