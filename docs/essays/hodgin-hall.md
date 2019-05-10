@@ -80,3 +80,14 @@ In recap, which is so worthwhile the read, the plan for this landmark was envisi
 
 ---
 
+## Bibliography
+
+- “Hodgin Hall Alumni Center: The Heart and Soul of UNM.” UNM Alumni, 
+	 https://www.unmalumni.com/hodgin-hall.html. Accessed 1 May 2019. 
+
+- University of New Mexico. Dept. of Facility Planning Records, 1889-, collection UNMA 028,Box 	53,54. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- “UNM Hodgin Hall.” Century Sign Builders,
+	https://www.csbsigns.com/project/unm-hodgin-hall/. Accessed 01 May 2019
+
+
