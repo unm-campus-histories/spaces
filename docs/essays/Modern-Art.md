@@ -21,6 +21,10 @@ Since the time of its inception, the art piece has also taken an interactive for
 The stainless steel tower in the middle tower is the work of Sabo’s work is done by brother, Gary Beales, which served at inspiration by Betty’s work. Watching her brother complete his stainless steel tower, Sabo thought the tower looked confusing on what it represents -- a soda can from birds eye view -- which inspired to create the bronze figures, who are trying to figure out exactly what the tower is. One of the figures sits on the curb frustrated while some stand up as if are having a conversation on their ideas of the tower. Although this space is entitled and renowd after Sabo’s work, it would not be what it is if it was not for Beales initial piece. 
 
 # Free Speech at The University of New Mexico
+
+{% include figure.html class="img-right" width="33%" caption="Just ahead in the horizon of UNM's 'Free Speech Zone' lie Betty Sabo's artwork" src="images/modern-art-free-speech.png" %}
+
+
 “Modern Art” is also significantly related to free speech matters at The University of New Mexico, as many people who come to the University do so while standing at “Modern Art” -- which enacted UNM administration to post a sign just before the space with the label, “Free Speech Zone”
 
 In addition to the controversial “Free Speech Zone,” UNM Policy 2240: Cornerstones of a Respectful Campus “calls for the promotion of of an environment which:
