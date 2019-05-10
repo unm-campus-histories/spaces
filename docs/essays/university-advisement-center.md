@@ -19,6 +19,8 @@ with Academic Advisors to set a clear path to the best road to graduation. The B
 
 Construction 
 
+file:///C:/Users/Chris/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/unm-studet-service-building-measurements.jpg%20%20(1).pdf
+
 The Student Service Center broke ground in 1977, and the idea came from former UNM Architect, John Reed, who had created plans for several buildings on UNM Main campus. 
 
 In the three- story building, there are both advising offices for students to set career plans, and there are classrooms on each of the 
