@@ -70,7 +70,6 @@ How about the fact the UNM’s original school colors were gold and black but ch
 This building is literally designed to showcase a Hall of Fame.  Why have we so willingly neglected this historical building? How can we know where we are going if we do not know and validly respect UNM’s history?
 
 {% include figure.html class="img-center" width="80%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-hall-of-fame-text.JPG" %}
-
 ## What Developed Out of the First Building on the UNM Campus
 In recap, which is so worthwhile the read, the plan for this landmark was envisioned to someday shape the surrounding space. What we know as Albuquerque, NM did not exist long ago. This building was built in a completely empty space with nothing surrounding but dirt in hopes that a community would develop and grow filing the area around. Today we can clearly see this landmark of UNM as a showcase of visionary, creativity and history which initiated the city of Albuquerque as we know it today.
 
