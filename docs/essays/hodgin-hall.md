@@ -65,7 +65,7 @@ I would like to help you engage with this very much alive building on UNM’s ma
 {% include juxtapose.html
 image1="images/hodgin-hall-new-u-showing.jpeg"
 image2="images/hodgin-hall-night.jpg"
-caption="then and now"
+caption="Hodgin Hall Beautiful Architecture - Day and Night Contrast"
 %}
 
 Did you know that Hodgin Hall holds the memories and evidence of our past traditions? These include a time capsule from the class of 1908, another time capsule to be opened in 2111, Zia awards, a library filled with UNM alumni published books, past UNM yearbooks, original student records, and many more historical items.
