@@ -10,7 +10,7 @@ date: 2019-04-10
 
 {% include figure.html class="img-center" width="80%" caption="View from Central Avenue photo by Tyler Dingee" src="images/cj-front.jpg" %}
 #### Overview
-The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo Revival styled building, made of clay tile and stucco, located on the south end of campus at the University of New Mexico (UNM) in Albuquerque, New Mexico. It sits on the corner of Central Avenue and Yale Boulevard with its main entrance facing north toward Redondo Drive.
+The Communication and Journalism Building (C & J) is a two-story, Spanish Pueblo Revival styled building, made of clay tile and stucco. It is located on the southern end of campus at the University of New Mexico (UNM) in Albuquerque, New Mexico. It sits on the corner of Central Avenue and Yale Boulevard with its main entrance facing north toward Redondo Drive. 
 
 
 {% include juxtapose.html
@@ -20,9 +20,9 @@ caption="C & J building looking northeast.jpg"
 %}
 ---
 #### Early History
-C & J was built by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates, in 1949 and was built after the chemical engineering building. Meem's work can be seen across UNM campus, which includes the famous [Zimmerman Library](www.https://unm-campus-histories.github.io/spaces/essays/zimmerman.html)
+C & J was built in 1949 by Santa Fe architect, John Gaw Meem-Hugo Zehner and Associates with a construction cost of $147,398 and project cost of $166,470. It was built after the chemical engineering building with a completion date on August 3, 1949. Meem's work is popular on UNM campus and in various locations across New Mexico. His work includes the famous [Zimmerman Library.](www.https://unm-campus-histories.github.io/spaces/essays/zimmerman.html)
 
-Before 1947, journalism was only offered to students through the English department. The English department only had a few teachers who specialized in the field of journalism. There were two professors teaching literature and writing courses, which included some journalistic, short-story writing and book reviewing. By 1920, the department had increased in size and two new lecturers were added to accommodate the English department. After World War II, many returning veterans took advantage of the military's G.I Bill education benefits causing universities across the United States to see an increase in enrollment. With the increase of student enrollments, journalism would later form its own independent department, eventually getting national accrediation. The C & J building originally housed the Printing Plant, post office and UNM Press. 
+Before 1947 some of the first journalism classes were held in the World War II barracks near University Avenue. In the beginning, journalism was only offered to students through the English department. The English department had only a few teachers who specialized in the field of journalism. There were two professors teaching literature and writing courses, limited courses were offered for students interested in journalism but did include some journalistic, short-story writing and book reviewing. By 1920, the department had increased in size and two new lecturers were added to accommodate the English department, it was not until after World War II, that many returning veterans took advantage of the military's [G.I Bill](https://www.va.gov/education/about-gi-bill-benefits/) education benefits causing universities across the United States to see an increase in enrollment. With the increase of student enrollments, journalism would eventually form its own independent department. Keen Rafferty, a former editor at the Baltimore Sun, came to UNM in 1942 to serve as the news service director and department's chairman. Keen helped the department fast track its national accrediation in 1955. The C & J building originally housed the Printing Plant, post office and UNM Press. 
 
 
 {% include figure.html class="img-right" width="48%" caption="Construction in 1963 of the add ons to the C & J Building with Sara Raynolds Hall and R-1 building in the background." src="images/cj-construction-1961.jpg" %}
@@ -30,8 +30,7 @@ Before 1947, journalism was only offered to students through the English departm
 
 
 #### Additions
-In 1963, UNM came out with a annual report with proposed building and addition projects that would be improve areas across campus. The Journalism Building, also know as building 115, would undergo construction to add on to the existing building to make room for the post office and UNM Press.
-Emails were sent back and forth from the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to inquire about the cost of improving classroom acoustics. 
+In 1963 the jouranlism building would undergo construction again for new additions by the same architect firm with a construction cost of $161,898. There were also letters between the Secretary of the University, John Durrie of the Student Pubilcations Board, to John Gaw Meem-Hugo Zehner and Associates to improve classroom acoustics. 
 
 
 
