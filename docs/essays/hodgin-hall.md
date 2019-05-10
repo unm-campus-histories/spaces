@@ -39,8 +39,8 @@ This building has evolved over time with many name changes which are represented
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-side1.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-front.PNG"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-side3.PNG"/></div>
-  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-old-painting.jpg"/></div>
   <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-roadview.PNG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/hodgin-hall-old-painting.jpg"/></div>
 </div>
 
 ## Remodel (1906)
@@ -80,6 +80,7 @@ In recap, which is so worthwhile the read, the plan for this landmark was envisi
 
 ---
 
+
 More history on Hodgin Hall Alumni Center can be found via [UNM Alumni Page](https://www.unmalumni.com/hodgin-hall.html) to include:
 - Self- guided walking tours (UNM Traditions, Time Capsules, etc.)  
 - Detailed History of Hodgin Hall 
@@ -94,6 +95,7 @@ UNM Alumni Center, Hodgin Hall
 MSC01-1160 
 1 University of New Mexico 
 Albuquerque, NM 87131-0001 
+
 
 ---
 
