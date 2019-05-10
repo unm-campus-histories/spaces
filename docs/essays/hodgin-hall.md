@@ -5,7 +5,6 @@ layout: single-col
 date: 2019-04-10
 ---
 <center>#Hodgin Hall</center>
-________________________________________________________________________________________________________________________________________________________________________________
 
 {% include figure.html class="img-left" width="68%" caption="Hodgin Hall previously known as the University Building was built in 1892 and is the oldest building on the UNM campus." src="images/hodgin-hall-main-pic.PNG" %}
 
@@ -17,7 +16,9 @@ If you aren’t familiar with the University Building and do not know where it i
 
 This building has evolved over time with many name changes which are represented on the timeline below and is also currently listed as a prehistorical property in the New Mexico Register of Culture Properties.
 
+
 {% include figure.html class="img-right" width="50%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-weeds.PNG" %}
+
 
 **1892-1898** 	University Building
 
@@ -42,10 +43,9 @@ In 1906 the decision to have the building remodeled, which was called the Admini
 This building is listed as a U.S. National Register of Historic Places which essentially means it has been deemed worthy of preserving its historical significance. In 1975, a petition for preservation and restoration of Hodgin Hall was granted so long as the University Alumni were able to come up with the funds. With the help of devoted alumni and dear friends of the University, funding was met. The alums fundraiser campaign contributed immensely to the restoration which was completed in 1983 for over $1,000,000.
 
 
-{% include figure.html class="img-left" width="46%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
+{% include figure.html class="img-left" width="50" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-blue-print.PNG" %}
 
-{% include figure.html class="img-right" width="48%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
-
+{% include figure.html class="img-right" width="52%" caption="Hodgin-Hall-Brigade-Est-1992" src="images/hodgin-hall-old-painting.jpg" %}
 
 ## Renovation (2010):
 In 2008, the State Legislature provided funds for the first phase of renovations to increase building functionality and showcasing of alumni. From 2010 to 2011 the progress was made to update new lighting, wireless access and uphold the honorable architecture of the historical building.
