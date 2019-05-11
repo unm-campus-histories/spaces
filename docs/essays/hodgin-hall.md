@@ -88,14 +88,6 @@ More history on Hodgin Hall Alumni Center can be found via [UNM Alumni Page](htt
 - Hodgin Hall Library 
 - The U 
 
-
-Hodgin Hall Physical Location 
-UNM Alumni Center, Hodgin Hall 
-MSC01-1160 
-1 University of New Mexico 
-Albuquerque, NM 87131-0001 
-
-
 ---
 
 ## Bibliography
