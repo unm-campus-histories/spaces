@@ -34,3 +34,5 @@ Jared Lucero - ["Modern Art"](essays/modern-art)
 
 Jacob Brown - [Dane Smith Hall](essays/dane-smith-hall)
 
+Mateo Quintana - [Duck Pond](essays/duck-pond)
+
