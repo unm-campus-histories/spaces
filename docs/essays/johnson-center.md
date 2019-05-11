@@ -29,9 +29,8 @@ Fortunately Johnson Center was built to have a lot of space and the completion o
 
 {% include figure.html class="img-right" width="40%" caption="Digital Render of Johnson Gym's new lobby" src="images/johnson-center-lobbyrender.jpg" %}
 
-{% include figure.html class="img-right" width="33%" caption="Roy W. Johnson" src="images/johnson-center-roy.jpg" %}
 
-### About Roy W. Johnson
+### About Roy W. Johnson {% include figure.html class="img-right" width="33%" caption="Roy W. Johnson" src="images/johnson-center-roy.jpg" %}
 Roy W. Johnson, born 1892 in Grand Rapids, Michigan, joined UNM Faculty in 1920 as head coach of the Football, Basketball, and Track team while also establishing the beginnings of a physical education program. He was an all around athletic man who broke records in strong man competitions in 1915, dabbled in theater like playing the role of Hamlet, and was a mainstay in the Michigan football team in 1919 after returning from his service in the army. He spent 37 years as head coach for these teams and a few others here and in 1952 was reminded of his part in the lives of all UNM athletes and the great impact he made to UNM.
 
 ---
