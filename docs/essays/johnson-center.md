@@ -32,3 +32,7 @@ Roy W. Johnson, born 1892 in Grand Rapids, Michigan, joined UNM Faculty in 1920 
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Stack 12 Drawer 2. Center for Southwest Research, University Libraries, University of New Mexico.
 
 - University of New Mexico. Dept. of Facility Planning Records, 1889-, Collection UNMA 028, Stack 8 Drawer 2. Center for Southwest Research, University Libraries, University of New Mexico.
+
+- Williams, Katie. "Johnson Center Expansion and Renovation Makes Significant Progress." UNM Newsroom. February 16, 2019. Accessed May 11, 2019. https://news.unm.edu/news/johnson-center-expansion-and-renovation-makes-significant-progress.
+
+-"Recreational Services." Our Mission :: Recreational Services | The University of New Mexico. Accessed May 11, 2019. https://recservices.unm.edu/about-us/index.html.
