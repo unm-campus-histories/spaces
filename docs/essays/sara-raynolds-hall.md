@@ -40,8 +40,15 @@ Correspondence between UNM and [The Works Progress Administration](https://www.p
 
 ## Sara Raynolds Hall Shifts Use
 
-In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places and the New Mexico Register of Cultural Properties in 1988. Today it is used for …..fill in the blank.  
+In 1963, the College of Education Complex was completed and included a new Home Economics Building as part of its plan. Following that move, Sara Raynolds Hall was used as studios for graduate students in the Art Department. It was added to the National Register of Historic Places and the New Mexico Register of Cultural Properties in 1988. 
 
-{% include figure.html class="img-left" width="48%" caption="Commemoration of the new Home Economics Building, 1963. A time capsule was inserted behind this placard as part of the construction of the new Education Complex." src="images/srh-1960s-placard.jpg" %}
-{% include figure.html class="img-left" width="48%" caption="Sara Raynolds Hall today, looking north from Central Avenue through the Ponderosa Pines of Parson's Grove" src="images/srh-south-facade.JPG" %}
+{% include figure.html class="img-left" width="100%" caption="Commemoration of the new Home Economics Building, 1963. A time capsule was inserted behind this placard as part of the construction of the new Education Complex." src="images/srh-1960s-placard.jpg" %}
 
+## Sara Raynolds Hall Today: 
+As the needs of a community change, how do we respect the integrity of an historic space while finding a use that keeps it relevant for contemporary society? UNM no longer needs a building dedicated to the study of Home Economics so Sara Raynolds Hall is now used for offices and testing. Sara Raynolds is largely forgotten while the likes of E.B. Christy and Arno Leupold are remembered only by a select few. Even the study of Home Economics is more often misunderstood than 
+
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/essays/images/srh-front-facade.JPG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/srh-south-facade.JPG"/></div>
+  <div><img src="{{ site.baseurl }}/essays/images/srh-NE-facade.JPG"/></div>
+</div>
