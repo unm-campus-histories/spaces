@@ -28,6 +28,8 @@ Maxine Porter - [Anthropology Building](essays/anthropology)
 
 Johnny Desiderio - [Coronado Hall](essays/coronado-hall)
 
+Armando Uyarra - [Johnson Center](essays/johnson-center)
+
 Jared Lucero - ["Modern Art"](essays/modern-art)
 
 Jacob Brown - [Dane Smith Hall](essays/dane-smith-hall)
