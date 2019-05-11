@@ -9,7 +9,7 @@ date: 2019-03-25
 # Johnson Center
 
 ### What Its About
-figure.html class="img-right" width="40%" caption="Johnson Gym's West Entrance" src="images/johnson-center-currententrance.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Johnson Gym West Entrance" src="images/johnson-center-currententrance.jpg" %}
 Johnson Center was completed in 1957 in the southern area of the main UNM campus with the purpose of bringing physical and recreational intelligence to the students of UNM. Named after a prestigious head coach of UNM, Roy W. Johnson, the gymnasium hosted basketball games, volleyball games, physical education courses, and has of course undergone a handful of renovations. Today it still holds up as the physical education and recreation institution for students at UNM, solidifying its importance as a part of the Main Campus.
 
 ### Having A Presence
