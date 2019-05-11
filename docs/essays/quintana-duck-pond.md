@@ -22,9 +22,9 @@ The original plan for the area was developed by Garret Eckbo who is known for hi
 ## Name & Criticism
 Original it was called the lake or University Pond, but early on students coined the name Duck Pond after it became an instant hit with the students in the fall of 1975. the *Daily Lobo* on the other hand referred to as a concrete lake, even thought there was no concrete used, but clay instead.the *Daily Lobo* also called it the No-Name pond, and criticized it constantly referring to it as the height of tackiness, obtrusive, and inappropriate. Professor Emeritus T. M. Pearce referred to it as the Pond of No Return, and suggested it should be bulldozed and returned to nature.
 
-{% include figure.html class="img-left" width="49%" caption="A letter of complaint against the pond sent to the Campus planning committee from Tom Zepper, Assistant Dean." src="images/duck-pond-0004.png" %}
+{% include figure.html class="img-left" width="48%" caption="A letter of complaint against the pond sent to the Campus planning committee from Tom Zepper, Assistant Dean." src="images/duck-pond-0004.png" %}
 
-{% include figure.html class="img-right" width="49%" caption="An article from the Daily Lobo published October 8, 1975 referring to the Duck Pond as the Concrete Pond." src="images/duck-pond-0003.png" %}
+{% include figure.html class="img-right" width="48%" caption="An article from the Daily Lobo published October 8, 1975 referring to the Duck Pond as the Concrete Pond." src="images/duck-pond-0003.png" %}
 
 ## Wildlife
 The Duck Pond was filled for the first time in February of 1976. Trout and other wild fish were original introduced into the water, but people also released ducks and goldfish. Goldfish thrived and ducks quickly became overpopulated, the wild fish however struggled, because they weren't acclimated to the warm water. During a scheduled cleaning in the winter of 1984 the ducks were relocated to the South Campus Golf Course Pond. During this time the ducks became wild and after cleaning they were unable to be captured, so people were asked to donate new ducks.
