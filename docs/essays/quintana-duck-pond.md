@@ -33,3 +33,8 @@ The Duck Pond was filled for the first time in February of 1976. Trout and other
 Since construction a walk was installed around the perimited. Small rocks were removed because small children would pick them up and throw them in. For students the Duck Pond is used for lounging, sunbathing, and as a place to eat lunch and/or study. Families come to the pond and surrounding grass area to have picnics. Weddings have been held on the at on the peninsula and the bridge is a popular place for photos. 
 
 {% include figure.html class="img-left" width="50%" caption="An island within the duck pond with a tree on it that no longer exist in the present." src="images/duck-pond-0005.png" %}
+
+## Bibliography
+Hooker, Van Dorn, Melissa Howard, and V. B Price. Only in New Mexico: An Architectural History of the University of New Mexico: The First Century, 1889-1989. Albuquerque, NM: University of New Mexico Press, 2000.
+
+University of New Mexico Dept. of Facility Planning Records, 1889-ongoing, UNMA028, Box 57
