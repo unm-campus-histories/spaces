@@ -132,8 +132,6 @@ The humanities are an important part of UNM's culture and structure. All incomin
 
 Because of this, the Humanities building occupies an important space, not only just geographically on campus, but also intellectually and experientially for the vast majority of the student population. 
 
-
-
 #### Bibliography
 
 - W. C. Kruger Architectural Drawings (unprocessed collection), stack 38, University of New Mexico Center for Southwest Research, University Libraries, University of New Mexico.
